@@ -1,0 +1,35 @@
+.product__item {
+    display: flex;
+    border-bottom: 2px solid #e3e3e3;
+    padding: 30px 0;
+}
+.product__desc {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.product__image {
+    flex-shrink: 0;
+    max-height: 190px;
+    height: auto;
+    width: auto;
+    max-width: 100%;
+    align-self: flex-start;
+    margin-right: 20px;
+}
+.product__title {
+    font-weight: 600;
+}
+.product__price {
+    font-weight: 600;
+}
+.product__add-btn {
+    border: 2px solid #0156FF;
+    font-weight: 600;
+    color: white;
+    background-color: #0156FF;
+    border-radius: 6px;
+    padding: 5px 10px;
+    width: fit-content;
+    cursor: pointer;
+}
