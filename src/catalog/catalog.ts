@@ -1,4 +1,5 @@
-{
+
+export const catalog = {
 	"products": [
 		{
 			"id": 0,

@@ -1,18 +1,29 @@
 import React, {FC} from 'react';
 import './productItem.css';
+import {IProduct} from "../../../store/interfaces/interfaces";
 
-const ProductItem: FC = () => {
+const ProductItem: FC<IProduct> = ({
+									   id,
+									   title,
+									   brand,
+									   category,
+									   price,
+									   img
+								   }) => {
 	return (
 		<li className="product__item">
-			<img className="product__image" src="https://cdn1.ozone.ru/s3/multimedia-l/wc250/6260084541.jpg"
+			<div className="product__image-container">
+			<img className="product__image"
+				 src={img}
 				 alt="product image"/>
+			</div>
 			<div className="product__desc">
-				<span className="product__title">11.6" Ноутбук Asus L210MA-GJ243T, Intel Celeron N4020 (1.1 ГГц),
-					RAM 4 ГБ, eMMC 128 ГБ, Intel UHD Graphics 600, Windows Home, (90NB0R41-M09020), синий</span>
-				<span className="product__category">Ноутбуки</span>
-				<span className="product__brand">Asus</span>
-				<span className="product__price">$983.7</span>
-				<button className="product__add-btn">Добавить в корзину</button>
+				<span className="product__title">{title}</span>
+				<span className="product__category">Тип: {category}</span>
+				<span className="product__brand">Бренд: {brand}</span>
+				<span className="product__price">${price}</span>
+				<button className="product__add-btn">В корзину</button>
+				<span className="product__article">Article: {id+1}</span>
 			</div>
 		</li>
 	);

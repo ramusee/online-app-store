@@ -1,15 +1,21 @@
 .header {
     border-bottom: 1px solid #ededed;
+
 }
 
 .header__main {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    height: 80px;
 }
 
 .cart__icon {
     width: 30px;
+}
+
+.cart__icon:hover {
+   opacity: .6;
 }
 
 .header__cart {
@@ -22,20 +28,17 @@
     cursor: pointer;
 }
 
-.cart__title {
-    font-family: "Roboto", sans-serif;
-    font-size: 19px;
-    font-weight: 500;
-}
-
 .header__logo {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    gap: 10px;
 }
+
 .logo__image {
     margin: 0;
 }
+
 .logo__text {
     font-size: 23px;
     font-weight: 500;

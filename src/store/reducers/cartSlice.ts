@@ -1,19 +1,20 @@
-import {createSlice, PayloadAction} from "@reduxjs/toolkit";
-import {ICartState} from "../interfaces/interfaces";
+import {createSlice} from "@reduxjs/toolkit";
+import {IProductsState} from "../interfaces/interfaces";
+import {catalog} from "../../catalog/catalog";
 
-const initialState: ICartState = {
-	products: [],
+const productsList = JSON.parse(JSON.stringify(catalog))
+
+const initialState: IProductsState = {
+	all: productsList.products,
+	visible: [],
 	cartsProducts: [],
 };
 
-
-export const cartSlice = createSlice({
+export const productSlice = createSlice({
 	name: 'cartSlice',
 	initialState,
 	reducers: {
-		addProduct(state, action: PayloadAction<string>) {
-		}
 	}
 });
 
-export default cartSlice.reducer;
+export default productSlice.reducer;
