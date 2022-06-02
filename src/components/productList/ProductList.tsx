@@ -1,14 +1,21 @@
-import React, {FC} from 'react';
+import React, {FC, useState} from 'react';
 import ProductItem from "./productItem/ProductItem";
 import './productList.css';
 import {useAppSelector} from "../../store/hooks/hooksRedux";
+import {productAPI} from "../../services/productService";
 
 const ProductList: FC = () => {
-	const {all} = useAppSelector(state => state.productReducer);
+	const [limit, setLimit] = useState(20);
+	const {all} = useAppSelector(state => state.mainReducer);
+
+
+	const {data: products, error, isLoading} = productAPI.useFetchAllProductsQuery(limit);
 
 	return (
-		<ul className="product-list">
-			{all?.map(item => (
+		<div className="product-list">
+			{isLoading && <h2 className="product-list__message">Загрузка...</h2>}
+			{error && <h2 className="product-list__message">Не удалось загрузить товары</h2>}
+			{products && <ul>{products.map(item => (
 				<ProductItem key={item.id}
 							 id={item.id}
 							 brand={item.brand}
@@ -18,7 +25,9 @@ const ProductList: FC = () => {
 							 img={item.img}
 				/>
 			))}
-		</ul>
+			</ul>
+			}
+		</div>
 	);
 };
 

@@ -3,3 +3,7 @@
     flex-direction: column;
     margin: 20px 0 0;
 }
+.product-list__message {
+    display: inline-block;
+    margin: 50px auto;
+}

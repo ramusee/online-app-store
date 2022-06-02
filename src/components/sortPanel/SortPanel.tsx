@@ -3,14 +3,15 @@ import './sortPanel.css';
 import {useAppSelector} from "../../store/hooks/hooksRedux";
 
 const SortPanel: FC = () => {
-	const {all} = useAppSelector(state => state.productReducer);
+	const {all, visible} = useAppSelector(state => state.mainReducer);
 
 	return (
 		<div className="sort-panel">
 			<div className="container">
 				<span className="result-counter">
-					Найдено: {all?.length} товаров
+					Найдено: {visible?.length} товаров
 				</span>
+
 			</div>
 		</div>
 	);

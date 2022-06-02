@@ -19,7 +19,12 @@ export interface IDescription {
 	"Операционная система: ": string;
 }
 export interface IProductsState {
-	all?: IProduct[];
+	all: IProduct[];
 	visible: IProduct[]
 	cartsProducts: IProduct[];
+	isLoading: boolean;
+	error: string;
+}
+export interface ICategoryRu {
+	[key: string]: string;
 }

@@ -1,5 +1,6 @@
 import React, {FC} from 'react';
 import {useForm} from "react-hook-form";
+import './searchBar.css';
 
 const SearchBar: FC = () => {
 	const {
@@ -9,7 +10,7 @@ const SearchBar: FC = () => {
 		},
 		handleSubmit,
 		reset
-	} = useForm({mode: "onBlur"});
+	} = useForm();
 
 	const onSubmit = handleSubmit(data => {
 		console.log(data);
@@ -17,18 +18,14 @@ const SearchBar: FC = () => {
 	});
 
 	return (
-		<form onSubmit={onSubmit}>
+		<form className="search-bar" onSubmit={onSubmit}>
 			<input {...register('search', {
-				required: 'Поле обязательно для заполнения',
-				minLength: {
-					value: 3,
-					message: 'Минимум 3 символа'
-				}
+				minLength: 3,
 			})}
 				   type="text"
+				   className="search-bar__input"
 				   placeholder="Поиск товара"/>
-			<input type="submit"/>
-			<div>{errors?.search && <p>{errors?.search?.message || 'Error'}</p>}</div>
+			<input className="search-bar__button" type="submit" value=""/>
 		</form>
 	);
 };
