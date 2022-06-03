@@ -3,8 +3,6 @@ import './productItem.css';
 import {IProduct} from "../../../interfaces/interfaces";
 import {categoryRu} from "../../../RuHelpers/RuObjects";
 
-
-
 const ProductItem: FC<IProduct> = ({
 									   id,
 									   title,
@@ -16,9 +14,9 @@ const ProductItem: FC<IProduct> = ({
 	return (
 		<li className="product__item">
 			<div className="product__image-container">
-			<img className="product__image"
-				 src={img}
-				 alt="product image"/>
+				<img className="product__image"
+					 src={img}
+					 alt="product image"/>
 			</div>
 			<div className="product__desc">
 				<span className="product__title">{title}</span>
@@ -26,7 +24,7 @@ const ProductItem: FC<IProduct> = ({
 				<span className="product__brand">Бренд: {brand}</span>
 				<span className="product__price">{price} ₽</span>
 				<button className="product__add-btn">В корзину</button>
-				<span className="product__article">Article: {id+1}</span>
+				<span className="product__article">Article: {id + 1}</span>
 			</div>
 		</li>
 	);

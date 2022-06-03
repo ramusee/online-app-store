@@ -1,8 +1,7 @@
-import React, {FC, useState} from 'react';
+import React, {FC} from 'react';
 import ProductList from "../../components/productList/ProductList";
 
 const Home: FC = () => {
-
 	return (
 		<section className="home">
 				<ProductList />

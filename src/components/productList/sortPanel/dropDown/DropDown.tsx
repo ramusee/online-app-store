@@ -1,31 +1,37 @@
-import React, {FC, useContext} from 'react';
+import React, {FC, useContext, useState} from 'react';
 import {sortOptionsRu} from "../../../../RuHelpers/RuObjects";
 import SortContext from "../../Сontext";
-import {IPropsDropDown} from "../../../../interfaces/IProps";
+import './dropDown.css';
 
-const sortOptions = ['priceMin', 'priceMax', 'discount'];
+const sortOptions = ['discount', 'priceMin', 'priceMax'];
+const dropDownContentClasses = new Set(['dropdown__content']);
 
-const DropDown: FC<IPropsDropDown> = ({onSetIsActive}) => {
-	const value = useContext(SortContext)
-	const optionsElem = sortOptions.map(option => (
-			<div className="options__item"
+const DropDown: FC = () => {
+	const [isActive, setIsActive] = useState(false);
+	const value = useContext(SortContext);
+	const sort = value ? value.sort : 'discount';
+	const dropDownItems = sortOptions.map(option => (
+			<div className="dropdown__item"
 				 key={option}
 				 onClick={() => {
-					 value?.onSetSort(option);
-					 onSetIsActive(false);
-				 }
+					 value?.onSetSort(option)
+					 setIsActive(false)
+				 	}
 				 }
 			>{sortOptionsRu[option]}
 			</div>
 		)
 	);
-
+	isActive
+		? dropDownContentClasses.add('active-sort')
+		: dropDownContentClasses.delete('active-sort');
 	return (
 		<div className="sort-panel__dropdown">
-			<div className="dropdown__btn">Сортировать:</div>
-			<div className="dropdown__content">
-				<div className="dropdown__item"></div>
-				<div className="dropdown__item"></div>
+			<button onClick={()=> setIsActive(!isActive)} className="dropdown__btn">
+				{sortOptionsRu[sort]}
+			</button>
+			<div className={Array.from(dropDownContentClasses).join(' ')}>
+				{dropDownItems}
 			</div>
 		</div>
 	);

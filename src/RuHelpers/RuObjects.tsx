@@ -1,4 +1,4 @@
-import {ICategoryRu, ISortOptionsRu} from "../interfaces/interfaces";
+import {ICategoryRu, ISortItemsRu} from "../interfaces/interfaces";
 
 export const categoryRu: ICategoryRu = {
 	Laptop: 'Ноутбук',
@@ -10,7 +10,7 @@ export const categoryRu: ICategoryRu = {
 	Tablet: 'Планшет',
 }
 
-export const sortOptionsRu: ISortOptionsRu = {
+export const sortOptionsRu: ISortItemsRu = {
 	priceMin: 'Сначала дешёвые',
 	priceMax: 'Сначала дорогие',
 	discount: 'По скидке',

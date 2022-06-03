@@ -10,16 +10,16 @@ const ProductList: FC = () => {
 	const [limit, setLimit] = useState(30);
 	const [page, setPage] = useState(1);
 	const [sort, setSort] = useState('discount');
-	const {data: products, error, isLoading} = useFetchAllProductsQuery({limit, page});
+	const {data: products, error, isLoading} = useFetchAllProductsQuery({limit, page, sort});
 
-	const productsLength = products?.length
+	const productsLength = products?.length;
 	const contextValue: IContextSortPanel = {
 		sort,
-		onSetLimit:setLimit,
-		onSetPage:setPage,
-		onSetSort:setSort,
+		onSetLimit: setLimit,
+		onSetPage: setPage,
+		onSetSort: setSort,
 		productsLength
-	}
+	};
 
 	return (<>
 			<SortContext.Provider value={contextValue}>
