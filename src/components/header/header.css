@@ -1,6 +1,5 @@
 .header {
     border-bottom: 1px solid #ededed;
-
 }
 
 .header__main {
@@ -41,5 +40,6 @@
 
 .logo__text {
     font-size: 23px;
-    font-weight: 500;
+    font-weight: 600;
+    color: #3a3a3a;
 }

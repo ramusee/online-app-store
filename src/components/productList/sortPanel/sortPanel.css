@@ -5,3 +5,7 @@
     box-shadow: 0px 1px 5px#ededed;
     color: #545454;
 }
+.sort-panel__content {
+    display: flex;
+    justify-content: space-between;
+}

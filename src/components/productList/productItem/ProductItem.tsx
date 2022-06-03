@@ -1,17 +1,9 @@
 import React, {FC} from 'react';
 import './productItem.css';
 import {IProduct} from "../../../interfaces/interfaces";
-import {ICategoryRu} from "../../../interfaces/interfaces";
+import {categoryRu} from "../../../RuHelpers/RuObjects";
 
-const categoryRu: ICategoryRu = {
-	Laptop: 'Ноутбук',
-	Smartphone: 'Смартфон',
-	TV: 'Телевизор',
-	Monoblock: 'Моноблок',
-	Printer: 'Принтер',
-	SmartWatch: 'Умные часы',
-	Tablet: 'Планшет',
-}
+
 
 const ProductItem: FC<IProduct> = ({
 									   id,
@@ -32,7 +24,7 @@ const ProductItem: FC<IProduct> = ({
 				<span className="product__title">{title}</span>
 				<span className="product__category">Тип: {categoryRu[category]}</span>
 				<span className="product__brand">Бренд: {brand}</span>
-				<span className="product__price">${price}</span>
+				<span className="product__price">{price} ₽</span>
 				<button className="product__add-btn">В корзину</button>
 				<span className="product__article">Article: {id+1}</span>
 			</div>

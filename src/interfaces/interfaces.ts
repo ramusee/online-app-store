@@ -28,3 +28,6 @@ export interface IProductsState {
 export interface ICategoryRu {
 	[key: string]: string;
 }
+export interface ISortOptionsRu {
+	[key: string]: string;
+}

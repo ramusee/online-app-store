@@ -12,9 +12,9 @@
         "Видеокарта: ": "Intel UHD Graphics 600",
         "Операционная система: ": "Windows Home"
       },
-      "price": 983.7,
+      "price": 18494,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-l/wc250/6260084541.jpg",
       "isChoise": true,
       "count": 1
@@ -31,9 +31,9 @@
         "Видеокарта: ": "Intel UHD Graphics 605",
         "Операционная система: ": "Windows Home"
       },
-      "price": 1150.21,
+      "price": 21624,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-j/wc250/6127326511.jpg",
       "isChoise": true,
       "count": 1
@@ -50,9 +50,9 @@
         "Видеокарта: ": "Intel UHD Graphics",
         "Операционная система: ": "Без системы"
       },
-      "price": 1470.90,
+      "price": 27653,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-f/wc250/6074115303.jpg",
       "isChoise": true,
       "count": 1
@@ -69,9 +69,9 @@
         "Видеокарта: ": "Intel HD Graphics",
         "Операционная система: ": "Windows Home"
       },
-      "price": 520.45,
+      "price": 9784,
       "discount": 5,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-0/wc250/6162374076.jpg",
       "isChoise": true,
       "count": 1
@@ -88,9 +88,9 @@
         "Видеокарта: ": "Intel HD Graphics 600",
         "Операционная система: ": "Windows Home"
       },
-      "price": 932.47,
+      "price": 17530,
       "discount": 10,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-a/wc250/6141818158.jpg",
       "isChoise": true,
       "count": 1
@@ -107,9 +107,9 @@
         "Видеокарта: ": "AMD Radeon Graphics",
         "Операционная система: ": "Без системы"
       },
-      "price": 1214.79,
+      "price": 22838,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-6/wc250/6026640582.jpg",
       "isChoise": true,
       "count": 1
@@ -126,9 +126,9 @@
         "Видеокарта: ": "AMD Radeon Graphics",
         "Операционная система: ": "Windows Home"
       },
-      "price": 1572.06,
+      "price": 29555,
       "discount": 5,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-i/wc250/6155684538.jpg",
       "isChoise": true,
       "count": 1
@@ -145,9 +145,9 @@
         "Видеокарта: ": "Intel HD Graphics 600",
         "Операционная система: ": "Windows Pro"
       },
-      "price": 1420.69,
+      "price": 26709,
       "discount": 15,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-a/wc250/6255363850.jpg",
       "isChoise": true,
       "count": 1
@@ -164,9 +164,9 @@
         "Общий объем eMMC, ГБ: ": "128",
         "Видеокарта: ": "Intel HD Graphics 500"
       },
-      "price": 1678.72,
+      "price": 31560,
       "discount": 5,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-v/wc250/6255408727.jpg",
       "isChoise": true,
       "count": 1
@@ -183,9 +183,9 @@
         "Процессор: ": "Snapdragon 870 (8 ядер), 3.2 ГГц",
         "Основной материал корпуса: ": "Стекло"
       },
-      "price": 2213.47,
+      "price": 41613,
       "discount": 12,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-0/c250/6076061412.jpg",
       "isChoise": true,
       "count": 1
@@ -202,9 +202,9 @@
         "Процессор: ": "SC9863A (8 ядер), 1.6 ГГц",
         "Основной материал корпуса: ": "Пластик"
       },
-      "price": 349.97,
+      "price": 6579,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-1/c250/6267878017.jpg",
       "isChoise": true,
       "count": 1
@@ -221,9 +221,9 @@
         "Процессор: ": "SC7731E (4 ядра), 1.3 ГГц",
         "Основной материал корпуса: ": "Пластик"
       },
-      "price": 218.08,
+      "price": 4100,
       "discount": 15,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-1/c250/6273969685.jpg",
       "isChoise": true,
       "count": 1
@@ -240,9 +240,9 @@
         "Процессор: ": "Helio G85 (8 ядер), 2.0 ГГц",
         "Основной материал корпуса: ": "Пластик"
       },
-      "price": 597.79,
+      "price": 11238,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-y/c250/6139525522.jpg",
       "isChoise": true,
       "count": 1
@@ -259,9 +259,9 @@
         "Процессор: ": "Helio G25 (8 ядер), 2.0 ГГц",
         "Основной материал корпуса: ": "Пластик"
       },
-      "price": 404.83,
+      "price": 7611,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-3/c250/6019317963.jpg",
       "isChoise": true,
       "count": 1
@@ -278,9 +278,9 @@
         "Основной материал корпуса: ": "Пластик",
         "Беспроводные интерфейсы: ": "Bluetooth, NFC, Wi-Fi"
       },
-      "price": 597.79,
+      "price": 11238,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-c/c250/6239851884.jpg",
       "isChoise": true,
       "count": 1
@@ -297,9 +297,9 @@
         "Процессор: ": "T610 (8 ядер), 1.8 ГГц",
         "Основной материал корпуса: ": "Пластик"
       },
-      "price": 410.16,
+      "price": 7711,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-y/c250/6132871498.jpg",
       "isChoise": true,
       "count": 1
@@ -316,9 +316,9 @@
         "Процессор: ": "SC9863 (8 ядер), 1.6 ГГц",
         "Основной материал корпуса: ": "Пластик"
       },
-      "price": 423.29,
+      "price": 7958,
       "discount": 5,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-h/c250/6228702977.jpg",
       "isChoise": true,
       "count": 1
@@ -335,9 +335,9 @@
         "Процессор: ": "Snapdragon 860 (8 ядер), 2.96 ГГц",
         "Основной материал корпуса: ": "Пластик"
       },
-      "price": 1789.42,
+      "price": 33641,
       "discount": 20,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-f/c250/6057261471.jpg",
       "isChoise": true,
       "count": 1
@@ -354,9 +354,9 @@
         "Процессор: ": "SC9863A (8 ядер), 1.6 ГГц",
         "Основной материал корпуса: ": "Пластик"
       },
-      "price": 350.69,
+      "price": 6593,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-m/c250/6058807426.jpg",
       "isChoise": true,
       "count": 1
@@ -373,9 +373,9 @@
         "Smart TV: ": "Да",
         "Тип подсветки: ": "Direct LED"
       },
-      "price": 3168.87,
+      "price": 59575,
       "discount": 15,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-w/wc250/6271462964.jpg",
       "isChoise": true,
       "count": 1
@@ -392,9 +392,9 @@
         "Smart TV: ": "Нет",
         "Тип подсветки: ": "Direct LED"
       },
-      "price": 1286.22,
+      "price": 24181,
       "discount": 10,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-4/wc250/6275455192.jpg",
       "isChoise": true,
       "count": 1
@@ -411,9 +411,9 @@
         "Smart TV: ": "Нет",
         "Тип подсветки: ": "Direct LED"
       },
-      "price": 949.80,
+      "price": 17856,
       "discount": 12,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-p/wc250/6273758389.jpg",
       "isChoise": true,
       "count": 1
@@ -430,9 +430,9 @@
         "Smart TV: ": "Да",
         "Тип подсветки: ": "Direct LED"
       },
-      "price": 1468.66,
+      "price": 27611,
       "discount": 15,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-8/wc250/6213103664.jpg",
       "isChoise": true,
       "count": 1
@@ -449,9 +449,9 @@
         "Smart TV: ": "Да",
         "Тип подсветки: ": "Direct LED"
       },
-      "price": 2862.26,
+      "price": 53810,
       "discount": 20,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-4/wc250/6068304352.jpg",
       "isChoise": true,
       "count": 1
@@ -468,9 +468,9 @@
         "Smart TV: ": "Да",
         "Тип подсветки: ": "Edge LED"
       },
-      "price": 2392.51,
+      "price": 44979,
       "discount": 15,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-c/wc250/6064893432.jpg",
       "isChoise": true,
       "count": 1
@@ -487,9 +487,9 @@
         "Тип подсветки: ": "Direct LED",
         "Беспроводные интерфейсы: ": "ИК-порт"
       },
-      "price": 1247.41,
+      "price": 23451,
       "discount": 10,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-q/wc250/6015911702.jpg",
       "isChoise": true,
       "count": 1
@@ -506,9 +506,9 @@
         "Smart TV: ": "Нет",
         "Тип подсветки: ": "Direct LED"
       },
-      "price": 1014.50,
+      "price": 19073,
       "discount": 20,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-q/wc250/6213069662.jpg",
       "isChoise": true,
       "count": 1
@@ -525,9 +525,9 @@
         "Smart TV: ": "Нет",
         "Тип подсветки: ": "Direct LED"
       },
-      "price": 898.04,
+      "price": 16883,
       "discount": 17,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-2/wc250/6212875094.jpg",
       "isChoise": true,
       "count": 1
@@ -544,9 +544,9 @@
         "Тип подсветки: ": "Direct LED",
         "Беспроводные интерфейсы: ": "Wi-Fi"
       },
-      "price": 2392.51,
+      "price": 44979,
       "discount": 15,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-w/wc250/6212814500.jpg",
       "isChoise": true,
       "count": 1
@@ -563,9 +563,9 @@
         "Видеокарта: ": "Intel UHD Graphics",
         "Операционная система: ": "Windows Home"
       },
-      "price": 1300.62,
+      "price": 24452,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-4/wc250/6150281176.jpg",
       "isChoise": true,
       "count": 1
@@ -582,9 +582,9 @@
         "Видеокарта: ": "Intel UHD Graphics",
         "Операционная система: ": "Без системы"
       },
-      "price": 1509.39,
+      "price": 28377,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-2/wc250/6148556918.jpg",
       "isChoise": true,
       "count": 1
@@ -601,9 +601,9 @@
         "Видеокарта: ": "AMD Radeon R5",
         "Операционная система: ": "Windows Home"
       },
-      "price": 1553.33,
+      "price": 29203,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-n/wc250/6284066015.jpg",
       "isChoise": true,
       "count": 1
@@ -620,9 +620,9 @@
         "Видеокарта: ": "AMD Radeon Graphics",
         "Операционная система: ": "Без системы"
       },
-      "price": 1695.68,
+      "price": 31879,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-m/wc250/6182467606.jpg",
       "isChoise": true,
       "count": 1
@@ -639,9 +639,9 @@
         "Видеокарта: ": "Intel Iris Xe Graphics",
         "Операционная система: ": "Windows Home"
       },
-      "price": 2591.05,
+      "price": 48712,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-d/wc250/6204399481.jpg",
       "isChoise": true,
       "count": 1
@@ -658,9 +658,9 @@
         "Видеокарта: ": "AMD Radeon Graphics",
         "Операционная система: ": "Без системы"
       },
-      "price": 1814.01,
+      "price": 34103,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-x/wc250/6045478077.jpg",
       "isChoise": true,
       "count": 1
@@ -677,9 +677,9 @@
         "Общий объем HDD, ГБ: ": "1000",
         "Видеокарта: ": "Intel Iris Xe Graphics"
       },
-      "price": 2788.27,
+      "price": 52419,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-s/wc250/6153657136.jpg",
       "isChoise": true,
       "count": 1
@@ -696,9 +696,9 @@
         "Видеокарта: ": "Intel UHD Graphics",
         "Операционная система: ": "Без системы"
       },
-      "price": 2098.01,
+      "price": 39443,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-k/wc250/6233833664.jpg",
       "isChoise": true,
       "count": 1
@@ -715,9 +715,9 @@
         "Видеокарта: ": "Intel UHD Graphics 620",
         "Операционная система: ": "Windows Home"
       },
-      "price": 3705.5,
+      "price": 69663,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-o/wc250/6177620496.jpg",
       "isChoise": true,
       "count": 1
@@ -734,9 +734,9 @@
         "Видеокарта: ": "Intel UHD Graphics",
         "Операционная система: ": "Без системы"
       },
-      "price": 1544.97,
+      "price": 29045,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-f/wc250/6227406795.jpg",
       "isChoise": true,
       "count": 1
@@ -753,9 +753,9 @@
         "Видеокарта: ": "Intel UHD Graphics",
         "Операционная система: ": "Windows Home"
       },
-      "price": 1715.52,
+      "price": 32252,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-u/wc250/6089501718.jpg",
       "isChoise": true,
       "count": 1
@@ -772,9 +772,9 @@
         "Видеокарта: ": "NVIDIA GeForce GTX 1650 (4 Гб)",
         "Операционная система: ": "Windows Home"
       },
-      "price": 2930.27,
+      "price": 55089,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-m/wc250/6259059190.jpg",
       "isChoise": true,
       "count": 1
@@ -791,9 +791,9 @@
         "Видеокарта: ": "Intel UHD Graphics",
         "Операционная система: ": "Windows Home"
       },
-      "price": 1918.82,
+      "price": 36074,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-d/wc250/6165783973.jpg",
       "isChoise": true,
       "count": 1
@@ -810,9 +810,9 @@
         "Видеокарта: ": "AMD Radeon Vega 8",
         "Операционная система: ": "Windows Pro"
       },
-      "price": 2007.8,
+      "price": 37747,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-k/wc250/6155775404.jpg",
       "isChoise": true,
       "count": 1
@@ -829,9 +829,9 @@
         "Общий объем HDD, ГБ: ": "1000",
         "Видеокарта: ": "AMD Radeon Vega 8"
       },
-      "price": 2675.42,
+      "price": 50298,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-w/wc250/6052641608.jpg",
       "isChoise": true,
       "count": 1
@@ -848,9 +848,9 @@
         "Общий объем HDD, ГБ: ": "0",
         "Видеокарта: ": "Intel UHD Graphics 605"
       },
-      "price": 1572.11,
+      "price": 29556,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-h/wc250/6014151041.jpg",
       "isChoise": true,
       "count": 1
@@ -867,9 +867,9 @@
         "Видеокарта: ": "AMD Radeon Graphics",
         "Операционная система: ": "Windows Home"
       },
-      "price": 1616.8,
+      "price": 30396,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-6/wc250/6029889222.jpg",
       "isChoise": true,
       "count": 1
@@ -886,9 +886,9 @@
         "Общий объем HDD, ГБ: ": "0",
         "Видеокарта: ": "Intel UHD Graphics 605"
       },
-      "price": 1328.94,
+      "price": 24984,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-d/wc250/6226669909.jpg",
       "isChoise": true,
       "count": 1
@@ -905,9 +905,9 @@
         "Общий объем HDD, ГБ: ": "0",
         "Видеокарта: ": "Intel UHD Graphics 605"
       },
-      "price": 1629.54,
+      "price": 30635,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-z/wc250/6226670399.jpg",
       "isChoise": true,
       "count": 1
@@ -924,9 +924,9 @@
         "Видеокарта: ": "Intel UHD Graphics 600",
         "Операционная система: ": "Windows Home"
       },
-      "price": 1147.42,
+      "price": 21571,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-p/wc250/6179072125.jpg",
       "isChoise": true,
       "count": 1
@@ -943,9 +943,9 @@
         "Общий объем HDD, ГБ: ": "0",
         "Видеокарта: ": "Intel UHD Graphics"
       },
-      "price": 2630.89,
+      "price": 49461,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-k/wc250/6260084540.jpg",
       "isChoise": true,
       "count": 1
@@ -962,9 +962,9 @@
         "Видеокарта: ": "Intel UHD Graphics",
         "Операционная система: ": "Windows Home"
       },
-      "price": 1653.95,
+      "price": 31094,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-p/wc250/6157852753.jpg",
       "isChoise": true,
       "count": 1
@@ -981,9 +981,9 @@
         "Операционная система: ": "Windows Home",
         "Диагональ экрана, дюймы: ": "14"
       },
-      "price": 2011.63,
+      "price": 37819,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-q/wc250/6139562126.jpg",
       "isChoise": true,
       "count": 1
@@ -1000,9 +1000,9 @@
         "Общий объем HDD, ГБ: ": "0",
         "Видеокарта: ": "Intel Iris Xe Graphics"
       },
-      "price": 3174.7,
+      "price": 59684,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-s/wc250/6229703212.jpg",
       "isChoise": true,
       "count": 1
@@ -1019,9 +1019,9 @@
         "Видеокарта: ": "Intel HD Graphics",
         "Операционная система: ": "Windows Home"
       },
-      "price": 1380.13,
+      "price": 25946,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-e/wc250/6287287934.jpg",
       "isChoise": true,
       "count": 1
@@ -1038,9 +1038,9 @@
         "Видеокарта: ": "NVIDIA GeForce MX130 (2 Гб)",
         "Операционная система: ": "Linux"
       },
-      "price": 2197.56,
+      "price": 41314,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-g/wc250/6189550780.jpg",
       "isChoise": true,
       "count": 1
@@ -1057,9 +1057,9 @@
         "Видеокарта: ": "Intel Iris Xe Graphics",
         "Операционная система: ": "Windows Home"
       },
-      "price": 3931.63,
+      "price": 73915,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-h/wc250/6225637325.jpg",
       "isChoise": true,
       "count": 1
@@ -1076,9 +1076,9 @@
         "Видеокарта: ": "NVIDIA GeForce RTX 3050 для ноутбуков (4 Гб)",
         "Операционная система: ": "Windows Home"
       },
-      "price": 3700.92,
+      "price": 69577,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-r/wc250/6225637119.jpg",
       "isChoise": true,
       "count": 1
@@ -1095,9 +1095,9 @@
         "Видеокарта: ": "NVIDIA GeForce MX130 (2 Гб)",
         "Операционная система: ": "Windows Home"
       },
-      "price": 1577.35,
+      "price": 29654,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-u/wc250/6122355606.jpg",
       "isChoise": true,
       "count": 1
@@ -1114,9 +1114,9 @@
         "Видеокарта: ": "NVIDIA GeForce RTX 3050 для ноутбуков (4 Гб)",
         "Операционная система: ": "Windows Home"
       },
-      "price": 3682.93,
+      "price": 69239,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-x/wc250/6258034785.jpg",
       "isChoise": true,
       "count": 1
@@ -1133,9 +1133,9 @@
         "Видеокарта: ": "NVIDIA GeForce GTX 1650 (4 Гб)",
         "Операционная система: ": "Без системы"
       },
-      "price": 3099.36,
+      "price": 58268,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-j/wc250/6275391811.jpg",
       "isChoise": true,
       "count": 1
@@ -1152,9 +1152,9 @@
         "Видеокарта: ": "NVIDIA GeForce MX130 (2 Гб)",
         "Операционная система: ": "Windows Home"
       },
-      "price": 1635.45,
+      "price": 30746,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-a/wc250/6167163310.jpg",
       "isChoise": true,
       "count": 1
@@ -1171,9 +1171,9 @@
         "Видеокарта: ": "NVIDIA GeForce MX330 (2 Гб)",
         "Операционная система: ": "Без системы"
       },
-      "price": 2597.48,
+      "price": 48833,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-y/wc250/6155787046.jpg",
       "isChoise": true,
       "count": 1
@@ -1190,9 +1190,9 @@
         "Видеокарта: ": "NVIDIA GeForce MX130 (2 Гб)",
         "Операционная система: ": "Windows Home"
       },
-      "price": 1749.13,
+      "price": 32884,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-z/wc250/6155787011.jpg",
       "isChoise": true,
       "count": 1
@@ -1209,9 +1209,9 @@
         "Видеокарта: ": "Intel UHD Graphics",
         "Операционная система: ": "Windows Home"
       },
-      "price": 1520.75,
+      "price": 28590,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-y/wc250/6238772158.jpg",
       "isChoise": true,
       "count": 1
@@ -1228,9 +1228,9 @@
         "Видеокарта: ": "Intel UHD Graphics",
         "Операционная система: ": "Windows Home"
       },
-      "price": 2008.43,
+      "price": 37758,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-k/wc250/6200837540.jpg",
       "isChoise": true,
       "count": 1
@@ -1247,9 +1247,9 @@
         "Видеокарта: ": "NVIDIA GeForce RTX 3050 для ноутбуков (4 Гб)",
         "Операционная система: ": "Без системы"
       },
-      "price": 4142.1,
+      "price": 77871,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-i/wc250/6167178114.jpg",
       "isChoise": true,
       "count": 1
@@ -1266,9 +1266,9 @@
         "Видеокарта: ": "Intel UHD Graphics",
         "Операционная система: ": "Windows Home"
       },
-      "price": 1914.95,
+      "price": 36001,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-0/wc250/6151144164.jpg",
       "isChoise": true,
       "count": 1
@@ -1285,9 +1285,9 @@
         "Общий объем HDD, ГБ: ": "0",
         "Видеокарта: ": "Intel UHD Graphics"
       },
-      "price": 1914.95,
+      "price": 36001,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-d/wc250/6195921301.jpg",
       "isChoise": true,
       "count": 1
@@ -1304,9 +1304,9 @@
         "Общий объем HDD, ГБ: ": "0",
         "Видеокарта: ": "Intel UHD Graphics"
       },
-      "price": 2222.14,
+      "price": 41776,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-i/wc250/6236657790.jpg",
       "isChoise": true,
       "count": 1
@@ -1323,9 +1323,9 @@
         "Видеокарта: ": "AMD Radeon Vega 7",
         "Операционная система: ": "Без системы"
       },
-      "price": 2663.47,
+      "price": 50073,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-9/wc250/6286924617.jpg",
       "isChoise": true,
       "count": 1
@@ -1342,9 +1342,9 @@
         "Видеокарта: ": "AMD Radeon Vega 7",
         "Операционная система: ": "Windows Home"
       },
-      "price": 2345.4,
+      "price": 44094,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-k/wc250/6138897236.jpg",
       "isChoise": true,
       "count": 1
@@ -1361,9 +1361,9 @@
         "Видеокарта: ": "AMD Radeon Vega 3",
         "Операционная система: ": "Без системы"
       },
-      "price": 2006.22,
+      "price": 37717,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-f/wc250/6001459815.jpg",
       "isChoise": true,
       "count": 1
@@ -1380,9 +1380,9 @@
         "Видеокарта: ": "Intel UHD Graphics",
         "Операционная система: ": "Windows Home"
       },
-      "price": 1441.39,
+      "price": 27098,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-0/wc250/6151144164.jpg",
       "isChoise": true,
       "count": 1
@@ -1399,9 +1399,9 @@
         "Общий объем HDD, ГБ: ": "0",
         "Видеокарта: ": "AMD Radeon Graphics"
       },
-      "price": 1392.95,
+      "price": 26187,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-h/wc250/6227699621.jpg",
       "isChoise": true,
       "count": 1
@@ -1418,9 +1418,9 @@
         "Видеокарта: ": "AMD Radeon Graphics",
         "Операционная система: ": "Windows Home"
       },
-      "price": 1222.36,
+      "price": 22980,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-2/wc250/6035709338.jpg",
       "isChoise": true,
       "count": 1
@@ -1437,9 +1437,9 @@
         "Видеокарта: ": "Intel Iris Xe Graphics",
         "Операционная система: ": "Windows Home"
       },
-      "price": 3196.47,
+      "price": 60094,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-u/wc250/6178192866.jpg",
       "isChoise": true,
       "count": 1
@@ -1456,9 +1456,9 @@
         "Видеокарта: ": "NVIDIA GeForce RTX 3050 для ноутбуков (4 Гб)",
         "Операционная система: ": "Без системы"
       },
-      "price": 3943.97,
+      "price": 74147,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-a/wc250/6280667134.jpg",
       "isChoise": true,
       "count": 1
@@ -1475,9 +1475,9 @@
         "Общий объем HDD, ГБ: ": "0",
         "Видеокарта: ": "Intel HD Graphics"
       },
-      "price": 2573.82,
+      "price": 48388,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-o/wc250/6118200048.jpg",
       "isChoise": true,
       "count": 1
@@ -1494,9 +1494,9 @@
         "Видеокарта: ": "AMD Radeon Graphics",
         "Операционная система: ": "Windows Home"
       },
-      "price": 2208.45,
+      "price": 41519,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-v/wc250/6256375975.jpg",
       "isChoise": true,
       "count": 1
@@ -1513,9 +1513,9 @@
         "Видеокарта: ": "Intel UHD Graphics",
         "Операционная система: ": "Windows Home"
       },
-      "price": 1233.96,
+      "price": 23198,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-d/wc250/6079316077.jpg",
       "isChoise": true,
       "count": 1
@@ -1532,9 +1532,9 @@
         "Операционная система: ": "Без системы",
         "Диагональ экрана, дюймы: ": "14"
       },
-      "price": 863.97,
+      "price": 16243,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-f/wc250/6168630963.jpg",
       "isChoise": true,
       "count": 1
@@ -1551,9 +1551,9 @@
         "Видеокарта: ": "AMD Radeon Vega 8",
         "Операционная система: ": "Без системы"
       },
-      "price": 1844.5,
+      "price": 34677,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-8/wc250/6167027264.jpg",
       "isChoise": true,
       "count": 1
@@ -1570,9 +1570,9 @@
         "Тип памяти: ": "DDR4",
         "Тип жесткого диска: ": "HDD"
       },
-      "price": 1169.39,
+      "price": 21985,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-r/wc250/6152946279.jpg",
       "isChoise": true,
       "count": 1
@@ -1589,9 +1589,9 @@
         "Видеокарта: ": "AMD Radeon Vega 8",
         "Операционная система: ": "Без системы"
       },
-      "price": 2703.63,
+      "price": 50828,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-g/wc250/6063172348.jpg",
       "isChoise": true,
       "count": 1
@@ -1608,9 +1608,9 @@
         "Время автономной работы, ч: ": "7.0",
         "Вес, кг: ": "1.69"
       },
-      "price": 2067.08,
+      "price": 38861,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-a/wc250/6271338706.jpg",
       "isChoise": true,
       "count": 1
@@ -1627,9 +1627,9 @@
         "Видеокарта: ": "Intel Iris Xe Graphics",
         "Операционная система: ": "Без системы"
       },
-      "price": 2863.96,
+      "price": 53842,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-6/wc250/6277540854.jpg",
       "isChoise": true,
       "count": 1
@@ -1646,9 +1646,9 @@
         "Видеокарта: ": "AMD Radeon Graphics",
         "Операционная система: ": "Windows Home"
       },
-      "price": 909.1,
+      "price": 17091,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-3/wc250/6154651179.jpg",
       "isChoise": true,
       "count": 1
@@ -1665,9 +1665,9 @@
         "Видеокарта: ": "Intel UHD Graphics",
         "Операционная система: ": "Windows Home"
       },
-      "price": 1380.33,
+      "price": 25950,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-c/wc250/6156161388.jpg",
       "isChoise": true,
       "count": 1
@@ -1684,9 +1684,9 @@
         "Видеокарта: ": "Intel UHD Graphics",
         "Операционная система: ": "Windows Home"
       },
-      "price": 1515.46,
+      "price": 28491,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-n/wc250/6156161147.jpg",
       "isChoise": true,
       "count": 1
@@ -1703,9 +1703,9 @@
         "Видеокарта: ": "NVIDIA GeForce RTX 3050 для ноутбуков (4 Гб)",
         "Операционная система: ": "Windows Home"
       },
-      "price": 4241.18,
+      "price": 79734,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-b/wc250/6140831327.jpg",
       "isChoise": true,
       "count": 1
@@ -1722,9 +1722,9 @@
         "Видеокарта: ": "Intel UHD Graphics 600",
         "Операционная система: ": "Без системы"
       },
-      "price": 1180.82,
+      "price": 22199,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-s/wc250/6149663692.jpg",
       "isChoise": true,
       "count": 1
@@ -1741,9 +1741,9 @@
         "Видеокарта: ": "AMD Radeon Graphics",
         "Операционная система: ": "Windows Home"
       },
-      "price": 1010.07,
+      "price": 18989,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-w/wc250/6159725732.jpg",
       "isChoise": true,
       "count": 1
@@ -1760,9 +1760,9 @@
         "Видеокарта: ": "NVIDIA GeForce RTX 3050 Ti для ноутбуков (4 Гб)",
         "Операционная система: ": "Windows Home"
       },
-      "price": 4219.49,
+      "price": 79326,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-n/wc250/6077303003.jpg",
       "isChoise": true,
       "count": 1
@@ -1779,9 +1779,9 @@
         "Операционная система: ": "Windows Pro",
         "Диагональ экрана, дюймы: ": "15.6"
       },
-      "price": 3592.53,
+      "price": 67540,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-n/wc250/6224558483.jpg",
       "isChoise": true,
       "count": 1
@@ -1798,9 +1798,9 @@
         "Видеокарта: ": "AMD Radeon Graphics",
         "Операционная система: ": "Без системы"
       },
-      "price": 1065.61,
+      "price": 20033,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-w/wc250/6159725732.jpg",
       "isChoise": true,
       "count": 1
@@ -1817,9 +1817,9 @@
         "Общий объем HDD, ГБ: ": "0",
         "Видеокарта: ": "NVIDIA GeForce RTX 3050 Ti для ноутбуков (4 Гб)"
       },
-      "price": 4223.82,
+      "price": 79408,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-4/wc250/6238896328.jpg",
       "isChoise": true,
       "count": 1
@@ -1836,9 +1836,9 @@
         "Видеокарта: ": "AMD Radeon Graphics",
         "Операционная система: ": "Windows Home"
       },
-      "price": 1228.51,
+      "price": 23096,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-d/wc250/6207681709.jpg",
       "isChoise": true,
       "count": 1
@@ -1855,9 +1855,9 @@
         "Видеокарта: ": "Intel UHD Graphics",
         "Операционная система: ": "Windows Home"
       },
-      "price": 1546.7,
+      "price": 29078,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-s/wc250/6153073324.jpg",
       "isChoise": true,
       "count": 1
@@ -1874,9 +1874,9 @@
         "Видеокарта: ": "AMD Radeon Graphics",
         "Операционная система: ": "Windows Home"
       },
-      "price": 1134.99,
+      "price": 21338,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-6/wc250/6155647662.jpg",
       "isChoise": true,
       "count": 1
@@ -1893,9 +1893,9 @@
         "Видеокарта: ": "AMD Radeon Graphics",
         "Операционная система: ": "Без системы"
       },
-      "price": 1614.19,
+      "price": 30347,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-k/wc250/6065112860.jpg",
       "isChoise": true,
       "count": 1
@@ -1912,9 +1912,9 @@
         "Видеокарта: ": "NVIDIA GeForce MX130 (2 Гб)",
         "Операционная система: ": "Без системы"
       },
-      "price": 1182.92,
+      "price": 22239,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-g/wc250/6165956884.jpg",
       "isChoise": true,
       "count": 1
@@ -1931,9 +1931,9 @@
         "Видеокарта: ": "AMD Radeon Graphics",
         "Операционная система: ": "Linux"
       },
-      "price": 3009.91,
+      "price": 56586,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-z/wc250/6128644235.jpg",
       "isChoise": true,
       "count": 1
@@ -1950,9 +1950,9 @@
         "Общий объем HDD, ГБ: ": "0",
         "Видеокарта: ": "AMD Radeon RX 5500M (4 Гб)"
       },
-      "price": 3289.09,
+      "price": 61835,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-f/wc250/6237135219.jpg",
       "isChoise": true,
       "count": 1
@@ -1969,9 +1969,9 @@
         "Видеокарта: ": "NVIDIA GeForce RTX 3050 для ноутбуков (4 Гб)",
         "Операционная система: ": "Без системы"
       },
-      "price": 4360.1,
+      "price": 81970,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-o/wc250/6088655028.jpg",
       "isChoise": true,
       "count": 1
@@ -1988,9 +1988,9 @@
         "Видеокарта: ": "NVIDIA GeForce RTX 3050 для ноутбуков (4 Гб)",
         "Операционная система: ": "Без системы"
       },
-      "price": 3367.74,
+      "price": 63314,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-p/wc250/6157361965.jpg",
       "isChoise": true,
       "count": 1
@@ -2007,9 +2007,9 @@
         "Видеокарта: ": "NVIDIA GeForce GTX 1650 (4 Гб)",
         "Операционная система: ": "Без системы"
       },
-      "price": 3549.53,
+      "price": 66731,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-k/wc250/6287984468.jpg",
       "isChoise": true,
       "count": 1
@@ -2026,9 +2026,9 @@
         "Видеокарта: ": "NVIDIA GeForce GTX 1650 Max-Q (4 Гб)",
         "Операционная система: ": "Без системы"
       },
-      "price": 3458.81,
+      "price": 65026,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-s/wc250/6173728828.jpg",
       "isChoise": true,
       "count": 1
@@ -2045,9 +2045,9 @@
         "Видеокарта: ": "NVIDIA GeForce RTX 3060 (6 Гб)",
         "Операционная система: ": "Без системы"
       },
-      "price": 5679.49,
+      "price": 106774,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-8/wc250/6287795096.jpg",
       "isChoise": true,
       "count": 1
@@ -2064,9 +2064,9 @@
         "Видеокарта: ": "AMD Radeon RX 6600 M (8 Гб)",
         "Операционная система: ": "Windows Home"
       },
-      "price": 4452.64,
+      "price": 83710,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-c/wc250/6165783864.jpg",
       "isChoise": true,
       "count": 1
@@ -2083,9 +2083,9 @@
         "Видеокарта: ": "NVIDIA GeForce GTX 1650 Max-Q (4 Гб)",
         "Операционная система: ": "Windows Home"
       },
-      "price": 4717.03,
+      "price": 88680,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-e/wc250/6125403638.jpg",
       "isChoise": true,
       "count": 1
@@ -2102,9 +2102,9 @@
         "Видеокарта: ": "NVIDIA GeForce RTX 3050 Ti для ноутбуков (4 Гб)",
         "Операционная система: ": "Windows Home"
       },
-      "price": 4579.53,
+      "price": 86095,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-6/wc250/6085573770.jpg",
       "isChoise": true,
       "count": 1
@@ -2121,9 +2121,9 @@
         "Общий объем HDD, ГБ: ": "0",
         "Видеокарта: ": "NVIDIA GeForce RTX 3070 Ti (8 Гб)"
       },
-      "price": 10429.14,
+      "price": 196068,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-g/wc250/6230812216.jpg",
       "isChoise": true,
       "count": 1
@@ -2140,9 +2140,9 @@
         "Видеокарта: ": "NVIDIA GeForce RTX 3050 для ноутбуков (4 Гб)",
         "Операционная система: ": "Без системы"
       },
-      "price": 3707.98,
+      "price": 69710,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-s/wc250/6085571812.jpg",
       "isChoise": true,
       "count": 1
@@ -2159,9 +2159,9 @@
         "Видеокарта: ": "NVIDIA GeForce RTX 3050 для ноутбуков (4 Гб)",
         "Операционная система: ": "Windows Home"
       },
-      "price": 3678.16,
+      "price": 69149,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-d/wc250/6157362025.jpg",
       "isChoise": true,
       "count": 1
@@ -2178,9 +2178,9 @@
         "Видеокарта: ": "NVIDIA GeForce RTX 3050 для ноутбуков (4 Гб)",
         "Операционная система: ": "Без системы"
       },
-      "price": 4887.07,
+      "price": 91877,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-d/wc250/6167151937.jpg",
       "isChoise": true,
       "count": 1
@@ -2197,9 +2197,9 @@
         "Видеокарта: ": "Intel Iris Xe Graphics",
         "Операционная система: ": "Windows Pro"
       },
-      "price": 5377.87,
+      "price": 101104,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-e/wc250/6182173406.jpg",
       "isChoise": true,
       "count": 1
@@ -2216,9 +2216,9 @@
         "Видеокарта: ": "AMD Radeon RX 6600 M (8 Гб)",
         "Операционная система: ": "Windows Home"
       },
-      "price": 5008.08,
+      "price": 94152,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-u/wc250/6156316854.jpg",
       "isChoise": true,
       "count": 1
@@ -2235,9 +2235,9 @@
         "Видеокарта: ": "Intel Iris Xe Graphics",
         "Операционная система: ": "Windows Pro"
       },
-      "price": 5664.46,
+      "price": 106492,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-i/wc250/6181767258.jpg",
       "isChoise": true,
       "count": 1
@@ -2254,9 +2254,9 @@
         "Видеокарта: ": "NVIDIA GeForce RTX 3050 Ti для ноутбуков (4 Гб)",
         "Операционная система: ": "Без системы"
       },
-      "price": 4177.91,
+      "price": 78545,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-i/wc250/6090049374.jpg",
       "isChoise": true,
       "count": 1
@@ -2273,9 +2273,9 @@
         "Видеокарта: ": "NVIDIA GeForce RTX 3050 Ti для ноутбуков (4 Гб)",
         "Операционная система: ": "Windows Home"
       },
-      "price": 4344.25,
+      "price": 81672,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-v/wc250/6127007059.jpg",
       "isChoise": true,
       "count": 1
@@ -2292,9 +2292,9 @@
         "Видеокарта: ": "NVIDIA GeForce RTX 3050 для ноутбуков (4 Гб)",
         "Операционная система: ": "Без системы"
       },
-      "price": 3437.44,
+      "price": 64624,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-p/wc250/6157361965.jpg",
       "isChoise": true,
       "count": 1
@@ -2311,9 +2311,9 @@
         "Видеокарта: ": "NVIDIA GeForce RTX 3050 для ноутбуков (4 Гб)",
         "Операционная система: ": "Windows Home"
       },
-      "price": 4627.61,
+      "price": 86999,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-8/wc250/6246083480.jpg",
       "isChoise": true,
       "count": 1
@@ -2330,9 +2330,9 @@
         "Тип памяти: ": "DDR3L",
         "Тип видеокарты: ": "Встроенная"
       },
-      "price": 1601.37,
+      "price": 30106,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-k/wc250/6286475672.jpg",
       "isChoise": true,
       "count": 1
@@ -2349,9 +2349,9 @@
         "Общий объем SSD, ГБ: ": "256",
         "Видеокарта: ": "NVIDIA GeForce MX330 (2 Гб)"
       },
-      "price": 2721.57,
+      "price": 51166,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-9/wc250/6100505133.jpg",
       "isChoise": true,
       "count": 1
@@ -2368,9 +2368,9 @@
         "Общий объем SSD, ГБ: ": "256",
         "Видеокарта: ": "Intel UHD Graphics 605"
       },
-      "price": 2134.53,
+      "price": 40129,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-6/wc250/6201210342.jpg",
       "isChoise": true,
       "count": 1
@@ -2387,9 +2387,9 @@
         "Общий объем HDD, ГБ: ": "0",
         "Общий объем SSD, ГБ: ": "256"
       },
-      "price": 1518.98,
+      "price": 28557,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-t/wc250/6191320985.jpg",
       "isChoise": true,
       "count": 1
@@ -2406,9 +2406,9 @@
         "Общий объем HDD, ГБ: ": "0",
         "Общий объем SSD, ГБ: ": "256"
       },
-      "price": 2362.28,
+      "price": 44411,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-t/wc250/6030687221.jpg",
       "isChoise": true,
       "count": 1
@@ -2425,9 +2425,9 @@
         "Общий объем SSD, ГБ: ": "512",
         "Видеокарта: ": "Intel Iris Xe Graphics"
       },
-      "price": 2920.8,
+      "price": 54911,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-k/wc250/6223916132.jpg",
       "isChoise": true,
       "count": 1
@@ -2444,9 +2444,9 @@
         "Общий объем SSD, ГБ: ": "1024",
         "Видеокарта: ": "Intel UHD Graphics"
       },
-      "price": 2294,
+      "price": 43127,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-e/wc250/6151249334.jpg",
       "isChoise": true,
       "count": 1
@@ -2463,9 +2463,9 @@
         "Общий объем SSD, ГБ: ": "256",
         "Видеокарта: ": "Intel Iris Xe Graphics"
       },
-      "price": 2602.1,
+      "price": 48919,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-8/wc250/6129004820.jpg",
       "isChoise": true,
       "count": 1
@@ -2482,9 +2482,9 @@
         "Оптический привод: ": "DVD-RW SuperMulti с поддержкой DualLayer",
         "Тип памяти: ": "DDR4"
       },
-      "price": 2050.68,
+      "price": 38553,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-w/wc250/6273858260.jpg",
       "isChoise": true,
       "count": 1
@@ -2501,9 +2501,9 @@
         "Видеокарта: ": "Intel Iris Xe Graphics",
         "Технология матрицы: ": "IPS"
       },
-      "price": 2441.56,
+      "price": 45901,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-p/wc250/6192086269.jpg",
       "isChoise": true,
       "count": 1
@@ -2520,9 +2520,9 @@
         "Общий объем SSD, ГБ: ": "256",
         "Видеокарта: ": "NVIDIA GeForce MX330 (2 Гб)"
       },
-      "price": 4739.75,
+      "price": 89107,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-h/wc250/6194682005.jpg",
       "isChoise": true,
       "count": 1
@@ -2539,9 +2539,9 @@
         "Общий объем SSD, ГБ: ": "256",
         "Видеокарта: ": "Intel UHD Graphics"
       },
-      "price": 2494.81,
+      "price": 46902,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-z/wc250/6128657879.jpg",
       "isChoise": true,
       "count": 1
@@ -2558,9 +2558,9 @@
         "Общий объем SSD, ГБ: ": "512",
         "Видеокарта: ": "NVIDIA GeForce MX450 (2 ГБ)"
       },
-      "price": 4014.97,
+      "price": 75481,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-4/wc250/6170311972.jpg",
       "isChoise": true,
       "count": 1
@@ -2577,9 +2577,9 @@
         "Общий объем HDD, ГБ: ": "1000",
         "Общий объем SSD, ГБ: ": "0"
       },
-      "price": 2643.83,
+      "price": 49704,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-6/wc250/6036514770.jpg",
       "isChoise": true,
       "count": 1
@@ -2596,9 +2596,9 @@
         "Видеокарта: ": "NVIDIA GeForce MX330 (2 Гб)",
         "ОС (краткое название): ": "Endless OS"
       },
-      "price": 4683.15,
+      "price": 88043,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-q/wc250/6251839214.jpg",
       "isChoise": true,
       "count": 1
@@ -2612,9 +2612,9 @@
         "Цвет товара: ": "белый",
         "Страна-изготовитель: ": "Китай"
       },
-      "price": 2498.91,
+      "price": 46980,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-6/wc250/6275217450.jpg",
       "isChoise": true,
       "count": 1
@@ -2631,9 +2631,9 @@
         "Видеокарта: ": "NVIDIA GeForce MX330 (2 Гб)",
         "ОС (краткое название): ": "Windows 11 Home"
       },
-      "price": 3858.77,
+      "price": 72545,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-p/wc250/6251861677.jpg",
       "isChoise": true,
       "count": 1
@@ -2650,9 +2650,9 @@
         "Видеокарта: ": "NVIDIA GeForce MX330 (2 Гб)",
         "ОС (краткое название): ": "Endless OS"
       },
-      "price": 5137.54,
+      "price": 96586,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-q/wc250/6251839214.jpg",
       "isChoise": true,
       "count": 1
@@ -2669,9 +2669,9 @@
         "Общий объем SSD, ГБ: ": "256",
         "Видеокарта: ": "NVIDIA GeForce MX330 (2 Гб)"
       },
-      "price": 3835.5,
+      "price": 72107,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-7/wc250/6100505131.jpg",
       "isChoise": true,
       "count": 1
@@ -2688,9 +2688,9 @@
         "Видеокарта: ": "NVIDIA GeForce MX330 (2 Гб)",
         "ОС (краткое название): ": "Endless OS"
       },
-      "price": 3590.16,
+      "price": 67495,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-q/wc250/6251839214.jpg",
       "isChoise": true,
       "count": 1
@@ -2707,9 +2707,9 @@
         "Видеокарта: ": "Intel HD Graphics",
         "Технология матрицы: ": "TN"
       },
-      "price": 1646.54,
+      "price": 30955,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-p/wc250/6285931033.jpg",
       "isChoise": true,
       "count": 1
@@ -2726,9 +2726,9 @@
         "Видеокарта: ": "Intel UHD Graphics 630",
         "Размеры, мм: ": "540.2x344x52.8"
       },
-      "price": 7070.67,
+      "price": 132929,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-2/wc250/6260594498.jpg",
       "isChoise": true,
       "count": 1
@@ -2745,9 +2745,9 @@
         "Общий объем SSD, ГБ: ": "512",
         "Видеокарта: ": "Intel UHD Graphics 630"
       },
-      "price": 12036.23,
+      "price": 226281,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-5/wc250/6287408993.jpg",
       "isChoise": true,
       "count": 1
@@ -2764,9 +2764,9 @@
         "Общий объем SSD, ГБ: ": "256",
         "Видеокарта: ": "Intel UHD Graphics 630"
       },
-      "price": 6952.77,
+      "price": 130712,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-v/wc250/6257639791.jpg",
       "isChoise": true,
       "count": 1
@@ -2783,9 +2783,9 @@
         "Материал корпуса: ": "Пластик",
         "Оптический привод: ": "Отсутствует"
       },
-      "price": 4073.35,
+      "price": 76579,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-w/wc250/6222622124.jpg",
       "isChoise": true,
       "count": 1
@@ -2802,9 +2802,9 @@
         "Общий объем HDD, ГБ: ": "1000",
         "Общий объем SSD, ГБ: ": "256"
       },
-      "price": 12203.47,
+      "price": 229425,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-b/wc250/6133171211.jpg",
       "isChoise": true,
       "count": 1
@@ -2821,9 +2821,9 @@
         "Общий объем HDD, ГБ: ": "0",
         "Общий объем SSD, ГБ: ": "512"
       },
-      "price": 11964.56,
+      "price": 224934,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-5/wc250/6029686433.jpg",
       "isChoise": true,
       "count": 1
@@ -2840,9 +2840,9 @@
         "Общий объем HDD, ГБ: ": "1000",
         "Общий объем SSD, ГБ: ": "256"
       },
-      "price": 7544.86,
+      "price": 141843,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-2/wc250/6116593778.jpg",
       "isChoise": true,
       "count": 1
@@ -2859,9 +2859,9 @@
         "Общий объем SSD, ГБ: ": "512",
         "Видеокарта: ": "Intel UHD Graphics 630"
       },
-      "price": 10137.14,
+      "price": 190578,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-6/wc250/6278598210.jpg",
       "isChoise": true,
       "count": 1
@@ -2878,9 +2878,9 @@
         "Материал корпуса: ": "Пластик",
         "Оптический привод: ": "Отсутствует"
       },
-      "price": 5281.51,
+      "price": 99292,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-w/wc250/6222622124.jpg",
       "isChoise": true,
       "count": 1
@@ -2897,9 +2897,9 @@
         "Материал корпуса: ": "Пластик",
         "Оптический привод: ": "Отсутствует"
       },
-      "price": 5611.26,
+      "price": 105492,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-8/wc250/6222588080.jpg",
       "isChoise": true,
       "count": 1
@@ -2916,9 +2916,9 @@
         "Материал корпуса: ": "Пластик",
         "Оптический привод: ": "Отсутствует"
       },
-      "price": 6012,
+      "price": 113026,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-8/wc250/6222588080.jpg",
       "isChoise": true,
       "count": 1
@@ -2935,9 +2935,9 @@
         "Общий объем HDD, ГБ: ": "1000",
         "Общий объем SSD, ГБ: ": "512"
       },
-      "price": 11538.3,
+      "price": 216920,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-i/wc250/6238625910.jpg",
       "isChoise": true,
       "count": 1
@@ -2954,9 +2954,9 @@
         "Общий объем SSD, ГБ: ": "512",
         "Видеокарта: ": "Intel UHD Graphics 630"
       },
-      "price": 11694.22,
+      "price": 219851,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-g/wc250/6151218664.jpg",
       "isChoise": true,
       "count": 1
@@ -2973,9 +2973,9 @@
         "Общий объем SSD, ГБ: ": "256",
         "Видеокарта: ": "Intel Iris Xe Graphics"
       },
-      "price": 6040.32,
+      "price": 113558,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-o/wc250/6237211728.jpg",
       "isChoise": true,
       "count": 1
@@ -2992,9 +2992,9 @@
         "Общий объем HDD, ГБ: ": "1024",
         "Общий объем SSD, ГБ: ": "256"
       },
-      "price": 6656.91,
+      "price": 125150,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-y/wc250/6276228826.jpg",
       "isChoise": true,
       "count": 1
@@ -3011,9 +3011,9 @@
         "Общий объем SSD, ГБ: ": "512",
         "Видеокарта: ": "NVIDIA GeForce MX330 (2 Гб)"
       },
-      "price": 5255.12,
+      "price": 98796,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-m/wc250/6126514282.jpg",
       "isChoise": true,
       "count": 1
@@ -3030,9 +3030,9 @@
         "Общий объем HDD, ГБ: ": "1000",
         "Общий объем SSD, ГБ: ": "256"
       },
-      "price": 5003.31,
+      "price": 94062,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-h/wc250/6288151757.jpg",
       "isChoise": true,
       "count": 1
@@ -3049,9 +3049,9 @@
         "Общий объем SSD, ГБ: ": "256",
         "Видеокарта: ": "Intel HD Graphics 630"
       },
-      "price": 4938.66,
+      "price": 92847,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-e/wc250/6161932010.jpg",
       "isChoise": true,
       "count": 1
@@ -3068,9 +3068,9 @@
         "Общий объем SSD, ГБ: ": "256",
         "Видеокарта: ": "Intel UHD Graphics 630"
       },
-      "price": 6385.97,
+      "price": 120056,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-h/wc250/6145613033.jpg",
       "isChoise": true,
       "count": 1
@@ -3087,9 +3087,9 @@
         "Технология матрицы: ": "IPS",
         "Покрытие экрана: ": "Матовое"
       },
-      "price": 1893.3,
+      "price": 35594,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-t/wc250/6286675985.jpg",
       "isChoise": true,
       "count": 1
@@ -3106,9 +3106,9 @@
         "Общий объем HDD, ГБ: ": "0",
         "Общий объем SSD, ГБ: ": "256"
       },
-      "price": 3590.67,
+      "price": 67505,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-u/wc250/6021608598.jpg",
       "isChoise": true,
       "count": 1
@@ -3125,9 +3125,9 @@
         "Общий объем SSD, ГБ: ": "128",
         "Видеокарта: ": "AMD Radeon Graphics"
       },
-      "price": 2800.03,
+      "price": 52641,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-j/wc250/6096135787.jpg",
       "isChoise": true,
       "count": 1
@@ -3144,9 +3144,9 @@
         "Общий объем HDD, ГБ: ": "500",
         "Общий объем SSD, ГБ: ": "256"
       },
-      "price": 3352.32,
+      "price": 63024,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-5/wc250/6125277773.jpg",
       "isChoise": true,
       "count": 1
@@ -3163,9 +3163,9 @@
         "Общий объем SSD, ГБ: ": "512",
         "Видеокарта: ": "AMD Radeon Vega 5"
       },
-      "price": 4652.38,
+      "price": 87465,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-4/wc250/6161070124.jpg",
       "isChoise": true,
       "count": 1
@@ -3182,9 +3182,9 @@
         "Технология матрицы: ": "IPS",
         "Оптический привод: ": "DVD-RW SuperMulti с поддержкой DualLayer"
       },
-      "price": 4499.5,
+      "price": 84591,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-7/wc250/6287930527.jpg",
       "isChoise": true,
       "count": 1
@@ -3201,9 +3201,9 @@
         "Общий объем HDD, ГБ: ": "1000",
         "Общий объем SSD, ГБ: ": "0"
       },
-      "price": 2056.79,
+      "price": 38668,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-f/wc250/6018077739.jpg",
       "isChoise": true,
       "count": 1
@@ -3220,9 +3220,9 @@
         "Общий объем SSD, ГБ: ": "512",
         "Видеокарта: ": "Intel Iris Xe Graphics"
       },
-      "price": 3615.17,
+      "price": 67965,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-l/wc250/6090254109.jpg",
       "isChoise": true,
       "count": 1
@@ -3239,9 +3239,9 @@
         "Общий объем HDD, ГБ: ": "0",
         "Общий объем SSD, ГБ: ": "256"
       },
-      "price": 2662.53,
+      "price": 50056,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-d/wc250/6065264341.jpg",
       "isChoise": true,
       "count": 1
@@ -3258,9 +3258,9 @@
         "Общий объем HDD, ГБ: ": "1000",
         "Видеокарта: ": "NVIDIA GeForce MX330 (2 Гб)"
       },
-      "price": 2445.11,
+      "price": 45968,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-8/wc250/6274368932.jpg",
       "isChoise": true,
       "count": 1
@@ -3277,9 +3277,9 @@
         "Общий объем SSD, ГБ: ": "256",
         "Видеокарта: ": "Intel UHD Graphics 630"
       },
-      "price": 5844.8,
+      "price": 109882,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-t/wc250/6286162445.jpg",
       "isChoise": true,
       "count": 1
@@ -3296,9 +3296,9 @@
         "Общий объем HDD, ГБ: ": "1000",
         "Общий объем SSD, ГБ: ": "0"
       },
-      "price": 2958.27,
+      "price": 55615,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-p/wc250/6028160773.jpg",
       "isChoise": true,
       "count": 1
@@ -3315,9 +3315,9 @@
         "Общий объем SSD, ГБ: ": "256",
         "Видеокарта: ": "AMD Radeon Graphics"
       },
-      "price": 3657.89,
+      "price": 68768,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-j/wc250/6283886695.jpg",
       "isChoise": true,
       "count": 1
@@ -3334,9 +3334,9 @@
         "Общий объем SSD, ГБ: ": "256",
         "Видеокарта: ": "Intel Iris Xe Graphics"
       },
-      "price": 3194.54,
+      "price": 60057,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-m/wc250/6265583686.jpg",
       "isChoise": true,
       "count": 1
@@ -3353,9 +3353,9 @@
         "Общий объем HDD, ГБ: ": "0",
         "Общий объем SSD, ГБ: ": "256"
       },
-      "price": 2599.81,
+      "price": 48876,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-l/wc250/6090254109.jpg",
       "isChoise": true,
       "count": 1
@@ -3372,9 +3372,9 @@
         "Общий объем SSD, ГБ: ": "256",
         "Видеокарта: ": "Intel UHD Graphics 630"
       },
-      "price": 5916.55,
+      "price": 111231,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-l/wc250/6004749249.jpg",
       "isChoise": true,
       "count": 1
@@ -3391,9 +3391,9 @@
         "Общий объем SSD, ГБ: ": "256",
         "Видеокарта: ": "Intel UHD Graphics 630"
       },
-      "price": 5173.08,
+      "price": 97254,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-h/wc250/6201785633.jpg",
       "isChoise": true,
       "count": 1
@@ -3410,9 +3410,9 @@
         "Общий объем HDD, ГБ: ": "1000",
         "Видеокарта: ": "Intel UHD Graphics 630"
       },
-      "price": 5229.95,
+      "price": 98323,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-4/wc250/6283916092.jpg",
       "isChoise": true,
       "count": 1
@@ -3429,9 +3429,9 @@
         "Общий объем HDD, ГБ: ": "0",
         "Общий объем SSD, ГБ: ": "256"
       },
-      "price": 2520.8,
+      "price": 47391,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-f/wc250/6018077739.jpg",
       "isChoise": true,
       "count": 1
@@ -3448,9 +3448,9 @@
         "Общий объем HDD, ГБ: ": "0",
         "Общий объем SSD, ГБ: ": "128"
       },
-      "price": 1924.42,
+      "price": 36179,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-2/wc250/6275346542.jpg",
       "isChoise": true,
       "count": 1
@@ -3467,9 +3467,9 @@
         "Автоматическая двусторонняя печать: ": "Нет",
         "Количество цветов: ": "4"
       },
-      "price": 670.15,
+      "price": 12599,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/multimedia/wc250/1023595689.jpg",
       "isChoise": true,
       "count": 1
@@ -3483,9 +3483,9 @@
         "Тип: ": "Фотопринтер компактный",
         "Цвет товара: ": "белый"
       },
-      "price": 328.8,
+      "price": 6181,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-d/wc250/6150296161.jpg",
       "isChoise": true,
       "count": 1
@@ -3502,9 +3502,9 @@
         "Автоматическая двусторонняя печать: ": "Нет",
         "Нагрузка в месяц, страниц: ": "12000"
       },
-      "price": 874.51,
+      "price": 16441,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/multimedia/wc250/1023595689.jpg",
       "isChoise": true,
       "count": 1
@@ -3521,9 +3521,9 @@
         "Сетевые интерфейсы: ": "Wi-Fi",
         "Автоматическая двусторонняя печать: ": "Нет"
       },
-      "price": 1425.41,
+      "price": 26798,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/multimedia/wc250/1016263526.jpg",
       "isChoise": true,
       "count": 1
@@ -3537,9 +3537,9 @@
         "Тип: ": "Принтер",
         "Цвет товара: ": "черный"
       },
-      "price": 946.17,
+      "price": 17788,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-i/wc250/6245880486.jpg",
       "isChoise": true,
       "count": 1
@@ -3556,9 +3556,9 @@
         "Сетевые интерфейсы: ": "AirPrint, Wi-Fi",
         "Облачные технологии: ": "Apple AirPrint"
       },
-      "price": 1029.91,
+      "price": 19362,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-t/wc250/6101811269.jpg",
       "isChoise": true,
       "count": 1
@@ -3575,9 +3575,9 @@
         "Сетевые интерфейсы: ": "Ethernet, Wi-Fi",
         "Облачные технологии: ": "Apple AirPrint"
       },
-      "price": 1069.63,
+      "price": 20109,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-a/wc250/6007443334.jpg",
       "isChoise": true,
       "count": 1
@@ -3594,9 +3594,9 @@
         "Автоматическая двусторонняя печать: ": "Нет",
         "Количество цветов: ": "4"
       },
-      "price": 859.48,
+      "price": 16158,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-s/wc250/6156677608.jpg",
       "isChoise": true,
       "count": 1
@@ -3610,9 +3610,9 @@
         "Тип: ": "Фотопринтер компактный",
         "Цвет товара: ": "черный"
       },
-      "price": 394.4,
+      "price": 7415,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-s/wc250/6150294376.jpg",
       "isChoise": true,
       "count": 1
@@ -3629,9 +3629,9 @@
         "Сетевые интерфейсы: ": "AirPrint, Bluetooth, Wi-Fi",
         "Автоматическая двусторонняя печать: ": "Да"
       },
-      "price": 591.62,
+      "price": 11122,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-c/wc250/6272940852.jpg",
       "isChoise": true,
       "count": 1
@@ -3648,9 +3648,9 @@
         "Сетевые интерфейсы: ": "Wi-Fi",
         "Автоматическая двусторонняя печать: ": "Нет"
       },
-      "price": 770.33,
+      "price": 14482,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-f/wc250/6019282983.jpg",
       "isChoise": true,
       "count": 1
@@ -3667,9 +3667,9 @@
         "Сетевые интерфейсы: ": "Ethernet, Wi-Fi",
         "Автоматическая двусторонняя печать: ": "Да"
       },
-      "price": 1099.26,
+      "price": 20666,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-6/wc250/6007443330.jpg",
       "isChoise": true,
       "count": 1
@@ -3683,9 +3683,9 @@
         "Тип: ": "Фотопринтер компактный",
         "Цвет товара: ": "розовый"
       },
-      "price": 524.68,
+      "price": 9864,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-a/wc250/6190014850.jpg",
       "isChoise": true,
       "count": 1
@@ -3699,9 +3699,9 @@
         "Тип: ": "Принтер",
         "Цвет товара: ": "черный"
       },
-      "price": 1222.71,
+      "price": 22987,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-d/wc250/6019343713.jpg",
       "isChoise": true,
       "count": 1
@@ -3718,9 +3718,9 @@
         "Сетевые интерфейсы: ": "Bluetooth, NFC, Wi-Fi, AirPrint",
         "Облачные технологии: ": "Apple AirPrint, Google Cloud Print"
       },
-      "price": 784.93,
+      "price": 14757,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-1/wc250/6264941389.jpg",
       "isChoise": true,
       "count": 1
@@ -3737,9 +3737,9 @@
         "Сетевые интерфейсы: ": "Bluetooth",
         "Автоматическая двусторонняя печать: ": "Нет"
       },
-      "price": 457.15,
+      "price": 8594,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-h/wc250/6014750729.jpg",
       "isChoise": true,
       "count": 1
@@ -3756,9 +3756,9 @@
         "Автоматическая двусторонняя печать: ": "Нет",
         "Нагрузка в месяц, страниц: ": "12000"
       },
-      "price": 839.56,
+      "price": 15784,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/multimedia/wc250/1023595689.jpg",
       "isChoise": true,
       "count": 1
@@ -3775,9 +3775,9 @@
         "Количество цветов: ": "4",
         "СНПЧ: ": "Да"
       },
-      "price": 1222.36,
+      "price": 22980,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-g/wc250/6275770276.jpg",
       "isChoise": true,
       "count": 1
@@ -3794,9 +3794,9 @@
         "Сетевые интерфейсы: ": "Bluetooth, Wi-Fi",
         "Автоматическая двусторонняя печать: ": "Нет"
       },
-      "price": 512.37,
+      "price": 9633,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-s/wc250/6014750740.jpg",
       "isChoise": true,
       "count": 1
@@ -3813,9 +3813,9 @@
         "Сетевые интерфейсы: ": "Bluetooth",
         "Автоматическая двусторонняя печать: ": "Нет"
       },
-      "price": 457.15,
+      "price": 8594,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-o/wc250/6014750736.jpg",
       "isChoise": true,
       "count": 1
@@ -3831,9 +3831,9 @@
         "Вес товара, г: ": "4000.00000000",
         "Страна-изготовитель: ": "Китай"
       },
-      "price": 875.65,
+      "price": 16462,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-8/wc250/6254300480.jpg",
       "isChoise": true,
       "count": 1
@@ -3850,9 +3850,9 @@
         "Сетевые интерфейсы: ": "Wi-Fi",
         "Автоматическая двусторонняя печать: ": "Нет"
       },
-      "price": 1495.78,
+      "price": 28121,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/multimedia/wc250/1012958738.jpg",
       "isChoise": true,
       "count": 1
@@ -3869,9 +3869,9 @@
         "Автоматическая двусторонняя печать: ": "Да",
         "Нагрузка в месяц, страниц: ": "20000"
       },
-      "price": 788.36,
+      "price": 14821,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/multimedia/wc250/1037365740.jpg",
       "isChoise": true,
       "count": 1
@@ -3888,9 +3888,9 @@
         "Автоматическая двусторонняя печать: ": "Нет",
         "Количество цветов: ": "5"
       },
-      "price": 862.28,
+      "price": 16211,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-i/wc250/6194978430.jpg",
       "isChoise": true,
       "count": 1
@@ -3906,9 +3906,9 @@
         "Вес товара, г: ": "4000.00000000",
         "Страна-изготовитель: ": "Китай"
       },
-      "price": 1089.16,
+      "price": 20476,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-u/wc250/6274883646.jpg",
       "isChoise": true,
       "count": 1
@@ -3925,9 +3925,9 @@
         "Автоматическая двусторонняя печать: ": "Нет",
         "Количество цветов: ": "5"
       },
-      "price": 2096.35,
+      "price": 39411,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/multimedia/wc250/1010358879.jpg",
       "isChoise": true,
       "count": 1
@@ -3944,9 +3944,9 @@
         "Сетевые интерфейсы: ": "Wi-Fi",
         "Автоматическая двусторонняя печать: ": "Нет"
       },
-      "price": 1474.4,
+      "price": 27719,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-t/wc250/6274883645.jpg",
       "isChoise": true,
       "count": 1
@@ -3961,9 +3961,9 @@
         "Цвет товара: ": "черный",
         "Страна-изготовитель: ": "Китай"
       },
-      "price": 873.68,
+      "price": 16425,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-m/wc250/6274883638.jpg",
       "isChoise": true,
       "count": 1
@@ -3980,9 +3980,9 @@
         "Автоматическая двусторонняя печать: ": "Нет",
         "Количество цветов: ": "6"
       },
-      "price": 3498.65,
+      "price": 65775,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/multimedia/wc250/1010359049.jpg",
       "isChoise": true,
       "count": 1
@@ -3999,9 +3999,9 @@
         "Автоматическая двусторонняя печать: ": "Нет",
         "Количество цветов: ": "4"
       },
-      "price": 1079.1,
+      "price": 20287,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/multimedia/wc250/1016477604.jpg",
       "isChoise": true,
       "count": 1
@@ -4018,9 +4018,9 @@
         "Сетевые интерфейсы: ": "Wi-Fi",
         "Автоматическая двусторонняя печать: ": "Нет"
       },
-      "price": 1440.68,
+      "price": 27085,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/multimedia/wc250/1014164073.jpg",
       "isChoise": true,
       "count": 1
@@ -4035,9 +4035,9 @@
         "Цвет товара: ": "черный",
         "Страна-изготовитель: ": "Китай"
       },
-      "price": 1006.92,
+      "price": 18930,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-l/wc250/6274883637.jpg",
       "isChoise": true,
       "count": 1
@@ -4054,9 +4054,9 @@
         "Автоматическая двусторонняя печать: ": "Нет",
         "Количество цветов: ": "1"
       },
-      "price": 493.05,
+      "price": 9269,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/multimedia/wc250/1033701796.jpg",
       "isChoise": true,
       "count": 1
@@ -4071,9 +4071,9 @@
         "Цвет товара: ": "черный",
         "Вес товара, г: ": "2550.00000000"
       },
-      "price": 2347.25,
+      "price": 44128,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-g/wc250/6194978572.jpg",
       "isChoise": true,
       "count": 1
@@ -4088,9 +4088,9 @@
         "Цвет товара: ": "черный",
         "Вес товара, г: ": "19800.00000000"
       },
-      "price": 5559.23,
+      "price": 104514,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-q/wc250/6194978798.jpg",
       "isChoise": true,
       "count": 1
@@ -4105,9 +4105,9 @@
         "Цвет товара: ": "белый",
         "Вес товара, г: ": "1140.00000000"
       },
-      "price": 425.56,
+      "price": 8001,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-8/wc250/6194978924.jpg",
       "isChoise": true,
       "count": 1
@@ -4124,9 +4124,9 @@
         "Сетевые интерфейсы: ": "Wi-Fi",
         "Автоматическая двусторонняя печать: ": "Нет"
       },
-      "price": 1585,
+      "price": 29798,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/multimedia/wc250/1014164073.jpg",
       "isChoise": true,
       "count": 1
@@ -4142,9 +4142,9 @@
         "Комплектация: ": "МФУ, Тонер - 4 шт, Сетевой кабель, Диск, Инструкция, Гарантийный талон",
         "Страна-изготовитель: ": "Китай"
       },
-      "price": 2162.62,
+      "price": 40657,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-w/wc250/6274883648.jpg",
       "isChoise": true,
       "count": 1
@@ -4161,9 +4161,9 @@
         "Сетевые интерфейсы: ": "Wi-Fi",
         "Автоматическая двусторонняя печать: ": "Нет"
       },
-      "price": 1408.26,
+      "price": 26475,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/multimedia/wc250/1014164073.jpg",
       "isChoise": true,
       "count": 1
@@ -4179,9 +4179,9 @@
         "Комплектация: ": "МФУ, Тонер - 2 шт, Сетевой кабель, Диск, Инструкция, Гарантийный талон",
         "Страна-изготовитель: ": "Китай"
       },
-      "price": 1347.91,
+      "price": 25341,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-p/wc250/6274883641.jpg",
       "isChoise": true,
       "count": 1
@@ -4198,9 +4198,9 @@
         "Автоматическая двусторонняя печать: ": "Нет",
         "Нагрузка в месяц, страниц: ": "1000"
       },
-      "price": 698.35,
+      "price": 13129,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/multimedia/wc250/1025070427.jpg",
       "isChoise": true,
       "count": 1
@@ -4217,9 +4217,9 @@
         "Совместимость: ": "Microsoft Windows",
         "Гарантийный срок: ": "1 год"
       },
-      "price": 325.21,
+      "price": 6114,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-6/wc250/6090834594.jpg",
       "isChoise": true,
       "count": 1
@@ -4236,9 +4236,9 @@
         "Сетевые интерфейсы: ": "Ethernet, Wi-Fi",
         "Автоматическая двусторонняя печать: ": "Нет"
       },
-      "price": 1399.3,
+      "price": 26307,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-l/wc250/6064290441.jpg",
       "isChoise": true,
       "count": 1
@@ -4255,9 +4255,9 @@
         "Автоматическая двусторонняя печать: ": "Нет",
         "Взаимодействие с устройствами: ": "Печать с E-mail, Печать с устройств Android/iOS, Прямая печать, Сканирование на E-Mail"
       },
-      "price": 341.86,
+      "price": 6427,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-d/wc250/6233485645.jpg",
       "isChoise": true,
       "count": 1
@@ -4274,9 +4274,9 @@
         "Сетевые интерфейсы: ": "Ethernet",
         "Облачные технологии: ": "Apple AirPrint"
       },
-      "price": 844.84,
+      "price": 15883,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-l/wc250/6067366425.jpg",
       "isChoise": true,
       "count": 1
@@ -4293,9 +4293,9 @@
         "Сетевые интерфейсы: ": "Wi-Fi, Ethernet",
         "Облачные технологии: ": "Apple AirPrint"
       },
-      "price": 680.4,
+      "price": 12792,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-g/wc250/6243394504.jpg",
       "isChoise": true,
       "count": 1
@@ -4312,9 +4312,9 @@
         "Автоматическая двусторонняя печать: ": "Нет",
         "СНПЧ: ": "Нет"
       },
-      "price": 511.58,
+      "price": 9618,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-6/wc250/6150791298.jpg",
       "isChoise": true,
       "count": 1
@@ -4331,9 +4331,9 @@
         "Автоматическая двусторонняя печать: ": "Нет",
         "Количество цветов: ": "3"
       },
-      "price": 325.21,
+      "price": 6114,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-v/wc250/6040857367.jpg",
       "isChoise": true,
       "count": 1
@@ -4350,9 +4350,9 @@
         "Автоматическая двусторонняя печать: ": "Нет",
         "Взаимодействие с устройствами: ": "Печать с E-mail, Печать с устройств Android/iOS, Прямая печать, Сканирование на E-Mail"
       },
-      "price": 409.82,
+      "price": 7705,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-d/wc250/6233485645.jpg",
       "isChoise": true,
       "count": 1
@@ -4369,9 +4369,9 @@
         "Автоматическая двусторонняя печать: ": "Нет",
         "Нагрузка в месяц, страниц: ": "1500"
       },
-      "price": 579.43,
+      "price": 10893,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-l/wc250/6031318365.jpg",
       "isChoise": true,
       "count": 1
@@ -4388,9 +4388,9 @@
         "Сетевые интерфейсы: ": "Ethernet, Wi-Fi",
         "Автоматическая двусторонняя печать: ": "Да"
       },
-      "price": 1606.46,
+      "price": 30201,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-5/wc250/6000053753.jpg",
       "isChoise": true,
       "count": 1
@@ -4407,9 +4407,9 @@
         "Автоматическая двусторонняя печать: ": "Нет",
         "Нагрузка в месяц, страниц: ": "800"
       },
-      "price": 1166.55,
+      "price": 21931,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-f/wc250/6058406595.jpg",
       "isChoise": true,
       "count": 1
@@ -4426,9 +4426,9 @@
         "Облачные технологии: ": "Apple AirPrint",
         "Автоматическая двусторонняя печать: ": "Да"
       },
-      "price": 1150.61,
+      "price": 21631,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-x/wc250/6000053853.jpg",
       "isChoise": true,
       "count": 1
@@ -4445,9 +4445,9 @@
         "Автоматическая двусторонняя печать: ": "Нет",
         "Гарантийный срок: ": "12"
       },
-      "price": 749.51,
+      "price": 14091,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-8/wc250/6107057348.jpg",
       "isChoise": true,
       "count": 1
@@ -4464,9 +4464,9 @@
         "Автоматическая двусторонняя печать: ": "Нет",
         "Нагрузка в месяц, страниц: ": "10000"
       },
-      "price": 627.15,
+      "price": 11790,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-a/wc250/6025009210.jpg",
       "isChoise": true,
       "count": 1
@@ -4483,9 +4483,9 @@
         "Автоматическая двусторонняя печать: ": "Да",
         "Нагрузка в месяц, страниц: ": "20000"
       },
-      "price": 846.97,
+      "price": 15923,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-z/wc250/6247917419.jpg",
       "isChoise": true,
       "count": 1
@@ -4502,9 +4502,9 @@
         "Цвет товара: ": "белый",
         "Страна-изготовитель: ": "Китай"
       },
-      "price": 681.19,
+      "price": 12806,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-x/wc250/6121016481.jpg",
       "isChoise": true,
       "count": 1
@@ -4521,9 +4521,9 @@
         "Сетевые интерфейсы: ": "Ethernet",
         "Облачные технологии: ": "Apple AirPrint, Google Cloud Print"
       },
-      "price": 904.05,
+      "price": 16996,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/multimedia/wc250/1025070443.jpg",
       "isChoise": true,
       "count": 1
@@ -4540,9 +4540,9 @@
         "Автоматическая двусторонняя печать: ": "Нет",
         "Взаимодействие с устройствами: ": "Печать с E-mail, Печать с устройств Android/iOS, Прямая печать, Сканирование на E-Mail"
       },
-      "price": 413.76,
+      "price": 7779,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-d/wc250/6233485645.jpg",
       "isChoise": true,
       "count": 1
@@ -4559,9 +4559,9 @@
         "Автоматическая двусторонняя печать: ": "Да",
         "Нагрузка в месяц, страниц: ": "80000"
       },
-      "price": 1128.05,
+      "price": 21207,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-x/wc250/6000053853.jpg",
       "isChoise": true,
       "count": 1
@@ -4578,9 +4578,9 @@
         "Процессор: ": "MT6762R (8 ядер), 2.0 ГГц",
         "Основной материал корпуса: ": "Пластик"
       },
-      "price": 630.7,
+      "price": 11857,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-4/wc250/6018911992.jpg",
       "isChoise": true,
       "count": 1
@@ -4597,9 +4597,9 @@
         "Процессор: ": "Snapdragon 680 (8 ядер), 2.4 ГГц",
         "Основной материал корпуса: ": "Пластик, Стекло"
       },
-      "price": 1525.44,
+      "price": 28678,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-l/wc250/6277040109.jpg",
       "isChoise": true,
       "count": 1
@@ -4616,9 +4616,9 @@
         "Процессор: ": "MT6762R (8 ядер), 2.0 ГГц",
         "Основной материал корпуса: ": "Пластик"
       },
-      "price": 405.88,
+      "price": 7631,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-g/wc250/6019312720.jpg",
       "isChoise": true,
       "count": 1
@@ -4635,9 +4635,9 @@
         "Основной материал корпуса: ": "Пластик",
         "Беспроводные интерфейсы: ": "GPS, Bluetooth"
       },
-      "price": 867.37,
+      "price": 16307,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-7/wc250/6275325991.jpg",
       "isChoise": true,
       "count": 1
@@ -4654,9 +4654,9 @@
         "Процессор: ": "MT6762R (8 ядер), 2.0 ГГц",
         "Основной материал корпуса: ": "Пластик"
       },
-      "price": 394.04,
+      "price": 7408,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-q/wc250/6016378730.jpg",
       "isChoise": true,
       "count": 1
@@ -4673,9 +4673,9 @@
         "Беспроводные интерфейсы: ": "Bluetooth, Wi-Fi",
         "Оперативная память: ": "6 ГБ"
       },
-      "price": 866.58,
+      "price": 16292,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-a/wc250/6125176474.jpg",
       "isChoise": true,
       "count": 1
@@ -4692,9 +4692,9 @@
         "Партномер: ": "Y6P",
         "Цвет товара: ": "пурпурный"
       },
-      "price": 639.18,
+      "price": 12017,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-x/wc250/6149281161.jpg",
       "isChoise": true,
       "count": 1
@@ -4711,9 +4711,9 @@
         "Процессор: ": "Kirin 710A (8 ядер), 2.0 ГГц",
         "Основной материал корпуса: ": "Пластик"
       },
-      "price": 867.37,
+      "price": 16307,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-0/wc250/6032600808.jpg",
       "isChoise": true,
       "count": 1
@@ -4730,9 +4730,9 @@
         "Беспроводные интерфейсы: ": "Bluetooth, Wi-Fi",
         "Разрешение экрана: ": "2376x1080"
       },
-      "price": 845.67,
+      "price": 15899,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-p/wc250/6125176489.jpg",
       "isChoise": true,
       "count": 1
@@ -4749,9 +4749,9 @@
         "Беспроводные интерфейсы: ": "Bluetooth, Wi-Fi, NFC",
         "Разрешение экрана: ": "1600x720"
       },
-      "price": 626.33,
+      "price": 11775,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-1/wc250/6192100141.jpg",
       "isChoise": true,
       "count": 1
@@ -4768,9 +4768,9 @@
         "Беспроводные интерфейсы: ": "Bluetooth, Wi-Fi, NFC",
         "Разрешение экрана: ": "1600x720"
       },
-      "price": 630.7,
+      "price": 11857,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-w/wc250/6221305136.jpg",
       "isChoise": true,
       "count": 1
@@ -4787,9 +4787,9 @@
         "Беспроводные интерфейсы: ": "Bluetooth, Wi-Fi",
         "Разрешение экрана: ": "2376x1080"
       },
-      "price": 853.96,
+      "price": 16054,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-3/wc250/6125176503.jpg",
       "isChoise": true,
       "count": 1
@@ -4806,9 +4806,9 @@
         "Оперативная память: ": "3 ГБ",
         "Тип карты памяти: ": "microSD, microSDHC, microSDXC"
       },
-      "price": 656.86,
+      "price": 12349,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-q/wc250/6032123078.jpg",
       "isChoise": true,
       "count": 1
@@ -4825,9 +4825,9 @@
         "Беспроводные интерфейсы: ": "Bluetooth, Wi-Fi",
         "Оперативная память: ": "6 ГБ"
       },
-      "price": 866.97,
+      "price": 16299,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-a/wc250/6125176474.jpg",
       "isChoise": true,
       "count": 1
@@ -4844,9 +4844,9 @@
         "Процессор: ": "Kirin 710A (8 ядер), 2.0 ГГц",
         "Основной материал корпуса: ": "Пластик"
       },
-      "price": 936.2,
+      "price": 17601,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-l/wc250/6058651761.jpg",
       "isChoise": true,
       "count": 1
@@ -4862,9 +4862,9 @@
         "Партномер: ": "Смартфон Huawei Y5p",
         "Цвет товара: ": "черный"
       },
-      "price": 460.9,
+      "price": 8665,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-h/wc250/6272604905.jpg",
       "isChoise": true,
       "count": 1
@@ -4881,9 +4881,9 @@
         "Беспроводные интерфейсы: ": "Bluetooth, Wi-Fi, NFC",
         "Оперативная память: ": "8 ГБ"
       },
-      "price": 1929.43,
+      "price": 36273,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-z/wc250/6223669655.jpg",
       "isChoise": true,
       "count": 1
@@ -4900,9 +4900,9 @@
         "Процессор: ": "Snapdragon 778G (8 ядер), 2.4 ГГц",
         "Беспроводные интерфейсы: ": "Bluetooth, Wi-Fi, NFC"
       },
-      "price": 1541.89,
+      "price": 28988,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-z/wc250/6223669655.jpg",
       "isChoise": true,
       "count": 1
@@ -4919,9 +4919,9 @@
         "Беспроводные интерфейсы: ": "Bluetooth, Wi-Fi",
         "Разрешение экрана: ": "2376x1080"
       },
-      "price": 1085.06,
+      "price": 20399,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-3/wc250/6125176503.jpg",
       "isChoise": true,
       "count": 1
@@ -4938,9 +4938,9 @@
         "Беспроводные интерфейсы: ": "Bluetooth, Wi-Fi, NFC",
         "Разрешение экрана: ": "2376x1080"
       },
-      "price": 958.05,
+      "price": 18011,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-3/wc250/6258838239.jpg",
       "isChoise": true,
       "count": 1
@@ -4957,9 +4957,9 @@
         "Процессор: ": "Snapdragon 870 (8 ядер), 3.2 ГГц",
         "Основной материал корпуса: ": "Стекло"
       },
-      "price": 1860.2,
+      "price": 34972,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-w/wc250/6078067256.jpg",
       "isChoise": true,
       "count": 1
@@ -4976,9 +4976,9 @@
         "Процессор: ": "Dimensity 700 (8 ядер), 2.2 ГГц",
         "Основной материал корпуса: ": "Пластик"
       },
-      "price": 808.2,
+      "price": 15194,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-7/wc250/6067747435.jpg",
       "isChoise": true,
       "count": 1
@@ -4995,9 +4995,9 @@
         "Процессор: ": "Snapdragon 860 (8 ядер), 2.96 ГГц",
         "Основной материал корпуса: ": "Пластик"
       },
-      "price": 1119.21,
+      "price": 21041,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-f/wc250/6057261471.jpg",
       "isChoise": true,
       "count": 1
@@ -5014,9 +5014,9 @@
         "Процессор: ": "Snapdragon 870 (8 ядер), 3.2 ГГц",
         "Основной материал корпуса: ": "Стекло"
       },
-      "price": 1307.12,
+      "price": 24574,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-e/wc250/6059122994.jpg",
       "isChoise": true,
       "count": 1
@@ -5033,9 +5033,9 @@
         "Основной материал корпуса: ": "Пластик",
         "Беспроводные интерфейсы: ": "Bluetooth, GPS, NFC, Wi-Fi, ИК-порт"
       },
-      "price": 799.76,
+      "price": 15035,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-y/wc250/6179208034.jpg",
       "isChoise": true,
       "count": 1
@@ -5052,9 +5052,9 @@
         "Процессор: ": "Snapdragon 870 (8 ядер), 3.2 ГГц",
         "Основной материал корпуса: ": "Стекло, Пластик"
       },
-      "price": 1364.44,
+      "price": 25651,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-l/wc250/6224256477.jpg",
       "isChoise": true,
       "count": 1
@@ -5071,9 +5071,9 @@
         "Основной материал корпуса: ": "Пластик",
         "Беспроводные интерфейсы: ": "Bluetooth, GPS, NFC, Wi-Fi"
       },
-      "price": 926.18,
+      "price": 17412,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-q/wc250/6265671926.jpg",
       "isChoise": true,
       "count": 1
@@ -5090,9 +5090,9 @@
         "Основной материал корпуса: ": "Пластик",
         "Беспроводные интерфейсы: ": "Bluetooth, Wi-Fi, NFC, ИК-порт, GPS"
       },
-      "price": 945.07,
+      "price": 17767,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-z/wc250/6214842167.jpg",
       "isChoise": true,
       "count": 1
@@ -5109,9 +5109,9 @@
         "Процессор: ": "Dimensity 700 (8 ядер), 2.2 ГГц",
         "Основной материал корпуса: ": "Пластик"
       },
-      "price": 842.83,
+      "price": 15845,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-d/wc250/6067747477.jpg",
       "isChoise": true,
       "count": 1
@@ -5128,9 +5128,9 @@
         "Основной материал корпуса: ": "Пластик",
         "Беспроводные интерфейсы: ": "Bluetooth, GPS, NFC, Wi-Fi, ИК-порт"
       },
-      "price": 799.76,
+      "price": 15035,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-9/wc250/6179208081.jpg",
       "isChoise": true,
       "count": 1
@@ -5147,9 +5147,9 @@
         "Основной материал корпуса: ": "Пластик",
         "Беспроводные интерфейсы: ": "Bluetooth, GPS, NFC, Wi-Fi"
       },
-      "price": 1103.63,
+      "price": 20748,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-b/wc250/6265671947.jpg",
       "isChoise": true,
       "count": 1
@@ -5166,9 +5166,9 @@
         "Основной материал корпуса: ": "Пластик",
         "Беспроводные интерфейсы: ": "Bluetooth, GPS, NFC, Wi-Fi"
       },
-      "price": 1103.63,
+      "price": 20748,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-u/wc250/6274237302.jpg",
       "isChoise": true,
       "count": 1
@@ -5185,9 +5185,9 @@
         "Процессор: ": "Snapdragon 870 (8 ядер), 3.2 ГГц",
         "Основной материал корпуса: ": "Стекло"
       },
-      "price": 1200.55,
+      "price": 22570,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-e/wc250/6059122994.jpg",
       "isChoise": true,
       "count": 1
@@ -5204,9 +5204,9 @@
         "Число ядер процессора: ": "8",
         "Оперативная память: ": "8 ГБ"
       },
-      "price": 1585.32,
+      "price": 29804,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-p/wc250/6270229525.jpg",
       "isChoise": true,
       "count": 1
@@ -5223,9 +5223,9 @@
         "Число ядер процессора: ": "8",
         "Оперативная память: ": "6 ГБ"
       },
-      "price": 926.14,
+      "price": 17411,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-9/wc250/6265196817.jpg",
       "isChoise": true,
       "count": 1
@@ -5242,9 +5242,9 @@
         "Основной материал корпуса: ": "Пластик",
         "Беспроводные интерфейсы: ": "Bluetooth, GPS, NFC, Wi-Fi, ИК-порт"
       },
-      "price": 805.99,
+      "price": 15153,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-h/wc250/6179208197.jpg",
       "isChoise": true,
       "count": 1
@@ -5261,9 +5261,9 @@
         "Число ядер процессора: ": "8",
         "Оперативная память: ": "8 ГБ"
       },
-      "price": 1125.33,
+      "price": 21156,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-9/wc250/6265196817.jpg",
       "isChoise": true,
       "count": 1
@@ -5280,9 +5280,9 @@
         "Основной материал корпуса: ": "Пластик",
         "Беспроводные интерфейсы: ": "Bluetooth, GPS, NFC, Wi-Fi, ИК-порт"
       },
-      "price": 817.94,
+      "price": 15377,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-y/wc250/6179208034.jpg",
       "isChoise": true,
       "count": 1
@@ -5299,9 +5299,9 @@
         "Процессор: ": "Dimensity 700 (8 ядер), 2.2 ГГц",
         "Основной материал корпуса: ": "Пластик"
       },
-      "price": 922.74,
+      "price": 17348,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-w/wc250/6067747424.jpg",
       "isChoise": true,
       "count": 1
@@ -5318,9 +5318,9 @@
         "Основной материал корпуса: ": "Пластик",
         "Беспроводные интерфейсы: ": "Bluetooth, GPS, NFC, Wi-Fi"
       },
-      "price": 950.28,
+      "price": 17865,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-u/wc250/6274237302.jpg",
       "isChoise": true,
       "count": 1
@@ -5337,9 +5337,9 @@
         "Процессор: ": "Helio G85 (8 ядер), 2.0 ГГц",
         "Основной материал корпуса: ": "Пластик"
       },
-      "price": 535.68,
+      "price": 10071,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-y/wc250/6139525522.jpg",
       "isChoise": true,
       "count": 1
@@ -5356,9 +5356,9 @@
         "Процессор: ": "Helio G85 (8 ядер), 2.0 ГГц",
         "Основной материал корпуса: ": "Пластик"
       },
-      "price": 533.36,
+      "price": 10027,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-r/wc250/6139525551.jpg",
       "isChoise": true,
       "count": 1
@@ -5375,9 +5375,9 @@
         "Процессор: ": "SC9863A (8 ядер), 1.6 ГГц",
         "Основной материал корпуса: ": "Пластик"
       },
-      "price": 388.56,
+      "price": 7305,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-m/wc250/6058807426.jpg",
       "isChoise": true,
       "count": 1
@@ -5394,9 +5394,9 @@
         "Процессор: ": "SC9863A (8 ядер), 1.6 ГГц",
         "Основной материал корпуса: ": "Пластик"
       },
-      "price": 355.39,
+      "price": 6681,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-1/wc250/6267878017.jpg",
       "isChoise": true,
       "count": 1
@@ -5413,9 +5413,9 @@
         "Процессор: ": "Helio G96 (8 ядер), 2.05 ГГц",
         "Основной материал корпуса: ": "Пластик"
       },
-      "price": 824.37,
+      "price": 15498,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-i/wc250/6127228410.jpg",
       "isChoise": true,
       "count": 1
@@ -5432,9 +5432,9 @@
         "Процессор: ": "Helio G96 (8 ядер), 2.05 ГГц",
         "Основной материал корпуса: ": "Пластик"
       },
-      "price": 707.15,
+      "price": 13294,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-i/wc250/6127228410.jpg",
       "isChoise": true,
       "count": 1
@@ -5451,9 +5451,9 @@
         "Процессор: ": "T610 (8 ядер), 1.8 ГГц",
         "Основной материал корпуса: ": "Пластик"
       },
-      "price": 424.14,
+      "price": 7974,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-y/wc250/6132871498.jpg",
       "isChoise": true,
       "count": 1
@@ -5470,9 +5470,9 @@
         "Процессор: ": "SC9863A (8 ядер), 1.6 ГГц",
         "Основной материал корпуса: ": "Пластик"
       },
-      "price": 355.39,
+      "price": 6681,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-w/wc250/6267877832.jpg",
       "isChoise": true,
       "count": 1
@@ -5489,9 +5489,9 @@
         "Процессор: ": "Helio G95 (8 ядер), 2.05 ГГц",
         "Основной материал корпуса: ": "Пластик"
       },
-      "price": 864.21,
+      "price": 16247,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-s/wc250/6058807396.jpg",
       "isChoise": true,
       "count": 1
@@ -5508,9 +5508,9 @@
         "Процессор: ": "Helio G95 (8 ядер), 2.05 ГГц",
         "Основной материал корпуса: ": "Пластик"
       },
-      "price": 924.95,
+      "price": 17389,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-7/wc250/6058807447.jpg",
       "isChoise": true,
       "count": 1
@@ -5527,9 +5527,9 @@
         "Процессор: ": "SC9863A (8 ядер), 1.6 ГГц",
         "Основной материал корпуса: ": "Пластик"
       },
-      "price": 388.56,
+      "price": 7305,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-c/wc250/6058807488.jpg",
       "isChoise": true,
       "count": 1
@@ -5546,9 +5546,9 @@
         "Процессор: ": "Helio G85 (8 ядер), 2.0 ГГц",
         "Основной материал корпуса: ": "Пластик"
       },
-      "price": 707.15,
+      "price": 13294,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-1/wc250/6086551057.jpg",
       "isChoise": true,
       "count": 1
@@ -5565,9 +5565,9 @@
         "Процессор: ": "Helio G96 (8 ядер), 2.05 ГГц",
         "Основной материал корпуса: ": "Пластик"
       },
-      "price": 747.14,
+      "price": 14046,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-4/wc250/6127228216.jpg",
       "isChoise": true,
       "count": 1
@@ -5584,9 +5584,9 @@
         "Процессор: ": "Helio G96 (8 ядер), 2.05 ГГц",
         "Основной материал корпуса: ": "Пластик"
       },
-      "price": 707.15,
+      "price": 13294,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-b/wc250/6129675323.jpg",
       "isChoise": true,
       "count": 1
@@ -5603,9 +5603,9 @@
         "Процессор: ": "T610 (8 ядер), 1.8 ГГц",
         "Основной материал корпуса: ": "Пластик"
       },
-      "price": 521.25,
+      "price": 9800,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-0/wc250/6086551056.jpg",
       "isChoise": true,
       "count": 1
@@ -5622,9 +5622,9 @@
         "Процессор: ": "Snapdragon 778G (8 ядер), 2.4 ГГц",
         "Основной материал корпуса: ": "Пластик"
       },
-      "price": 1270.52,
+      "price": 23886,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-u/wc250/6094715022.jpg",
       "isChoise": true,
       "count": 1
@@ -5641,9 +5641,9 @@
         "Процессор: ": "T610 (8 ядер), 1.8 ГГц",
         "Основной материал корпуса: ": "Пластик"
       },
-      "price": 492.65,
+      "price": 9262,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-d/wc250/6129140761.jpg",
       "isChoise": true,
       "count": 1
@@ -5660,9 +5660,9 @@
         "Основной материал корпуса: ": "Пластик",
         "Беспроводные интерфейсы: ": "Bluetooth, Wi-Fi, NFC"
       },
-      "price": 484.76,
+      "price": 9113,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-x/wc250/6286735317.jpg",
       "isChoise": true,
       "count": 1
@@ -5679,9 +5679,9 @@
         "Процессор: ": "T610 (8 ядер), 1.8 ГГц",
         "Основной материал корпуса: ": "Пластик"
       },
-      "price": 484.76,
+      "price": 9113,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-n/wc250/6150082583.jpg",
       "isChoise": true,
       "count": 1
@@ -5698,9 +5698,9 @@
         "Процессор: ": "T610 (8 ядер), 1.8 ГГц",
         "Основной материал корпуса: ": "Пластик"
       },
-      "price": 424.14,
+      "price": 7974,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-a/wc250/6132871402.jpg",
       "isChoise": true,
       "count": 1
@@ -5717,9 +5717,9 @@
         "Процессор: ": "Helio G25 (8 ядер), 2.0 ГГц",
         "Основной материал корпуса: ": "Пластик"
       },
-      "price": 400.43,
+      "price": 7528,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-3/wc250/6019317963.jpg",
       "isChoise": true,
       "count": 1
@@ -5736,9 +5736,9 @@
         "Процессор: ": "Helio G95 (8 ядер), 2.05 ГГц",
         "Основной материал корпуса: ": "Пластик, Стекло"
       },
-      "price": 709.2,
+      "price": 13333,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-i/wc250/6070253982.jpg",
       "isChoise": true,
       "count": 1
@@ -5755,9 +5755,9 @@
         "Процессор: ": "Helio G95 (8 ядер), 2.05 ГГц",
         "Беспроводные интерфейсы: ": "Wi-Fi, Bluetooth, GPS"
       },
-      "price": 709.2,
+      "price": 13333,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-a/wc250/6159459994.jpg",
       "isChoise": true,
       "count": 1
@@ -5774,9 +5774,9 @@
         "Процессор: ": "Helio G95 (8 ядер), 2.05 ГГц",
         "Основной материал корпуса: ": "Пластик, Стекло"
       },
-      "price": 709.2,
+      "price": 13333,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-g/wc250/6070253980.jpg",
       "isChoise": true,
       "count": 1
@@ -5793,9 +5793,9 @@
         "Процессор: ": "Snapdragon 778G (8 ядер), 2.4 ГГц",
         "Основной материал корпуса: ": "Пластик, Стекло"
       },
-      "price": 1024.75,
+      "price": 19265,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-l/wc250/6129266553.jpg",
       "isChoise": true,
       "count": 1
@@ -5812,9 +5812,9 @@
         "Процессор: ": "Snapdragon 778G (8 ядер), 2.4 ГГц",
         "Основной материал корпуса: ": "Пластик, Стекло"
       },
-      "price": 1024.75,
+      "price": 19265,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-h/wc250/6129266261.jpg",
       "isChoise": true,
       "count": 1
@@ -5831,9 +5831,9 @@
         "Процессор: ": "Dimensity 700 (8 ядер), 2.2 ГГц",
         "Основной материал корпуса: ": "Пластик, Стекло"
       },
-      "price": 788.08,
+      "price": 14816,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-a/wc250/6067361230.jpg",
       "isChoise": true,
       "count": 1
@@ -5850,9 +5850,9 @@
         "Процессор: ": "Snapdragon 778G (8 ядер), 2.4 ГГц",
         "Основной материал корпуса: ": "Пластик, Стекло"
       },
-      "price": 1182.8,
+      "price": 22237,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-r/wc250/6129266559.jpg",
       "isChoise": true,
       "count": 1
@@ -5869,9 +5869,9 @@
         "Процессор: ": "Snapdragon 778G (8 ядер), 2.4 ГГц",
         "Основной материал корпуса: ": "Пластик, Стекло"
       },
-      "price": 1024.75,
+      "price": 19265,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-l/wc250/6129266265.jpg",
       "isChoise": true,
       "count": 1
@@ -5888,9 +5888,9 @@
         "Процессор: ": "Dimensity 700 (8 ядер), 2.2 ГГц",
         "Основной материал корпуса: ": "Пластик, Стекло"
       },
-      "price": 788.08,
+      "price": 14816,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-d/wc250/6067361233.jpg",
       "isChoise": true,
       "count": 1
@@ -5907,9 +5907,9 @@
         "Процессор: ": "Snapdragon 778G (8 ядер), 2.4 ГГц",
         "Основной материал корпуса: ": "Пластик, Стекло"
       },
-      "price": 1355.6,
+      "price": 25485,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-u/wc250/6152783310.jpg",
       "isChoise": true,
       "count": 1
@@ -5926,9 +5926,9 @@
         "Процессор: ": "Helio G25 (8 ядер), 2.0 ГГц",
         "Основной материал корпуса: ": "Пластик"
       },
-      "price": 404.69,
+      "price": 7608,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-1/wc250/6019317889.jpg",
       "isChoise": true,
       "count": 1
@@ -5945,9 +5945,9 @@
         "Процессор: ": "Helio P35 (8 ядер), 2.3 ГГц",
         "Основной материал корпуса: ": "Пластик"
       },
-      "price": 684.9,
+      "price": 12876,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-q/wc250/6157064678.jpg",
       "isChoise": true,
       "count": 1
@@ -5964,9 +5964,9 @@
         "Процессор: ": "Snapdragon 720G (8 ядер), 2.3 ГГц",
         "Основной материал корпуса: ": "Пластик, Стекло"
       },
-      "price": 986.64,
+      "price": 18549,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-k/wc250/6017859116.jpg",
       "isChoise": true,
       "count": 1
@@ -5983,9 +5983,9 @@
         "Процессор: ": "Dimensity 1200 (8 ядер), 3.0 ГГц",
         "Основной материал корпуса: ": "Металл, Стекло"
       },
-      "price": 1525.09,
+      "price": 28672,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-m/wc250/6129266554.jpg",
       "isChoise": true,
       "count": 1
@@ -6002,9 +6002,9 @@
         "Процессор: ": "Helio G25 (8 ядер), 2.0 ГГц",
         "Основной материал корпуса: ": "Пластик"
       },
-      "price": 392.27,
+      "price": 7375,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-g/wc250/6221523640.jpg",
       "isChoise": true,
       "count": 1
@@ -6021,9 +6021,9 @@
         "Процессор: ": "Helio G25 (8 ядер), 2.0 ГГц",
         "Основной материал корпуса: ": "Пластик"
       },
-      "price": 392.27,
+      "price": 7375,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-f/wc250/6221514459.jpg",
       "isChoise": true,
       "count": 1
@@ -6040,9 +6040,9 @@
         "Процессор: ": "Dimensity 1200 (8 ядер), 3.0 ГГц",
         "Основной материал корпуса: ": "Металл, Стекло"
       },
-      "price": 1685.82,
+      "price": 31693,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-i/wc250/6129266262.jpg",
       "isChoise": true,
       "count": 1
@@ -6059,9 +6059,9 @@
         "Процессор: ": "Helio G25 (8 ядер), 2.0 ГГц",
         "Основной материал корпуса: ": "Пластик"
       },
-      "price": 392.27,
+      "price": 7375,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-y/wc250/6181633642.jpg",
       "isChoise": true,
       "count": 1
@@ -6078,9 +6078,9 @@
         "Процессор: ": "Helio P35 (8 ядер), 2.3 ГГц",
         "Основной материал корпуса: ": "Пластик"
       },
-      "price": 684.9,
+      "price": 12876,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-m/wc250/6156663166.jpg",
       "isChoise": true,
       "count": 1
@@ -6097,9 +6097,9 @@
         "Процессор: ": "SC7731E (4 ядра), 1.3 ГГц",
         "Основной материал корпуса: ": "Пластик"
       },
-      "price": 188.58,
+      "price": 3545,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-1/wc250/6273969685.jpg",
       "isChoise": true,
       "count": 1
@@ -6116,9 +6116,9 @@
         "Процессор: ": "Tiger T618 (8 ядер), 2.0 ГГц",
         "Основной материал корпуса: ": "Пластик"
       },
-      "price": 585.86,
+      "price": 11014,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-l/wc250/6084701649.jpg",
       "isChoise": true,
       "count": 1
@@ -6135,9 +6135,9 @@
         "Основной материал корпуса: ": "Пластик",
         "Беспроводные интерфейсы: ": "Bluetooth, Wi-Fi"
       },
-      "price": 585.86,
+      "price": 11014,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-y/wc250/6087202690.jpg",
       "isChoise": true,
       "count": 1
@@ -6154,9 +6154,9 @@
         "Беспроводные интерфейсы: ": "NFC",
         "Разрешение экрана: ": "1640x720"
       },
-      "price": 464.13,
+      "price": 8726,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-e/wc250/6083457482.jpg",
       "isChoise": true,
       "count": 1
@@ -6173,9 +6173,9 @@
         "Беспроводные интерфейсы: ": "NFC",
         "Разрешение экрана: ": "1640x720"
       },
-      "price": 464.13,
+      "price": 8726,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-j/wc250/6083457343.jpg",
       "isChoise": true,
       "count": 1
@@ -6192,9 +6192,9 @@
         "Процессор: ": "SC7731E (4 ядра), 1.3 ГГц",
         "Основной материал корпуса: ": "Пластик"
       },
-      "price": 169.29,
+      "price": 3183,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-f/wc250/6274226343.jpg",
       "isChoise": true,
       "count": 1
@@ -6211,9 +6211,9 @@
         "Процессор: ": "SC9863A (8 ядер), 1.6 ГГц",
         "Основной материал корпуса: ": "Пластик"
       },
-      "price": 265.65,
+      "price": 4994,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-p/wc250/6274226353.jpg",
       "isChoise": true,
       "count": 1
@@ -6230,9 +6230,9 @@
         "Процессор: ": "SC7731E (4 ядра), 1.3 ГГц",
         "Основной материал корпуса: ": "Пластик"
       },
-      "price": 225.14,
+      "price": 4233,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-e/wc250/6029269166.jpg",
       "isChoise": true,
       "count": 1
@@ -6249,9 +6249,9 @@
         "Процессор: ": "SC9863A (8 ядер), 1.6 ГГц",
         "Основной материал корпуса: ": "Пластик"
       },
-      "price": 367.69,
+      "price": 6913,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-q/wc250/6274226282.jpg",
       "isChoise": true,
       "count": 1
@@ -6268,9 +6268,9 @@
         "Процессор: ": "SC9863A (8 ядер), 1.6 ГГц",
         "Основной материал корпуса: ": "Пластик"
       },
-      "price": 368.09,
+      "price": 6920,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-6/wc250/6274226298.jpg",
       "isChoise": true,
       "count": 1
@@ -6287,9 +6287,9 @@
         "Процессор: ": "SC9832E (4 ядра), 1.3 ГГц",
         "Основной материал корпуса: ": "Пластик"
       },
-      "price": 253.03,
+      "price": 4757,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-s/wc250/6017179300.jpg",
       "isChoise": true,
       "count": 1
@@ -6306,9 +6306,9 @@
         "Процессор: ": "SC7731E (4 ядра), 1.3 ГГц",
         "Основной материал корпуса: ": "Пластик"
       },
-      "price": 227.55,
+      "price": 4278,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-3/wc250/6029269371.jpg",
       "isChoise": true,
       "count": 1
@@ -6325,9 +6325,9 @@
         "Процессор: ": "SC9832E (4 ядра), 1.3 ГГц",
         "Основной материал корпуса: ": "Пластик"
       },
-      "price": 253.03,
+      "price": 4757,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-1/wc250/6017179309.jpg",
       "isChoise": true,
       "count": 1
@@ -6344,9 +6344,9 @@
         "Основной материал корпуса: ": "Пластик",
         "Беспроводные интерфейсы: ": "Wi-Fi, Bluetooth, GPS"
       },
-      "price": 303.32,
+      "price": 5702,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-5/wc250/6273752141.jpg",
       "isChoise": true,
       "count": 1
@@ -6363,9 +6363,9 @@
         "Процессор: ": "SC9863A (8 ядер), 1.6 ГГц",
         "Основной материал корпуса: ": "Пластик"
       },
-      "price": 303.32,
+      "price": 5702,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-s/wc250/6273745072.jpg",
       "isChoise": true,
       "count": 1
@@ -6382,9 +6382,9 @@
         "Процессор: ": "SC9863A (8 ядер), 1.6 ГГц",
         "Основной материал корпуса: ": "Пластик"
       },
-      "price": 295.04,
+      "price": 5547,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-c/wc250/6072178608.jpg",
       "isChoise": true,
       "count": 1
@@ -6401,9 +6401,9 @@
         "Процессор: ": "SC9863A (8 ядер), 1.6 ГГц",
         "Основной материал корпуса: ": "Пластик"
       },
-      "price": 265.73,
+      "price": 4996,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-4/wc250/6274226332.jpg",
       "isChoise": true,
       "count": 1
@@ -6420,9 +6420,9 @@
         "Процессор: ": "SC9832E (4 ядра), 1.3 ГГц",
         "Основной материал корпуса: ": "Пластик"
       },
-      "price": 253.03,
+      "price": 4757,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-j/wc250/6017179291.jpg",
       "isChoise": true,
       "count": 1
@@ -6439,9 +6439,9 @@
         "Процессор: ": "SC9863A (8 ядер), 1.6 ГГц",
         "Основной материал корпуса: ": "Пластик"
       },
-      "price": 444.33,
+      "price": 8353,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-b/wc250/6071955551.jpg",
       "isChoise": true,
       "count": 1
@@ -6458,9 +6458,9 @@
         "Процессор: ": "SC9863A (8 ядер), 1.6 ГГц",
         "Основной материал корпуса: ": "Пластик"
       },
-      "price": 356.77,
+      "price": 6707,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-6/wc250/6274226298.jpg",
       "isChoise": true,
       "count": 1
@@ -6477,9 +6477,9 @@
         "Совместимость: ": "Android, iOS",
         "Защита от влаги: ": "Да"
       },
-      "price": 165.27,
+      "price": 3107,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-6/wc250/6031653798.jpg",
       "isChoise": true,
       "count": 1
@@ -6496,9 +6496,9 @@
         "Совместимость: ": "iOS, Android",
         "Защита от влаги: ": "Да"
       },
-      "price": 185.31,
+      "price": 3484,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-0/wc250/6081393408.jpg",
       "isChoise": true,
       "count": 1
@@ -6515,9 +6515,9 @@
         "Совместимость: ": "Android",
         "Защита от влаги: ": "Да"
       },
-      "price": 480.82,
+      "price": 9039,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-j/wc250/6244323955.jpg",
       "isChoise": true,
       "count": 1
@@ -6534,9 +6534,9 @@
         "Совместимость: ": "Android",
         "Защита от влаги: ": "Да"
       },
-      "price": 485.12,
+      "price": 9120,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-i/wc250/6177779070.jpg",
       "isChoise": true,
       "count": 1
@@ -6553,9 +6553,9 @@
         "Совместимость: ": "Android",
         "Защита от влаги: ": "Да"
       },
-      "price": 453.21,
+      "price": 8520,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-5/wc250/6177779057.jpg",
       "isChoise": true,
       "count": 1
@@ -6572,9 +6572,9 @@
         "Совместимость: ": "Android, iOS",
         "Защита от влаги: ": "Да"
       },
-      "price": 512.37,
+      "price": 9633,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-x/wc250/6081393477.jpg",
       "isChoise": true,
       "count": 1
@@ -6591,9 +6591,9 @@
         "Совместимость: ": "Android, iOS",
         "Защита от влаги: ": "Да"
       },
-      "price": 201.56,
+      "price": 3789,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-9/wc250/6030215853.jpg",
       "isChoise": true,
       "count": 1
@@ -6610,9 +6610,9 @@
         "Совместимость: ": "Android",
         "Бесконтактная оплата: ": "Нет"
       },
-      "price": 485.12,
+      "price": 9120,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-y/wc250/6177778942.jpg",
       "isChoise": true,
       "count": 1
@@ -6629,9 +6629,9 @@
         "Совместимость: ": "Android, iOS",
         "Защита от влаги: ": "Да"
       },
-      "price": 409.03,
+      "price": 7690,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-q/wc250/6155121326.jpg",
       "isChoise": true,
       "count": 1
@@ -6648,9 +6648,9 @@
         "Совместимость: ": "Android, iOS",
         "Защита от влаги: ": "Да"
       },
-      "price": 404.93,
+      "price": 7613,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-s/wc250/6036807616.jpg",
       "isChoise": true,
       "count": 1
@@ -6667,9 +6667,9 @@
         "Защита от влаги: ": "Да",
         "Степень защиты: ": "IP68"
       },
-      "price": 210.27,
+      "price": 3953,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-v/wc250/6018848371.jpg",
       "isChoise": true,
       "count": 1
@@ -6686,9 +6686,9 @@
         "Совместимость: ": "Android, iOS",
         "Защита от влаги: ": "Да"
       },
-      "price": 565.62,
+      "price": 10634,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-6/wc250/6134436966.jpg",
       "isChoise": true,
       "count": 1
@@ -6705,9 +6705,9 @@
         "Совместимость: ": "Android",
         "Защита от влаги: ": "Нет"
       },
-      "price": 95.02,
+      "price": 1786,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-3/wc250/6107255703.jpg",
       "isChoise": true,
       "count": 1
@@ -6724,9 +6724,9 @@
         "Совместимость: ": "Android, iOS",
         "Защита от влаги: ": "Да"
       },
-      "price": 551.82,
+      "price": 10374,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-2/wc250/6248196386.jpg",
       "isChoise": true,
       "count": 1
@@ -6743,9 +6743,9 @@
         "Время работы от аккумулятора, дни: ": "40",
         "Технология матрицы: ": "TFT"
       },
-      "price": 216.55,
+      "price": 4071,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-t/wc250/6266609729.jpg",
       "isChoise": true,
       "count": 1
@@ -6762,9 +6762,9 @@
         "Совместимость: ": "Android, iOS",
         "Защита от влаги: ": "Да"
       },
-      "price": 97.78,
+      "price": 1838,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-6/wc250/6025728270.jpg",
       "isChoise": true,
       "count": 1
@@ -6781,9 +6781,9 @@
         "Совместимость: ": "iOS, Android",
         "Степень защиты: ": "IP68"
       },
-      "price": 169.77,
+      "price": 3192,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-1/wc250/6283902409.jpg",
       "isChoise": true,
       "count": 1
@@ -6800,9 +6800,9 @@
         "Совместимость: ": "Android, iOS",
         "Защита от влаги: ": "Да"
       },
-      "price": 346.75,
+      "price": 6519,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-q/wc250/6155121326.jpg",
       "isChoise": true,
       "count": 1
@@ -6819,9 +6819,9 @@
         "Совместимость: ": "Android",
         "Защита от влаги: ": "Нет"
       },
-      "price": 99.6,
+      "price": 1872,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-0/wc250/6283561236.jpg",
       "isChoise": true,
       "count": 1
@@ -6838,9 +6838,9 @@
         "Совместимость: ": "Android, iOS",
         "Степень защиты: ": "IP68"
       },
-      "price": 526.22,
+      "price": 9893,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-1/wc250/6025733161.jpg",
       "isChoise": true,
       "count": 1
@@ -6857,9 +6857,9 @@
         "Защищенность: ": "Водонепроницаемость",
         "Время работы от аккумулятора, дни: ": "14"
       },
-      "price": 145.55,
+      "price": 2736,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-m/wc250/6151153582.jpg",
       "isChoise": true,
       "count": 1
@@ -6876,9 +6876,9 @@
         "Мониторинг: ": "Сна",
         "Защищенность: ": "Водонепроницаемость"
       },
-      "price": 172.21,
+      "price": 3238,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-1/wc250/6151153597.jpg",
       "isChoise": true,
       "count": 1
@@ -6895,9 +6895,9 @@
         "Совместимость: ": "Android, iOS",
         "Защита от влаги: ": "Да"
       },
-      "price": 323.04,
+      "price": 6073,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-x/wc250/6083438997.jpg",
       "isChoise": true,
       "count": 1
@@ -6914,9 +6914,9 @@
         "Защищенность: ": "Водонепроницаемость",
         "Время работы от аккумулятора, дни: ": "14"
       },
-      "price": 160.54,
+      "price": 3018,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-3/wc250/6151153671.jpg",
       "isChoise": true,
       "count": 1
@@ -6933,9 +6933,9 @@
         "Совместимость: ": "Android",
         "Защита от влаги: ": "Да"
       },
-      "price": 743.59,
+      "price": 13979,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-x/wc250/6083438961.jpg",
       "isChoise": true,
       "count": 1
@@ -6952,9 +6952,9 @@
         "Совместимость: ": "Android, iOS",
         "Защита от влаги: ": "Да"
       },
-      "price": 472.93,
+      "price": 8891,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-j/wc250/6082570195.jpg",
       "isChoise": true,
       "count": 1
@@ -6971,9 +6971,9 @@
         "Мониторинг: ": "Сна",
         "Защищенность: ": "Водонепроницаемость"
       },
-      "price": 147.91,
+      "price": 2781,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-q/wc250/6266745158.jpg",
       "isChoise": true,
       "count": 1
@@ -6990,9 +6990,9 @@
         "Совместимость: ": "Android, iOS",
         "Защита от влаги: ": "Да"
       },
-      "price": 298.08,
+      "price": 5604,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-g/wc250/6153002284.jpg",
       "isChoise": true,
       "count": 1
@@ -7009,9 +7009,9 @@
         "Совместимость: ": "Android, iOS",
         "Защита от влаги: ": "Да"
       },
-      "price": 958.44,
+      "price": 18019,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-5/wc250/6091712993.jpg",
       "isChoise": true,
       "count": 1
@@ -7028,9 +7028,9 @@
         "Совместимость: ": "Android, iOS",
         "Защита от влаги: ": "Да"
       },
-      "price": 286.87,
+      "price": 5393,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-6/wc250/6083438934.jpg",
       "isChoise": true,
       "count": 1
@@ -7047,9 +7047,9 @@
         "Степень защиты: ": "IP69K",
         "Время работы от аккумулятора, дни: ": "14"
       },
-      "price": 220.49,
+      "price": 4145,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-x/wc250/6273840117.jpg",
       "isChoise": true,
       "count": 1
@@ -7066,9 +7066,9 @@
         "Мониторинг: ": "Физической активности",
         "Диагональ экрана, дюймы: ": "1.47"
       },
-      "price": 145.94,
+      "price": 2744,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-4/wc250/6066534844.jpg",
       "isChoise": true,
       "count": 1
@@ -7085,9 +7085,9 @@
         "Совместимость: ": "Android, iOS",
         "Защита от влаги: ": "Да"
       },
-      "price": 433.49,
+      "price": 8150,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-d/wc250/6166965349.jpg",
       "isChoise": true,
       "count": 1
@@ -7104,9 +7104,9 @@
         "Совместимость: ": "Android, iOS",
         "Защита от влаги: ": "Да"
       },
-      "price": 444.29,
+      "price": 8353,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-s/wc250/6083440036.jpg",
       "isChoise": true,
       "count": 1
@@ -7123,9 +7123,9 @@
         "Время работы от аккумулятора, дни: ": "14",
         "Технология матрицы: ": "AMOLED"
       },
-      "price": 474.82,
+      "price": 8927,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-8/wc250/6272785832.jpg",
       "isChoise": true,
       "count": 1
@@ -7142,9 +7142,9 @@
         "Совместимость: ": "Android, iOS",
         "Защита от влаги: ": "Да"
       },
-      "price": 906.81,
+      "price": 17048,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-w/wc250/6286926872.jpg",
       "isChoise": true,
       "count": 1
@@ -7161,9 +7161,9 @@
         "Защита от влаги: ": "Да",
         "Время работы от аккумулятора, дни: ": "14"
       },
-      "price": 474.82,
+      "price": 8927,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-f/wc250/6172379211.jpg",
       "isChoise": true,
       "count": 1
@@ -7180,9 +7180,9 @@
         "Совместимость: ": "Android, iOS",
         "Защита от влаги: ": "Да"
       },
-      "price": 689.87,
+      "price": 12970,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-7/wc250/6160233199.jpg",
       "isChoise": true,
       "count": 1
@@ -7199,9 +7199,9 @@
         "Защищенность: ": "Водонепроницаемость",
         "Время работы от аккумулятора, дни: ": "14"
       },
-      "price": 149.41,
+      "price": 2809,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-3/wc250/6151153671.jpg",
       "isChoise": true,
       "count": 1
@@ -7218,9 +7218,9 @@
         "Совместимость: ": "Android, iOS",
         "Защита от влаги: ": "Да"
       },
-      "price": 764.38,
+      "price": 14370,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-1/wc250/6160233085.jpg",
       "isChoise": true,
       "count": 1
@@ -7237,9 +7237,9 @@
         "Защищенность: ": "Водонепроницаемость",
         "Время работы от аккумулятора, дни: ": "14"
       },
-      "price": 133.32,
+      "price": 2506,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-q/wc250/6059058530.jpg",
       "isChoise": true,
       "count": 1
@@ -7256,9 +7256,9 @@
         "Мониторинг: ": "Калорий, Сна, Физической активности",
         "Защищенность: ": "Водонепроницаемость, Защита от пыли и влаги, Пыленепроницаемость"
       },
-      "price": 106.02,
+      "price": 1993,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-x/wc250/6019146669.jpg",
       "isChoise": true,
       "count": 1
@@ -7275,9 +7275,9 @@
         "Мониторинг: ": "Сердечного ритма, Сна, Физической активности",
         "Защищенность: ": "Водонепроницаемость"
       },
-      "price": 174.54,
+      "price": 3281,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-c/wc250/6129630540.jpg",
       "isChoise": true,
       "count": 1
@@ -7294,9 +7294,9 @@
         "Мониторинг: ": "Сна, Физической активности, Сердечного ритма",
         "Защищенность: ": "Водонепроницаемость"
       },
-      "price": 115.33,
+      "price": 2168,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-0/wc250/6085386456.jpg",
       "isChoise": true,
       "count": 1
@@ -7313,9 +7313,9 @@
         "Совместимость: ": "Android, iOS",
         "Защита от влаги: ": "Да"
       },
-      "price": 180.69,
+      "price": 3397,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-b/wc250/6161546555.jpg",
       "isChoise": true,
       "count": 1
@@ -7332,9 +7332,9 @@
         "Защита от влаги: ": "Да",
         "Время работы от аккумулятора, дни: ": "10"
       },
-      "price": 244,
+      "price": 4587,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-k/wc250/6161546564.jpg",
       "isChoise": true,
       "count": 1
@@ -7351,9 +7351,9 @@
         "Совместимость: ": "Android, iOS",
         "Защита от влаги: ": "Да"
       },
-      "price": 141.6,
+      "price": 2662,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-7/wc250/6055034431.jpg",
       "isChoise": true,
       "count": 1
@@ -7370,9 +7370,9 @@
         "Совместимость: ": "Android, iOS",
         "Защита от влаги: ": "Да"
       },
-      "price": 99.75,
+      "price": 1875,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-2/wc250/6126737426.jpg",
       "isChoise": true,
       "count": 1
@@ -7389,9 +7389,9 @@
         "Время работы от аккумулятора, дни: ": "20",
         "Вид дисплея: ": "AMOLED"
       },
-      "price": 79.16,
+      "price": 1488,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/multimedia/wc250/1036598489.jpg",
       "isChoise": true,
       "count": 1
@@ -7408,9 +7408,9 @@
         "Мониторинг: ": "Сна, Физической активности, Калорий, Сердечного ритма",
         "Защищенность: ": "Защита от пыли и влаги"
       },
-      "price": 136.08,
+      "price": 2558,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-r/wc250/6064827783.jpg",
       "isChoise": true,
       "count": 1
@@ -7427,9 +7427,9 @@
         "Совместимость: ": "Android, iOS",
         "Защита от влаги: ": "Да"
       },
-      "price": 153.44,
+      "price": 2885,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-o/wc250/6060521316.jpg",
       "isChoise": true,
       "count": 1
@@ -7446,9 +7446,9 @@
         "Защита от влаги: ": "Да",
         "Цвет товара: ": "черный"
       },
-      "price": 218.95,
+      "price": 4116,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-e/wc250/6036686714.jpg",
       "isChoise": true,
       "count": 1
@@ -7465,9 +7465,9 @@
         "Совместимость: ": "Android, iOS",
         "Защита от влаги: ": "Да"
       },
-      "price": 141.96,
+      "price": 2669,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-r/wc250/6050864823.jpg",
       "isChoise": true,
       "count": 1
@@ -7484,9 +7484,9 @@
         "Защита от влаги: ": "Да",
         "Степень защиты: ": "IP68"
       },
-      "price": 138.76,
+      "price": 2609,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-j/wc250/6154847107.jpg",
       "isChoise": true,
       "count": 1
@@ -7503,9 +7503,9 @@
         "Мониторинг: ": "Калорий, Сна, Физической активности",
         "Защищенность: ": "Водонепроницаемость"
       },
-      "price": 120.97,
+      "price": 2274,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-b/wc250/6017306075.jpg",
       "isChoise": true,
       "count": 1
@@ -7522,9 +7522,9 @@
         "Мониторинг: ": "Сердечного ритма, Сна, Физической активности",
         "Защищенность: ": "Водонепроницаемость"
       },
-      "price": 125.43,
+      "price": 2358,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-c/wc250/6160874436.jpg",
       "isChoise": true,
       "count": 1
@@ -7541,9 +7541,9 @@
         "Защита от влаги: ": "Да",
         "Степень защиты: ": "IP68"
       },
-      "price": 157.38,
+      "price": 2959,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-m/wc250/6191828434.jpg",
       "isChoise": true,
       "count": 1
@@ -7560,9 +7560,9 @@
         "Защита от влаги: ": "Да",
         "Бесконтактная оплата: ": "Нет"
       },
-      "price": 118.29,
+      "price": 2224,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-d/wc250/6067452421.jpg",
       "isChoise": true,
       "count": 1
@@ -7579,9 +7579,9 @@
         "Партномер: ": "XPAW004",
         "Комплектация: ": "Смарт-часы, Зарядное устройство"
       },
-      "price": 183.14,
+      "price": 3443,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-f/wc250/6250276767.jpg",
       "isChoise": true,
       "count": 1
@@ -7598,9 +7598,9 @@
         "Мониторинг: ": "Сна",
         "Защищенность: ": "Водонепроницаемость"
       },
-      "price": 116.36,
+      "price": 2188,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-b/wc250/6017306075.jpg",
       "isChoise": true,
       "count": 1
@@ -7617,9 +7617,9 @@
         "Встроенная память,  ГБ: ": "32",
         "Оперативная память: ": "2 ГБ"
       },
-      "price": 552.84,
+      "price": 10393,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-z/wc250/6161379035.jpg",
       "isChoise": true,
       "count": 1
@@ -7636,9 +7636,9 @@
         "Оперативная память: ": "2 ГБ",
         "Разрешение экрана: ": "1280x800"
       },
-      "price": 492.49,
+      "price": 9259,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-5/wc250/6152190545.jpg",
       "isChoise": true,
       "count": 1
@@ -7655,9 +7655,9 @@
         "Встроенная память,  ГБ: ": "128",
         "Оперативная память: ": "4 ГБ"
       },
-      "price": 882.47,
+      "price": 16590,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-z/wc250/6158100695.jpg",
       "isChoise": true,
       "count": 1
@@ -7674,9 +7674,9 @@
         "Встроенная память,  ГБ: ": "32",
         "Оперативная память: ": "2 ГБ"
       },
-      "price": 611.38,
+      "price": 11494,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-8/wc250/6158100668.jpg",
       "isChoise": true,
       "count": 1
@@ -7693,9 +7693,9 @@
         "Встроенная память,  ГБ: ": "16",
         "Оперативная память: ": "2 ГБ"
       },
-      "price": 554.03,
+      "price": 10416,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-u/wc250/6085088766.jpg",
       "isChoise": true,
       "count": 1
@@ -7712,9 +7712,9 @@
         "Встроенная память,  ГБ: ": "64",
         "Оперативная память: ": "4 ГБ"
       },
-      "price": 882.47,
+      "price": 16590,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-t/wc250/6158100473.jpg",
       "isChoise": true,
       "count": 1
@@ -7731,9 +7731,9 @@
         "Встроенная память,  ГБ: ": "128",
         "Оперативная память: ": "4 ГБ"
       },
-      "price": 1263.38,
+      "price": 23752,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-4/wc250/6044467060.jpg",
       "isChoise": true,
       "count": 1
@@ -7750,9 +7750,9 @@
         "Встроенная память,  ГБ: ": "128",
         "Оперативная память: ": "4 ГБ"
       },
-      "price": 1166.23,
+      "price": 21925,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-4/wc250/6044467060.jpg",
       "isChoise": true,
       "count": 1
@@ -7769,9 +7769,9 @@
         "Встроенная память,  ГБ: ": "128",
         "Оперативная память: ": "4 ГБ"
       },
-      "price": 1396.58,
+      "price": 26256,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-7/wc250/6260232055.jpg",
       "isChoise": true,
       "count": 1
@@ -7788,9 +7788,9 @@
         "Название цвета: ": "blue",
         "Цвет товара: ": "синий"
       },
-      "price": 839.52,
+      "price": 15783,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-t/wc250/6258183641.jpg",
       "isChoise": true,
       "count": 1
@@ -7807,9 +7807,9 @@
         "Встроенная память,  ГБ: ": "32",
         "Оперативная память: ": "2 ГБ"
       },
-      "price": 591.26,
+      "price": 11116,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-9/wc250/6272235861.jpg",
       "isChoise": true,
       "count": 1
@@ -7826,9 +7826,9 @@
         "Встроенная память,  ГБ: ": "128",
         "Оперативная память: ": "4 ГБ"
       },
-      "price": 981.04,
+      "price": 18444,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-i/wc250/6155038770.jpg",
       "isChoise": true,
       "count": 1
@@ -7845,9 +7845,9 @@
         "Встроенная память,  ГБ: ": "32",
         "Оперативная память: ": "2 ГБ"
       },
-      "price": 532.09,
+      "price": 10003,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-9/wc250/6272235861.jpg",
       "isChoise": true,
       "count": 1
@@ -7864,9 +7864,9 @@
         "Встроенная память,  ГБ: ": "64",
         "Оперативная память: ": "4 ГБ"
       },
-      "price": 1021.51,
+      "price": 19204,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-7/wc250/6260232055.jpg",
       "isChoise": true,
       "count": 1
@@ -7883,9 +7883,9 @@
         "Встроенная память,  ГБ: ": "128",
         "Оперативная память: ": "4 ГБ"
       },
-      "price": 1143.47,
+      "price": 21497,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-s/wc250/6274287772.jpg",
       "isChoise": true,
       "count": 1
@@ -7902,9 +7902,9 @@
         "Встроенная память,  ГБ: ": "32",
         "Оперативная память: ": "2 ГБ"
       },
-      "price": 787.37,
+      "price": 14803,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-d/wc250/6032119681.jpg",
       "isChoise": true,
       "count": 1
@@ -7921,9 +7921,9 @@
         "Партномер: ": "53012RDK",
         "Цвет товара: ": "темно-синий"
       },
-      "price": 523.81,
+      "price": 9848,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-3/wc250/6257491983.jpg",
       "isChoise": true,
       "count": 1
@@ -7940,9 +7940,9 @@
         "Название цвета: ": "blue",
         "Цвет товара: ": "синий"
       },
-      "price": 994.89,
+      "price": 18704,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-m/wc250/6258185182.jpg",
       "isChoise": true,
       "count": 1
@@ -7959,9 +7959,9 @@
         "Встроенная память,  ГБ: ": "32",
         "Оперативная память: ": "2 ГБ"
       },
-      "price": 706.04,
+      "price": 13274,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-8/wc250/6072202436.jpg",
       "isChoise": true,
       "count": 1
@@ -7978,9 +7978,9 @@
         "Встроенная память,  ГБ: ": "128",
         "Оперативная память: ": "6 ГБ"
       },
-      "price": 2130.55,
+      "price": 40054,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-3/wc250/6075750519.jpg",
       "isChoise": true,
       "count": 1
@@ -7997,9 +7997,9 @@
         "Встроенная память,  ГБ: ": "16",
         "Оперативная память: ": "1 ГБ"
       },
-      "price": 351.72,
+      "price": 6612,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-5/wc250/6007145969.jpg",
       "isChoise": true,
       "count": 1
@@ -8016,9 +8016,9 @@
         "Встроенная память,  ГБ: ": "128",
         "Оперативная память: ": "6 ГБ"
       },
-      "price": 1208.24,
+      "price": 22715,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-0/wc250/6094679784.jpg",
       "isChoise": true,
       "count": 1
@@ -8035,9 +8035,9 @@
         "Встроенная память,  ГБ: ": "128",
         "Оперативная память: ": "4 ГБ"
       },
-      "price": 851.59,
+      "price": 16010,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-l/wc250/6043391217.jpg",
       "isChoise": true,
       "count": 1
@@ -8054,9 +8054,9 @@
         "Встроенная память,  ГБ: ": "32",
         "Оперативная память: ": "2 ГБ"
       },
-      "price": 512.73,
+      "price": 9639,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-k/wc250/6015968504.jpg",
       "isChoise": true,
       "count": 1
@@ -8073,9 +8073,9 @@
         "Встроенная память,  ГБ: ": "32",
         "Оперативная память: ": "2 ГБ"
       },
-      "price": 374.04,
+      "price": 7032,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-n/wc250/6019317155.jpg",
       "isChoise": true,
       "count": 1
@@ -8092,9 +8092,9 @@
         "Встроенная память,  ГБ: ": "32",
         "Оперативная память: ": "2 ГБ"
       },
-      "price": 606.05,
+      "price": 11394,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-w/wc250/6014658764.jpg",
       "isChoise": true,
       "count": 1
@@ -8111,9 +8111,9 @@
         "Встроенная память,  ГБ: ": "32",
         "Оперативная память: ": "2 ГБ"
       },
-      "price": 467.8,
+      "price": 8795,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-s/wc250/6244357192.jpg",
       "isChoise": true,
       "count": 1
@@ -8130,9 +8130,9 @@
         "Встроенная память,  ГБ: ": "128",
         "Оперативная память: ": "4 ГБ"
       },
-      "price": 1214.47,
+      "price": 22832,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-t/wc250/6122034485.jpg",
       "isChoise": true,
       "count": 1
@@ -8149,9 +8149,9 @@
         "Встроенная память,  ГБ: ": "128",
         "Оперативная память: ": "6 ГБ"
       },
-      "price": 1296.2,
+      "price": 24369,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-m/wc250/6181744726.jpg",
       "isChoise": true,
       "count": 1
@@ -8168,9 +8168,9 @@
         "Встроенная память,  ГБ: ": "128",
         "Оперативная память: ": "4 ГБ"
       },
-      "price": 1141.85,
+      "price": 21467,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-b/wc250/6054990839.jpg",
       "isChoise": true,
       "count": 1
@@ -8187,9 +8187,9 @@
         "Встроенная память,  ГБ: ": "64",
         "Оперативная память: ": "4 ГБ"
       },
-      "price": 1073.42,
+      "price": 20180,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-2/wc250/6244357166.jpg",
       "isChoise": true,
       "count": 1
@@ -8206,9 +8206,9 @@
         "Встроенная память,  ГБ: ": "128",
         "Оперативная память: ": "4 ГБ"
       },
-      "price": 1009.36,
+      "price": 18976,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-l/wc250/6043391217.jpg",
       "isChoise": true,
       "count": 1
@@ -8225,9 +8225,9 @@
         "Встроенная память,  ГБ: ": "32",
         "Оперативная память: ": "3 ГБ"
       },
-      "price": 884.72,
+      "price": 16633,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-m/wc250/6010926058.jpg",
       "isChoise": true,
       "count": 1
@@ -8244,9 +8244,9 @@
         "Встроенная память,  ГБ: ": "32",
         "Оперативная память: ": "2 ГБ"
       },
-      "price": 492.65,
+      "price": 9262,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-r/wc250/6274066263.jpg",
       "isChoise": true,
       "count": 1
@@ -8263,9 +8263,9 @@
         "Встроенная память,  ГБ: ": "32",
         "Оперативная память: ": "3 ГБ"
       },
-      "price": 808.2,
+      "price": 15194,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-d/wc250/6007145941.jpg",
       "isChoise": true,
       "count": 1
@@ -8282,9 +8282,9 @@
         "Встроенная память,  ГБ: ": "128",
         "Оперативная память: ": "4 ГБ"
       },
-      "price": 788.83,
+      "price": 14830,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-i/wc250/6015968502.jpg",
       "isChoise": true,
       "count": 1
@@ -8301,9 +8301,9 @@
         "Встроенная память,  ГБ: ": "32",
         "Оперативная память: ": "2 ГБ"
       },
-      "price": 630.7,
+      "price": 11857,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-e/wc250/6236435450.jpg",
       "isChoise": true,
       "count": 1
@@ -8320,9 +8320,9 @@
         "Встроенная память,  ГБ: ": "128",
         "Оперативная память: ": "4 ГБ"
       },
-      "price": 1029.56,
+      "price": 19356,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-l/wc250/6043391217.jpg",
       "isChoise": true,
       "count": 1
@@ -8339,9 +8339,9 @@
         "Встроенная память,  ГБ: ": "128",
         "Оперативная память: ": "6 ГБ"
       },
-      "price": 1344.4,
+      "price": 25275,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-c/wc250/6181744284.jpg",
       "isChoise": true,
       "count": 1
@@ -8358,9 +8358,9 @@
         "Встроенная память,  ГБ: ": "128",
         "Оперативная память: ": "6 ГБ"
       },
-      "price": 2190.7,
+      "price": 41185,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-6/wc250/6150976410.jpg",
       "isChoise": true,
       "count": 1
@@ -8377,9 +8377,9 @@
         "Встроенная память,  ГБ: ": "128",
         "Оперативная память: ": "6 ГБ"
       },
-      "price": 1608.91,
+      "price": 30248,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-0/wc250/6172756440.jpg",
       "isChoise": true,
       "count": 1
@@ -8396,9 +8396,9 @@
         "Встроенная память,  ГБ: ": "128",
         "Оперативная память: ": "6 ГБ"
       },
-      "price": 1916.61,
+      "price": 36032,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-d/wc250/6145764265.jpg",
       "isChoise": true,
       "count": 1
@@ -8415,9 +8415,9 @@
         "Встроенная память,  ГБ: ": "128",
         "Оперативная память: ": "6 ГБ"
       },
-      "price": 1814.01,
+      "price": 34103,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-k/wc250/6136573004.jpg",
       "isChoise": true,
       "count": 1
@@ -8434,9 +8434,9 @@
         "Встроенная память,  ГБ: ": "128",
         "Оперативная память: ": "6 ГБ"
       },
-      "price": 1814.01,
+      "price": 34103,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-2/wc250/6136573598.jpg",
       "isChoise": true,
       "count": 1
@@ -8453,9 +8453,9 @@
         "Партномер: ": "Pad 5 6/128Gb Wi-Fi",
         "Цвет товара: ": "белый"
       },
-      "price": 1610.8,
+      "price": 30283,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-6/wc250/6252737034.jpg",
       "isChoise": true,
       "count": 1
@@ -8472,9 +8472,9 @@
         "Встроенная память,  ГБ: ": "128",
         "Оперативная память: ": "6 ГБ"
       },
-      "price": 1659.47,
+      "price": 31198,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-9/wc250/6125423109.jpg",
       "isChoise": true,
       "count": 1
@@ -8491,9 +8491,9 @@
         "Встроенная память,  ГБ: ": "128",
         "Оперативная память: ": "6 ГБ"
       },
-      "price": 1616.8,
+      "price": 30396,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-0/wc250/6172756440.jpg",
       "isChoise": true,
       "count": 1
@@ -8510,9 +8510,9 @@
         "Встроенная память,  ГБ: ": "128",
         "Оперативная память: ": "6 ГБ"
       },
-      "price": 1616.8,
+      "price": 30396,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-b/wc250/6172763831.jpg",
       "isChoise": true,
       "count": 1
@@ -8528,9 +8528,9 @@
         "Цвет товара: ": "белый",
         "Тип: ": "Детский планшет"
       },
-      "price": 94.66,
+      "price": 1780,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-d/wc250/6074666821.jpg",
       "isChoise": true,
       "count": 1
@@ -8547,9 +8547,9 @@
         "Оперативная память: ": "6 ГБ",
         "Разрешение экрана: ": "2560x1600"
       },
-      "price": 1657.07,
+      "price": 31153,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-g/wc250/6266618860.jpg",
       "isChoise": true,
       "count": 1
@@ -8566,9 +8566,9 @@
         "Оперативная память: ": "6 ГБ",
         "Разрешение экрана: ": "2560x1600"
       },
-      "price": 1656.24,
+      "price": 31137,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-0/wc250/6172756440.jpg",
       "isChoise": true,
       "count": 1
@@ -8585,9 +8585,9 @@
         "Оперативная память: ": "6 ГБ",
         "Операционная система: ": "Android"
       },
-      "price": 2233.97,
+      "price": 41999,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-5/wc250/6128724665.jpg",
       "isChoise": true,
       "count": 1
@@ -8604,9 +8604,9 @@
         "Название цвета: ": "Белый",
         "Цвет товара: ": "белый"
       },
-      "price": 1831.05,
+      "price": 34424,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-q/wc250/6146739626.jpg",
       "isChoise": true,
       "count": 1
@@ -8623,9 +8623,9 @@
         "Цвет товара: ": "белый",
         "Размеры, мм: ": "244x173x7"
       },
-      "price": 69.82,
+      "price": 1313,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-e/wc250/6271354982.jpg",
       "isChoise": true,
       "count": 1
@@ -8641,9 +8641,9 @@
         "Партномер: ": "Pad 5 6/128 WiFi Gray",
         "Цвет товара: ": "серый"
       },
-      "price": 2010.84,
+      "price": 37804,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-t/wc250/6289244909.jpg",
       "isChoise": true,
       "count": 1
@@ -8660,9 +8660,9 @@
         "Партномер: ": "21051182G",
         "Цвет товара: ": "серый"
       },
-      "price": 1577.83,
+      "price": 29663,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-3/wc250/6267077883.jpg",
       "isChoise": true,
       "count": 1
@@ -8678,9 +8678,9 @@
         "Партномер: ": "Xiaomi Pad 5 6/128Gb",
         "Цвет товара: ": "темно-серый"
       },
-      "price": 2366.23,
+      "price": 44485,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-k/wc250/6273244196.jpg",
       "isChoise": true,
       "count": 1
@@ -8697,9 +8697,9 @@
         "Оперативная память: ": "6 ГБ",
         "Разрешение экрана: ": "2560x1600"
       },
-      "price": 1791.29,
+      "price": 33676,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-u/wc250/6185920662.jpg",
       "isChoise": true,
       "count": 1
@@ -8716,9 +8716,9 @@
         "Встроенная память,  ГБ: ": "128",
         "Оперативная память: ": "6 ГБ"
       },
-      "price": 1791.29,
+      "price": 33676,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-7/wc250/6144868759.jpg",
       "isChoise": true,
       "count": 1
@@ -8735,9 +8735,9 @@
         "Оперативная память: ": "6 ГБ",
         "Разрешение экрана: ": "2560x1600"
       },
-      "price": 1831.05,
+      "price": 34424,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-2/wc250/6156215342.jpg",
       "isChoise": true,
       "count": 1
@@ -8754,9 +8754,9 @@
         "Smart TV: ": "Да",
         "Тип подсветки: ": "Direct LED"
       },
-      "price": 1049,
+      "price": 19721,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-8/wc250/6213103664.jpg",
       "isChoise": true,
       "count": 1
@@ -8773,9 +8773,9 @@
         "Smart TV: ": "Нет",
         "Тип подсветки: ": "Direct LED"
       },
-      "price": 488.83,
+      "price": 9190,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-y/wc250/6284253730.jpg",
       "isChoise": true,
       "count": 1
@@ -8792,9 +8792,9 @@
         "Smart TV: ": "Нет",
         "Тип подсветки: ": "Direct LED"
       },
-      "price": 621.95,
+      "price": 11693,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-p/wc250/6273758389.jpg",
       "isChoise": true,
       "count": 1
@@ -8811,9 +8811,9 @@
         "Smart TV: ": "Нет",
         "Тип подсветки: ": "Direct LED"
       },
-      "price": 696.5,
+      "price": 13094,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-q/wc250/6213069662.jpg",
       "isChoise": true,
       "count": 1
@@ -8830,9 +8830,9 @@
         "Smart TV: ": "Нет",
         "Тип подсветки: ": "Direct LED"
       },
-      "price": 596.39,
+      "price": 11212,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-2/wc250/6212875094.jpg",
       "isChoise": true,
       "count": 1
@@ -8849,9 +8849,9 @@
         "Smart TV: ": "Да",
         "Тип подсветки: ": "Direct LED"
       },
-      "price": 3550.64,
+      "price": 66752,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-v/wc250/6284314315.jpg",
       "isChoise": true,
       "count": 1
@@ -8868,9 +8868,9 @@
         "Smart TV: ": "Да",
         "Тип подсветки: ": "Direct LED"
       },
-      "price": 2230.07,
+      "price": 41925,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-v/wc250/6284273779.jpg",
       "isChoise": true,
       "count": 1
@@ -8887,9 +8887,9 @@
         "Smart TV: ": "Да",
         "Тип подсветки: ": "Direct LED"
       },
-      "price": 2805.15,
+      "price": 52737,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-1/wc250/6284295097.jpg",
       "isChoise": true,
       "count": 1
@@ -8906,9 +8906,9 @@
         "Тип подсветки: ": "Direct LED",
         "Беспроводные интерфейсы: ": "Wi-Fi"
       },
-      "price": 1814.72,
+      "price": 34117,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-w/wc250/6212814500.jpg",
       "isChoise": true,
       "count": 1
@@ -8925,9 +8925,9 @@
         "Smart TV: ": "Да",
         "Тип подсветки: ": "Direct LED"
       },
-      "price": 1969.15,
+      "price": 37020,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-0/wc250/6023147856.jpg",
       "isChoise": true,
       "count": 1
@@ -8944,9 +8944,9 @@
         "Smart TV: ": "Да",
         "Тип подсветки: ": "Direct LED"
       },
-      "price": 2608.13,
+      "price": 49033,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-w/wc250/6271462964.jpg",
       "isChoise": true,
       "count": 1
@@ -8963,9 +8963,9 @@
         "Smart TV: ": "Да",
         "Тип подсветки: ": "Edge LED"
       },
-      "price": 1969.15,
+      "price": 37020,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-c/wc250/6064893432.jpg",
       "isChoise": true,
       "count": 1
@@ -8982,9 +8982,9 @@
         "Smart TV: ": "Да",
         "Тип подсветки: ": "Direct LED"
       },
-      "price": 2384.49,
+      "price": 44828,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-4/wc250/6068304352.jpg",
       "isChoise": true,
       "count": 1
@@ -9001,9 +9001,9 @@
         "Smart TV: ": "Нет",
         "Тип подсветки: ": "Direct LED"
       },
-      "price": 947.83,
+      "price": 17819,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-4/wc250/6275455192.jpg",
       "isChoise": true,
       "count": 1
@@ -9020,9 +9020,9 @@
         "Тип подсветки: ": "Direct LED",
         "Беспроводные интерфейсы: ": "ИК-порт"
       },
-      "price": 995.76,
+      "price": 18720,
       "discount": 0,
-      "currency": "USD",
+      "currency": "RUB",
       "img": "https://cdn1.ozone.ru/s3/multimedia-q/wc250/6015911702.jpg",
       "isChoise": true,
       "count": 1
