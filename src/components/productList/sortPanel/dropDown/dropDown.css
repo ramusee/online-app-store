@@ -37,7 +37,9 @@
 	border-radius: 6px;
 	opacity: 0;
 	transition: .2s ease-out;
+	overflow: hidden;
 }
+
 .dropdown__item {
 	padding: 8px;
 	border-bottom: 1px solid #e3e3e3;

@@ -1,24 +1,22 @@
 import {createApi, fetchBaseQuery} from "@reduxjs/toolkit/dist/query/react";
 import {IProduct} from "../models/interfaces";
+import {IQueryArgs} from "../models/interfaces";
 
-interface IQueryArgs {
-	limit?: number;
-	page?: number;
-	sort?: string;
-}
 
 export const productAPI = createApi({
 	reducerPath: 'productAPI',
 	baseQuery: fetchBaseQuery({baseUrl: 'http://localhost:3001/'}),
 	tagTypes: [],
 	endpoints: (build) => ({
-		fetchAllProducts: build.query<IProduct[], IQueryArgs> ({
-			query: ({limit, page, sort}) => ({
+		fetchAllProducts: build.query<IProduct[], IQueryArgs>({
+			query: ({search, limit, currentPage, sort, order}) => ({
 				url: '/products',
 				params: {
+					q: search,
 					_limit: limit,
-					_page: page,
-					_sort: sort,
+					_page: currentPage,
+					_sort: sort === ('priceMin') || sort === ('priceMax') ? 'price' : sort,
+					_order: order,
 				},
 			})
 		})
@@ -26,4 +24,4 @@ export const productAPI = createApi({
 
 });
 
-export const {useFetchAllProductsQuery} = productAPI
+export const {useFetchAllProductsQuery} = productAPI;

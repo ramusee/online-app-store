@@ -1,4 +1,4 @@
-import {ICategoryRu, ISortItemsRu} from "../models/interfaces";
+import {ICategoryRu, ISortItemsRu} from "../../models/interfaces";
 
 export const categoryRu: ICategoryRu = {
 	Laptop: 'Ноутбук',

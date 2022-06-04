@@ -7,6 +7,7 @@
 	background-color: #f5f7ff;
 	width: 500px;
 	margin: 0 20px;
+	border: 1px solid #ededed;
 }
 
 .search-bar__input {

@@ -1,24 +1,36 @@
 import React, {FC, useContext, useState} from 'react';
-import {sortOptionsRu} from "../../../../RuHelpers/RuObjects";
-import SortContext from "../../Сontext";
+import {sortOptionsRu} from "../../../../helpers/RuHelpers/RuObjects";
+import SortContext from "../../../../Contexts/Сontext";
 import './dropDown.css';
-import {IContextOptionPanel} from "../../../../models/IProps";
-
-interface IPropsDropDown {
-	dropDownOptions: string[] | number[];
-}
+import { IPropsDropDown} from "../../../../models/IProps";
+import {useAppDispatch, useAppSelector} from "../../../../store/hooks/hooksRedux";
+import {mainSlice} from "../../../../store/reducers/mainSlice";
 
 const dropDownContentClasses = new Set(['dropdown__content']);
 const optionClasses = new Set(['dropdown__item']);
 
 const DropDown: FC<IPropsDropDown> = ({dropDownOptions}) => {
 	const [isActive, setIsActive] = useState(false);
+	const {limit, sort} = useAppSelector(state => state.mainReducer)
+	const {setSort, setLimit, setCurrentPage} = mainSlice.actions;
+	const dispatch = useAppDispatch()
 
-	const value: IContextOptionPanel = useContext(SortContext);
-	const sort: string = value?.sort;
-	const limit: number = value?.limit;
+	const value = useContext(SortContext);
 	const isSort = dropDownOptions.length < 4;
-	const optionValue = isSort ? sortOptionsRu[sort] : limit;
+	const optionValue = isSort ? sortOptionsRu[sort || 'discount'] : limit;
+
+	const handleClick = (option: number | string) => {
+		if (typeof option === "string") {
+			dispatch(setSort(option))
+			if (option !== sort) dispatch(setCurrentPage(1))
+			if (option === 'priceMax') value?.setOrder('desc')
+			if (option === 'priceMin') value?.setOrder('asc')
+			if (option === 'discount') value?.setOrder('desc')
+		} else {
+			dispatch(setLimit(option))
+		}
+		setIsActive(false)
+	}
 
 	const itemsElem = dropDownOptions.map(option => {
 			(optionValue === option) || optionValue === sortOptionsRu[option]
@@ -27,10 +39,7 @@ const DropDown: FC<IPropsDropDown> = ({dropDownOptions}) => {
 			return (
 				<div className={Array.from(optionClasses).join(' ')}
 					 key={option}
-					 onClick={() => {
-						 typeof option === "string" ? value?.onSetSort(option) : value?.onSetLimit(option);
-						 setIsActive(false);
-					 }
+					 onClick={() => {handleClick(option)}
 					 }
 				>{isSort ? sortOptionsRu[option] : option}
 				</div>
@@ -45,9 +54,9 @@ const DropDown: FC<IPropsDropDown> = ({dropDownOptions}) => {
 	return (
 		<div className="sort-panel__dropdown">
 			<button onClick={() => setIsActive(!isActive)} className="dropdown__btn">
-				{optionValue}
+				{!isSort ? `Отобразить: ${optionValue}` : optionValue}
 			</button>
-			<div onBlur={()=> setIsActive(false)} className={Array.from(dropDownContentClasses).join(' ')}>
+			<div className={Array.from(dropDownContentClasses).join(' ')}>
 				{itemsElem}
 			</div>
 		</div>

@@ -1,21 +1,29 @@
 import {createSlice, PayloadAction} from "@reduxjs/toolkit";
-import {IProduct, IProductsState} from "../../models/interfaces";
+import {IProductsState} from "../../models/interfaces";
 
 const initialState: IProductsState = {
-	all: [],
-	visible: [],
-	cartsProducts: [],
-	isLoading: false,
-	error: '',
+	search: '',
+	limit: 20,
+	currentPage: 1,
+	sort: 'discount',
 };
 
 export const mainSlice = createSlice({
 	name: 'main',
 	initialState,
 	reducers: {
-		setProducts: (state, action: PayloadAction<IProduct[]>) => {
-			state.all = action.payload
-		}
+		setSearch(state, action: PayloadAction<string>) {
+			state.search = action.payload;
+		},
+		setLimit(state, action: PayloadAction<number>) {
+			state.limit = action.payload;
+		},
+		setCurrentPage(state, action: PayloadAction<number>) {
+			state.currentPage = action.payload;
+		},
+		setSort(state, action: PayloadAction<string>) {
+			state.sort = action.payload;
+		},
 	}
 });
 

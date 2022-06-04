@@ -5,7 +5,7 @@ export interface IProduct {
 	title: string,
 	description?: IDescription,
 	price: number;
-	discount?: number;
+	discount: number;
 	currency?: string;
 	img: string;
 	isChoise?: boolean;
@@ -19,12 +19,19 @@ export interface IDescription {
 	"Операционная система: ": string;
 }
 export interface IProductsState {
-	all: IProduct[];
-	visible: IProduct[]
-	cartsProducts: IProduct[];
-	isLoading: boolean;
-	error: string;
+	search: string;
+	limit: number;
+	currentPage: number;
+	sort: string;
 }
+export interface IQueryArgs {
+	search?: string;
+	limit?: number;
+	currentPage?: number;
+	sort?: string;
+	order?: string;
+}
+
 export interface ICategoryRu {
 	[key: string]: string;
 }

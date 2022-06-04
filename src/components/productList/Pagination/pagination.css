@@ -1,0 +1,32 @@
+.pagination {
+	margin: 20px auto 0;
+	color: #797979;
+	max-width: 600px;
+}
+.page__list {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	gap: 5px;
+
+}
+.page__item {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	padding: 10px 15px;
+	color: #797979;
+	border-radius: 8px;
+	cursor: pointer;
+}
+.page__item:hover {
+	background-color: #dbe9ff;
+}
+.page__item_current {
+	background-color: #0156FF;
+	color: white;
+}
+.page__item_current:hover {
+	background-color: #0156FF;
+	color: white;
+}

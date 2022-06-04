@@ -1,9 +1,18 @@
+.product-container {
+    display: flex;
+    /*justify-content: space-between;*/
+}
 .product-list {
     display: flex;
     flex-direction: column;
+    min-width: 690px;
     margin: 20px 0 0;
+
 }
 .product-list__message {
-    display: inline-block;
+    display: block;
+    width: 100%;
     margin: 50px auto;
+    text-align: center;
+    flex-grow: 1;
 }
