@@ -1,5 +1,5 @@
 import {createApi, fetchBaseQuery} from "@reduxjs/toolkit/dist/query/react";
-import {IProduct} from "../interfaces/interfaces";
+import {IProduct} from "../models/interfaces";
 
 interface IQueryArgs {
 	limit?: number;
@@ -26,4 +26,4 @@ export const productAPI = createApi({
 
 });
 
-export const {useFetchAllProductsQuery } = productAPI
+export const {useFetchAllProductsQuery} = productAPI

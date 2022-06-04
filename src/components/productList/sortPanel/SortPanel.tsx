@@ -3,6 +3,9 @@ import './sortPanel.css';
 import DropDown from "./dropDown/DropDown";
 import SortContext from "../Сontext";
 
+const sortOptions = ['discount', 'priceMin', 'priceMax'];
+const limitOptions = [10, 20, 50, 100]
+
 const SortPanel: FC = () => {
 	const value = useContext(SortContext);
 
@@ -10,10 +13,12 @@ const SortPanel: FC = () => {
 		<div className="sort-panel">
 			<div className="sort-panel__content container">
 					<span className="result-counter">
-					Найдено: {value?.productsLength || '...'} товаров
+						{value?.productsLength || '...'} товаров
 					</span>
-				<DropDown />
-				<DropDown />
+				<div className="dropdown__container">
+					<DropDown dropDownOptions={sortOptions}/>
+					<DropDown dropDownOptions={limitOptions}/>
+				</div>
 			</div>
 		</div>
 	);

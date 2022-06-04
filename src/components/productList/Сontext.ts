@@ -1,5 +1,5 @@
 import {createContext} from 'react';
-import {IContextSortPanel} from "../../interfaces/IProps";
+import {IContextSortPanel} from "../../models/IProps";
 
 const SortContext = createContext<IContextSortPanel | null>(null)
 

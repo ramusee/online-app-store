@@ -29,8 +29,10 @@
 	position: absolute;
 	top: 110%;
 	background-color: #fff;
-	width: 100%;
+	width: 0;
+    height: 0;
 	left: 0;
+    right: 0;
 	box-shadow: 0 0 8px 6px rgba(0, 0, 0, 0.06);
 	border-radius: 6px;
 	opacity: 0;
@@ -51,4 +53,9 @@
 }
 .active-sort {
 	opacity: 1;
+    width: auto;
+    height: auto;
+}
+.current-option {
+    background-color: #dbe9ff;
 }

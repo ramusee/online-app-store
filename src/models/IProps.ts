@@ -1,7 +1,7 @@
-export interface IContextSortPanel {
+export interface IContextOptionPanel {
 	sort: string;
+	limit: number;
 	onSetLimit: (limit: number) => void;
-	onSetPage: (page: number) => void;
 	onSetSort: (sort: string) => void;
 	productsLength?: number;
 }

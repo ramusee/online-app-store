@@ -13,7 +13,6 @@ const SearchBar: FC = () => {
 	} = useForm();
 
 	const onSubmit = handleSubmit(data => {
-		console.log(data);
 		reset();
 	});
 

@@ -4,19 +4,20 @@ import './productList.css';
 import {useFetchAllProductsQuery} from "../../services/productService";
 import SortPanel from "./sortPanel/SortPanel";
 import SortContext from "./Сontext";
-import {IContextSortPanel} from "../../interfaces/IProps";
+import {IContextOptionPanel} from "../../models/IProps";
 
 const ProductList: FC = () => {
-	const [limit, setLimit] = useState(30);
+	const [limit, setLimit] = useState(20);
 	const [page, setPage] = useState(1);
 	const [sort, setSort] = useState('discount');
-	const {data: products, error, isLoading} = useFetchAllProductsQuery({limit, page, sort});
+
+	const {data: products, error, isLoading} = useFetchAllProductsQuery({limit, page});
 
 	const productsLength = products?.length;
-	const contextValue: IContextSortPanel = {
+	const contextValue: IContextOptionPanel = {
 		sort,
+		limit,
 		onSetLimit: setLimit,
-		onSetPage: setPage,
 		onSetSort: setSort,
 		productsLength
 	};

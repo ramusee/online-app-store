@@ -1,6 +1,6 @@
 import React, {FC} from 'react';
 import './productItem.css';
-import {IProduct} from "../../../interfaces/interfaces";
+import {IProduct} from "../../../models/interfaces";
 import {categoryRu} from "../../../RuHelpers/RuObjects";
 
 const ProductItem: FC<IProduct> = ({
