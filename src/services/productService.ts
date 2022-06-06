@@ -6,11 +6,10 @@ import {IQueryArgs} from "../models/interfaces";
 export const productAPI = createApi({
 	reducerPath: 'productAPI',
 	baseQuery: fetchBaseQuery({baseUrl: 'http://localhost:3001/'}),
-	tagTypes: [],
 	endpoints: (build) => ({
 		fetchAllProducts: build.query<IProduct[], IQueryArgs>({
-			query: ({search, limit, currentPage, sort, order, category}) => ({
-				url: '/products',
+			query: ({search, limit, currentPage, sort, order, category, brands}) => ({
+				url: `/products?&brand_like=${brands.join('&brand_like=')}`,
 				params: {
 					q: search,
 					category: category === 'all' ? undefined : category,

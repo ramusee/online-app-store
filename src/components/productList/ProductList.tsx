@@ -23,19 +23,20 @@ const ProductList: FC = () => {
 		category,
 		brands
 	});
-	const visible = products?.length;
+	const visible: any = products?.length;
 	const contextValue: IContextOptionPanel = {
 		visible,
 		order,
 		setOrder
 	};
 
+
 	return (<>
 			<SortContext.Provider value={contextValue}>
 				<SortPanel/>
 			</SortContext.Provider>
 			<div className="wrapper">
-					<div className="product">
+					<div className="products">
 						<Filters/>
 						{isLoading && <h2 className="product-list__message">Загрузка...</h2>}
 						{error && <h2 className="product-list__message">Не удалось загрузить товары</h2>}
@@ -49,12 +50,14 @@ const ProductList: FC = () => {
 										 price={item.price}
 										 img={item.img}
 										 discount={item.discount}
+										 description={item.description}
+
 							/>
 						))}
 						</ul>
 						}
 					</div>
-				{visible !== 0 && !isLoading && <Pagination/>}
+				{ visible > 10  && !isLoading && <Pagination/>}
 			</div>
 		</>
 	);

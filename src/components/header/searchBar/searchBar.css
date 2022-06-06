@@ -8,6 +8,7 @@
 	width: 500px;
 	margin: 0 20px;
 	border: 1px solid #ededed;
+	position: relative;
 }
 
 .search-bar__input {
@@ -39,4 +40,11 @@
 }
 .search-bar__button:hover {
 	opacity: .6;
+}
+.search__error {
+	position: absolute;
+	font-size: 13px;
+	right: 10%;
+	color: #797979;
+	font-style: italic;
 }

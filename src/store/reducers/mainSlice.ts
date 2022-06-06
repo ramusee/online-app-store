@@ -1,5 +1,5 @@
 import {createSlice, PayloadAction} from "@reduxjs/toolkit";
-import {IProduct, IProductsState} from "../../models/interfaces";
+import {IProductsState} from "../../models/interfaces";
 
 const initialState: IProductsState = {
 	search: '',
@@ -31,12 +31,14 @@ export const mainSlice = createSlice({
 		setCategory(state, action: PayloadAction<string>) {
 			state.filters.category = action.payload;
 		},
-		setBrand(state, action: PayloadAction<IProduct["category"][]>) {
-			state.filters.brands = action.payload;
+		changeBrands(state, action: PayloadAction<string>) {
+			state.filters.brands.includes(action.payload)
+				? state.filters.brands = state.filters.brands.filter(brand => brand !== action.payload)
+				: state.filters.brands.push(action.payload)
 		},
 		setDefaultFilters(state) {
 			state.filters.brands = [];
-			state.filters.category = '';
+			state.filters.category = 'all';
 		},
 	}
 });

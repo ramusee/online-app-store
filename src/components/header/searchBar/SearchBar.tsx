@@ -5,12 +5,16 @@ import {useAppDispatch} from "../../../store/hooks/hooksRedux";
 import {mainSlice} from "../../../store/reducers/mainSlice";
 
 const SearchBar: FC = () => {
-	const {register, handleSubmit, reset} = useForm();
+	const {
+		register,
+		handleSubmit,
+		formState: {
+		errors
+	}, reset} = useForm();
 	const {setSearch, setCurrentPage} = mainSlice.actions
 	const dispatch = useAppDispatch()
 
 	const onSubmit = handleSubmit(data => {
-		if(!data.search) return
 		reset();
 		dispatch(setSearch(data.search))
 		dispatch(setCurrentPage(1))
@@ -19,7 +23,11 @@ const SearchBar: FC = () => {
 	return (
 		<form className="search-bar" onSubmit={onSubmit}>
 			<input {...register('search', {
-				minLength: 3,
+				required: 'введите значение',
+				minLength: {
+					value: 2,
+					message: 'минимум 2 символа'
+				},
 			})}
 				   type="text"
 				   className="search-bar__input"
@@ -27,6 +35,7 @@ const SearchBar: FC = () => {
 				   autoComplete="off"
 			/>
 			<input className="search-bar__button" type="submit" value=""/>
+			{errors?.search && <span className="search__error">{errors?.search?.message || 'Ошибка'}</span>}
 		</form>
 	);
 };

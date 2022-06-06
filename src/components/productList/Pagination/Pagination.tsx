@@ -4,7 +4,7 @@ import {createPages} from "../../../helpers/createPages";
 import {useAppDispatch, useAppSelector} from "../../../store/hooks/hooksRedux";
 import {mainSlice} from "../../../store/reducers/mainSlice";
 
-const Pagination: FC= () => {
+const Pagination:FC = () => {
 	const {currentPage, limit} = useAppSelector(state => state.mainReducer)
 	const {setCurrentPage} = mainSlice.actions;
 	const dispatch = useAppDispatch()

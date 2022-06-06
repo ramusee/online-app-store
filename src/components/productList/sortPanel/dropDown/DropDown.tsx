@@ -6,8 +6,8 @@ import {IPropsDropDown} from "../../../../models/IProps";
 import {useAppDispatch, useAppSelector} from "../../../../store/hooks/hooksRedux";
 import {mainSlice} from "../../../../store/reducers/mainSlice";
 
-const dropDownContentClasses = new Set(['dropdown__content']);
-const optionClasses = new Set(['dropdown__item']);
+let dropDownContentClasses = ['dropdown__content'];
+let optionClasses = ['dropdown__item'];
 
 const DropDown: FC<IPropsDropDown> = ({dropDownOptions}) => {
 	const [isActive, setIsActive] = useState(false);
@@ -34,8 +34,8 @@ const DropDown: FC<IPropsDropDown> = ({dropDownOptions}) => {
 
 	const itemsElem = dropDownOptions.map(option => {
 			(optionValue === option) || optionValue === sortOptionsRu[option]
-				? optionClasses.add('current-option')
-				: optionClasses.delete('current-option');
+				? optionClasses.push('current-option')
+				: optionClasses = optionClasses.filter(item => item !== 'current-option');
 			return (
 				<div className={Array.from(optionClasses).join(' ')}
 					 key={option}
@@ -49,15 +49,15 @@ const DropDown: FC<IPropsDropDown> = ({dropDownOptions}) => {
 	);
 
 	isActive
-		? dropDownContentClasses.add('active-sort')
-		: dropDownContentClasses.delete('active-sort');
+		? dropDownContentClasses.push('active-option')
+		: dropDownContentClasses = dropDownContentClasses.filter(item => item !=='active-option');
 
 	return (
 		<div className="sort-panel__dropdown">
 			<button onClick={() => setIsActive(!isActive)} className="dropdown__btn">
 				{!isSort ? `Отобразить: ${optionValue}` : optionValue}
 			</button>
-			<div className={Array.from(dropDownContentClasses).join(' ')}>
+			<div className={dropDownContentClasses.join(' ')}>
 				{itemsElem}
 			</div>
 		</div>
