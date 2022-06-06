@@ -1,5 +1,5 @@
 .sort-panel__dropdown{
-	width: 150px;
+	width: 160px;
 	position: relative;
 	font-size: 14px;
 	font-family: inherit;
@@ -7,7 +7,7 @@
 }
 .dropdown__btn {
 	width: 100%;
-	padding: 7px;
+	padding: 8px;
 	background: #fff;
 	display: flex;
 	align-items: center;
@@ -15,6 +15,7 @@
 	border: 2px solid #e3e3e3;
 	border-radius: 6px;
 	cursor: pointer;
+	position: relative;
 	font-family: inherit;
 	font-size: inherit;
 	font-weight: inherit;
@@ -24,6 +25,18 @@
 
 .dropdown__btn:hover {
 	border-color: #0156FF;
+}
+.dropdown__btn:after {
+	content: '';
+	position: absolute;
+	width: 10px;
+	padding: 4px;
+	background-image: url("../../../../images/dropdown.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	right: 7%;
+	top: 40%;
 }
 .dropdown__content {
 	position: absolute;

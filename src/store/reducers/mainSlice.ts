@@ -1,11 +1,15 @@
 import {createSlice, PayloadAction} from "@reduxjs/toolkit";
-import {IProductsState} from "../../models/interfaces";
+import {IProduct, IProductsState} from "../../models/interfaces";
 
 const initialState: IProductsState = {
 	search: '',
 	limit: 20,
 	currentPage: 1,
 	sort: 'discount',
+	filters: {
+		category: 'all',
+		brands: [],
+	}
 };
 
 export const mainSlice = createSlice({
@@ -23,6 +27,16 @@ export const mainSlice = createSlice({
 		},
 		setSort(state, action: PayloadAction<string>) {
 			state.sort = action.payload;
+		},
+		setCategory(state, action: PayloadAction<string>) {
+			state.filters.category = action.payload;
+		},
+		setBrand(state, action: PayloadAction<IProduct["category"][]>) {
+			state.filters.brands = action.payload;
+		},
+		setDefaultFilters(state) {
+			state.filters.brands = [];
+			state.filters.category = '';
 		},
 	}
 });

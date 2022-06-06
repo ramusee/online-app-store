@@ -9,10 +9,11 @@ export const productAPI = createApi({
 	tagTypes: [],
 	endpoints: (build) => ({
 		fetchAllProducts: build.query<IProduct[], IQueryArgs>({
-			query: ({search, limit, currentPage, sort, order}) => ({
+			query: ({search, limit, currentPage, sort, order, category}) => ({
 				url: '/products',
 				params: {
 					q: search,
+					category: category === 'all' ? undefined : category,
 					_limit: limit,
 					_page: currentPage,
 					_sort: sort === ('priceMin') || sort === ('priceMax') ? 'price' : sort,

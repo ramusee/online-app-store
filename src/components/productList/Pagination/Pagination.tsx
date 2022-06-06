@@ -17,7 +17,7 @@ const Pagination: FC= () => {
 		<div className="pagination">
 			<ul className="page__list">
 				<li className="page__item"
-					onClick={() => dispatch(setCurrentPage(currentPage > 1 ? currentPage - 1 : currentPage))}
+					onClick={() => currentPage > 1 ? dispatch(setCurrentPage( currentPage - 1)) : null}
 				>❮
 				</li>
 				{pages.map(page => (
@@ -28,7 +28,7 @@ const Pagination: FC= () => {
 					</li>
 				))}
 				<li className="page__item"
-					onClick={() => dispatch(setCurrentPage(currentPage < pages.length ? currentPage + 1 : currentPage))}
+					onClick={() => dispatch(setCurrentPage(currentPage + 1))}
 				>❯
 				</li>
 			</ul>

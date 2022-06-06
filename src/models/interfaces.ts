@@ -23,6 +23,10 @@ export interface IProductsState {
 	limit: number;
 	currentPage: number;
 	sort: string;
+	filters: {
+		category: string;
+		brands: IProduct['category'][],
+	}
 }
 export interface IQueryArgs {
 	search?: string;
@@ -30,6 +34,8 @@ export interface IQueryArgs {
 	currentPage?: number;
 	sort?: string;
 	order?: string;
+	category: string;
+	brands: string[];
 }
 
 export interface ICategoryRu {

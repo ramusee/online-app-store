@@ -1,6 +1,7 @@
 import {ICategoryRu, ISortItemsRu} from "../../models/interfaces";
 
 export const categoryRu: ICategoryRu = {
+	all: 'Все',
 	Laptop: 'Ноутбук',
 	Smartphone: 'Смартфон',
 	TV: 'Телевизор',

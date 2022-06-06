@@ -11,9 +11,18 @@ import Filters from "../filters/Filters";
 
 const ProductList: FC = () => {
 	const [order, setOrder] = useState('desc');
-	const {search, currentPage, limit, sort} = useAppSelector(state => state.mainReducer);
-	const {data: products, error, isLoading} = useFetchAllProductsQuery({search, limit, currentPage, sort, order});
-
+	const {search, currentPage, limit, sort, filters} = useAppSelector(state => state.mainReducer);
+	const category = filters.category
+	const brands = filters.brands
+	const {data: products, error, isLoading} = useFetchAllProductsQuery({
+		search,
+		limit,
+		currentPage,
+		sort,
+		order,
+		category,
+		brands
+	});
 	const visible = products?.length;
 	const contextValue: IContextOptionPanel = {
 		visible,
@@ -26,13 +35,12 @@ const ProductList: FC = () => {
 				<SortPanel/>
 			</SortContext.Provider>
 			<div className="wrapper">
-				<div className="product-container">
-					<Filters/>
-					<div className="products">
+					<div className="product">
+						<Filters/>
 						{isLoading && <h2 className="product-list__message">Загрузка...</h2>}
 						{error && <h2 className="product-list__message">Не удалось загрузить товары</h2>}
 						{products?.length === 0 && <h2 className="product-list__message">Не найдено</h2>}
-						{products && <ul className="product-list">{products.map(item => (
+						{products && products?.length !== 0 && <ul className="product-list">{products?.map(item => (
 							<ProductItem key={item.id}
 										 id={item.id}
 										 brand={item.brand}
@@ -46,8 +54,7 @@ const ProductList: FC = () => {
 						</ul>
 						}
 					</div>
-				</div>
-				{(visible ? visible > 10 : false) && <Pagination/>}
+				{visible !== 0 && !isLoading && <Pagination/>}
 			</div>
 		</>
 	);

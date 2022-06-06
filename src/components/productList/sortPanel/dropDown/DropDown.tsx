@@ -2,7 +2,7 @@ import React, {FC, useContext, useState} from 'react';
 import {sortOptionsRu} from "../../../../helpers/RuHelpers/RuObjects";
 import SortContext from "../../../../Contexts/Сontext";
 import './dropDown.css';
-import { IPropsDropDown} from "../../../../models/IProps";
+import {IPropsDropDown} from "../../../../models/IProps";
 import {useAppDispatch, useAppSelector} from "../../../../store/hooks/hooksRedux";
 import {mainSlice} from "../../../../store/reducers/mainSlice";
 
@@ -41,7 +41,8 @@ const DropDown: FC<IPropsDropDown> = ({dropDownOptions}) => {
 					 key={option}
 					 onClick={() => {handleClick(option)}
 					 }
-				>{isSort ? sortOptionsRu[option] : option}
+				>
+					{isSort ? sortOptionsRu[option] : option}
 				</div>
 			);
 		}

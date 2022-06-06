@@ -14,7 +14,7 @@ const SortPanel: FC = () => {
 		<div className="sort-panel">
 			<div className="sort-panel__content wrapper">
 					<span className="result-counter">
-						{search ? `${search}` : ''}
+						{search ? `"${search}"` : ''}
 					</span>
 				<div className="dropdown__container">
 					<DropDown dropDownOptions={sortOptions}/>
