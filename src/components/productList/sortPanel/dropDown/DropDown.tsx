@@ -1,6 +1,5 @@
-import React, {FC, useContext, useState} from 'react';
+import React, {FC, useState} from 'react';
 import {sortOptionsRu} from "../../../../helpers/RuHelpers/RuObjects";
-import SortContext from "../../../../contexts/Сontext";
 import './dropDown.css';
 import {IPropsDropDown} from "../../../../models/IProps";
 import {useAppDispatch, useAppSelector} from "../../../../store/hooks/hooksRedux";
@@ -11,11 +10,10 @@ let optionClasses = ['dropdown__item'];
 
 const DropDown: FC<IPropsDropDown> = ({dropDownOptions}) => {
 	const [isActive, setIsActive] = useState(false);
-	const {limit, sort} = useAppSelector(state => state.mainReducer)
-	const {setSort, setLimit, setCurrentPage} = mainSlice.actions;
+	const {limit, sort} = useAppSelector(state => state.mainReducer.sorting)
+	const {setSort, setLimit, setCurrentPage, setOrder} = mainSlice.actions;
 	const dispatch = useAppDispatch()
 
-	const value = useContext(SortContext);
 	const isSort = dropDownOptions.length < 4;
 	const optionValue = isSort ? sortOptionsRu[sort || 'discount'] : limit;
 
@@ -23,9 +21,9 @@ const DropDown: FC<IPropsDropDown> = ({dropDownOptions}) => {
 		if (typeof option === "string") {
 			dispatch(setSort(option))
 			if (option !== sort) dispatch(setCurrentPage(1))
-			if (option === 'priceMax') value?.setOrder('desc')
-			if (option === 'priceMin') value?.setOrder('asc')
-			if (option === 'discount') value?.setOrder('desc')
+			if (option === 'priceMax') dispatch(setOrder('desc'))
+			if (option === 'priceMin') dispatch(setOrder('asc'))
+			if (option === 'discount') dispatch(setOrder('desc'))
 		} else {
 			dispatch(setLimit(option))
 		}

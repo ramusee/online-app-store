@@ -1,8 +1,9 @@
 export interface IProduct {
+	item: IProduct;
 	id: number;
 	brand: string;
 	category: string;
-	title: string,
+	title: string;
 	description: string,
 	price: number;
 	discount: number;
@@ -13,13 +14,23 @@ export interface IProduct {
 }
 export interface IProductsState {
 	search: string;
-	limit: number;
-	currentPage: number;
-	sort: string;
+	sorting: {
+		limit: number;
+		currentPage: number;
+		sort: string;
+		order: string;
+	};
 	filters: {
 		category: string;
 		brands: IProduct['category'][];
+	};
+	cart: {
+		cartProducts: IProduct[];
 	}
+}
+export interface ICartAction {
+	id: number;
+	newCount: number;
 }
 export interface IQueryArgs {
 	search?: string;

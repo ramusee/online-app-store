@@ -27,7 +27,7 @@ const BrandsFilter: FC = () => {
 					className={isActive ? "option__current rotate" : "option__current"}
 					onClick={() => setIsActive(!isActive)}
 			>
-				Брэнды
+				Бренды
 			</button>
 			<div className={brandListClasses.join(' ')}>
 				{brandItems.map(brand => (

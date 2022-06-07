@@ -2,6 +2,11 @@ import React, {FC, useState} from 'react';
 import './productItem.css';
 import {IProduct} from "../../../models/interfaces";
 import {categoryRu} from "../../../helpers/RuHelpers/RuObjects";
+import {mainSlice} from "../../../store/reducers/mainSlice";
+import {useAppDispatch, useAppSelector} from "../../../store/hooks/hooksRedux";
+import {Simulate} from "react-dom/test-utils";
+import change = Simulate.change;
+import CountChanger from "./countChanger/CountChanger";
 
 const ProductItem: FC<IProduct> = ({
 									   id,
@@ -11,16 +16,27 @@ const ProductItem: FC<IProduct> = ({
 									   price,
 									   img,
 									   discount,
-									   description
+									   description,
+									   item
 								   }) => {
-	const [isOpenDesc, setIsOpenDesc] = useState(false)
+	const [isOpenDesc, setIsOpenDesc] = useState(false);
+	const [isActiveCartBtn, setIsActiveCartBtn] = useState(false);
 
-	const productDescription = Object.entries(description).map(([key, value])=> {
+	const {addCartProducts} = mainSlice.actions;
+	const {cartProducts} = useAppSelector(state => state.mainReducer.cart);
+	const dispatch = useAppDispatch();
+
+	const productDescription = Object.entries(description).map(([key, value]) => {
 		return <div key={key} className={isOpenDesc ? "product__desc desc-open" : "product__desc"}>
 			{key}{value}
-		</div>
-	})
-
+		</div>;
+	});
+	const handleCartBtn = (item: IProduct) => {
+		setIsActiveCartBtn(!isActiveCartBtn);
+		if (!cartProducts.includes(item)) {
+			dispatch(addCartProducts(item));
+		}
+	};
 	return (
 		<li className="product__item">
 			<div className="product__left-container">
@@ -33,7 +49,7 @@ const ProductItem: FC<IProduct> = ({
 					<span className="product__title">{title}</span>
 					<span className="product__category">Тип: {categoryRu[category]}</span>
 					<span className="product__brand">Бренд: {brand}</span>
-					<button onClick={()=> setIsOpenDesc(!isOpenDesc)}
+					<button onClick={() => setIsOpenDesc(!isOpenDesc)}
 							className={!isOpenDesc ? "product__desc_btn" : "product__desc_btn rotate"}
 					>
 						Характеристики:
@@ -49,7 +65,10 @@ const ProductItem: FC<IProduct> = ({
 					{Math.round(price)} ₽</span>}
 					{!!discount && <span className="product__discount">−{discount}%</span>}
 				</div>
-				<button className="blue-btn">В корзину</button>
+				{!isActiveCartBtn && <button className="blue-btn"
+											 onClick={() => {handleCartBtn(item)}}
+				>В корзину</button>}
+				{isActiveCartBtn && <CountChanger id={id}/>}
 			</div>
 		</li>
 	);
