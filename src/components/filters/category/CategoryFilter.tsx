@@ -5,6 +5,7 @@ import {mainSlice} from "../../../store/reducers/mainSlice";
 import './categoryFilter.css'
 
 const categoryItems = ['all', 'Laptop', 'Smartphone', 'TV', 'Monoblock', 'Printer', 'SmartWatch', 'Tablet'];
+
 let categoryClasses = ['filter__list'];
 let categoryItemClasses = ['filter__item'];
 
@@ -22,7 +23,7 @@ const CategoryFilter: FC = () => {
 
 	return (
 		<div className="filters__category">
-			<button className="option__current"
+			<button className={isActive ? "option__current rotate" : "option__current"}
 					onClick={() => setIsActive(!isActive)}
 			>
 				Категория: {categoryRu[currentCategory]}

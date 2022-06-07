@@ -1,6 +1,6 @@
 import React, {FC, useContext, useState} from 'react';
 import {sortOptionsRu} from "../../../../helpers/RuHelpers/RuObjects";
-import SortContext from "../../../../Contexts/Сontext";
+import SortContext from "../../../../contexts/Сontext";
 import './dropDown.css';
 import {IPropsDropDown} from "../../../../models/IProps";
 import {useAppDispatch, useAppSelector} from "../../../../store/hooks/hooksRedux";
@@ -54,7 +54,7 @@ const DropDown: FC<IPropsDropDown> = ({dropDownOptions}) => {
 
 	return (
 		<div className="sort-panel__dropdown">
-			<button onClick={() => setIsActive(!isActive)} className="dropdown__btn">
+			<button onClick={() => setIsActive(!isActive)} className={isActive ? "option__current rotate" : "option__current"}>
 				{!isSort ? `Отобразить: ${optionValue}` : optionValue}
 			</button>
 			<div className={dropDownContentClasses.join(' ')}>

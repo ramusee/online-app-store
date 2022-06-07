@@ -3,7 +3,7 @@ import ProductItem from "./productItem/ProductItem";
 import './productList.css';
 import {useFetchAllProductsQuery} from "../../services/productService";
 import SortPanel from "./sortPanel/SortPanel";
-import SortContext from "../../Contexts/Сontext";
+import SortContext from "../../contexts/Сontext";
 import {IContextOptionPanel} from "../../models/IProps";
 import Pagination from "./Pagination/Pagination";
 import {useAppSelector} from "../../store/hooks/hooksRedux";
@@ -41,7 +41,7 @@ const ProductList: FC = () => {
 						{isLoading && <h2 className="product-list__message">Загрузка...</h2>}
 						{error && <h2 className="product-list__message">Не удалось загрузить товары</h2>}
 						{products?.length === 0 && <h2 className="product-list__message">Не найдено</h2>}
-						{products && products?.length !== 0 && <ul className="product-list">{products?.map(item => (
+						{products?.length !== 0 && !error && <ul className="product-list">{products?.map(item => (
 							<ProductItem key={item.id}
 										 id={item.id}
 										 brand={item.brand}
@@ -57,7 +57,7 @@ const ProductList: FC = () => {
 						</ul>
 						}
 					</div>
-				{ visible > 10  && !isLoading && <Pagination/>}
+				{ visible >= 10  && !isLoading && !error && <Pagination/>}
 			</div>
 		</>
 	);

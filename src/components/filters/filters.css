@@ -19,6 +19,7 @@
 	transition: .2s ease-out;
 	text-align: start;
 	color: inherit;
+    background-color: white;
 }
 
 .option__current:after {
@@ -32,6 +33,10 @@
 	background-size: cover;
 	right: 7%;
 	top: 40%;
+    transition: .2s ease-out;
+}
+.option__current.rotate:after{
+    transform: rotate(180deg);
 }
 
 .option__current:hover {

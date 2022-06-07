@@ -1,7 +1,7 @@
 import React, {FC, useContext} from 'react';
 import './sortPanel.css';
 import DropDown from "./dropDown/DropDown";
-import SortContext from "../../../Contexts/Сontext";
+import SortContext from "../../../contexts/Сontext";
 import {useAppSelector} from "../../../store/hooks/hooksRedux";
 
 const sortOptions = ['discount', 'priceMin', 'priceMax'];

@@ -24,7 +24,7 @@ const BrandsFilter: FC = () => {
 	return (
 		<form className="filters__brands">
 			<button type="button"
-					className="option__current"
+					className={isActive ? "option__current rotate" : "option__current"}
 					onClick={() => setIsActive(!isActive)}
 			>
 				Брэнды

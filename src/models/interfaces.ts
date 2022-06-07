@@ -3,20 +3,13 @@ export interface IProduct {
 	brand: string;
 	category: string;
 	title: string,
-	description?: IDescription,
+	description: string,
 	price: number;
 	discount: number;
 	currency?: string;
 	img: string;
 	isChoise?: boolean;
 	count?: number;
-}
-export interface IDescription {
-	"Процессор: ": string;
-	"Оперативная память: ": string;
-	"Общий объем eMMC, ГБ: ": string;
-	"Видеокарта: ": string;
-	"Операционная система: ": string;
 }
 export interface IProductsState {
 	search: string;
@@ -25,7 +18,7 @@ export interface IProductsState {
 	sort: string;
 	filters: {
 		category: string;
-		brands: IProduct['category'][],
+		brands: IProduct['category'][];
 	}
 }
 export interface IQueryArgs {
