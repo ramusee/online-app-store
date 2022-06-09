@@ -1,11 +1,11 @@
 import React, {FC} from 'react';
 import './pagination.css';
 import {createPages} from "../../../helpers/createPages";
-import {useAppDispatch, useAppSelector} from "../../../store/hooks/hooksRedux";
+import {useAppDispatch, useAppSelector} from "../../../store/hooks/hooks";
 import {mainSlice} from "../../../store/reducers/mainSlice";
 
 const Pagination:FC = () => {
-	const {currentPage, limit} = useAppSelector(state => state.mainReducer)
+	const {currentPage, limit} = useAppSelector(state => state.mainReducer.sorting)
 	const {setCurrentPage} = mainSlice.actions;
 	const dispatch = useAppDispatch()
 	const productsLength = 476

@@ -4,7 +4,7 @@ import './productList.css';
 import {useFetchAllProductsQuery} from "../../services/productService";
 import SortPanel from "./sortPanel/SortPanel";
 import Pagination from "./Pagination/Pagination";
-import {useAppSelector} from "../../store/hooks/hooksRedux";
+import {useAppSelector} from "../../store/hooks/hooks";
 import Filters from "../filters/Filters";
 
 const ProductList: FC = () => {
@@ -30,8 +30,8 @@ const ProductList: FC = () => {
 					<Filters/>
 					{isLoading && <h2 className="product-list__message">Загрузка...</h2>}
 					{error && <h2 className="product-list__message">Не удалось загрузить товары</h2>}
-					{products?.length === 0 && <h2 className="product-list__message">Не найдено</h2>}
-					{products?.length !== 0 && !error && <ul className="product-list">{products?.map(item => (
+					{!products?.length && !isLoading && <h2 className="product-list__message">Не найдено</h2>}
+					{products?.length && !error && <ul className="product-list">{products?.map(item => (
 						<ProductItem item={item}
 									 key={item.id}
 									 id={item.id}
@@ -42,6 +42,7 @@ const ProductList: FC = () => {
 									 img={item.img}
 									 discount={item.discount}
 									 description={item.description}
+									 count={item.count}
 						/>
 					))}
 					</ul>

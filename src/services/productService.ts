@@ -5,7 +5,7 @@ import {IQueryArgs} from "../models/interfaces";
 
 export const productAPI = createApi({
 	reducerPath: 'productAPI',
-	baseQuery: fetchBaseQuery({baseUrl: 'http://localhost:3001/'}),
+	baseQuery: fetchBaseQuery({baseUrl: 'http://localhost:4000/'}),
 	endpoints: (build) => ({
 		fetchAllProducts: build.query<IProduct[], IQueryArgs>({
 			query: ({search, limit, currentPage, sort, order, category, brands}) => ({
@@ -21,7 +21,6 @@ export const productAPI = createApi({
 			})
 		})
 	})
-
 });
 
 export const {useFetchAllProductsQuery} = productAPI;

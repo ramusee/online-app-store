@@ -54,16 +54,22 @@ export const mainSlice = createSlice({
 			addCartProducts(state, action: PayloadAction<IProduct>) {
 				state.cart.cartProducts.push(action.payload);
 			},
+			deleteCartProduct(state, action: PayloadAction<number>) {
+				state.cart.cartProducts = state.cart.cartProducts.filter(item => item.id !== action.payload);
+			},
+			clearCart(state) {
+				state.cart.cartProducts = [];
+			},
 			changeCount(state, action: PayloadAction<ICartAction>) {
 				state.cart.cartProducts = state.cart.cartProducts.map(
-					(item) => {
+					item => {
 						if (item.id === action.payload.id) {
 							return {...item, count: action.payload.newCount};
 						}
 						return item;
 					}
 				);
-			}
+			},
 		}
 	})
 ;

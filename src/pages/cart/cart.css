@@ -1,0 +1,43 @@
+.cart {
+
+}
+
+.cart__container {
+    display: flex;
+
+}
+
+.cart__clear-btn {
+    font-family: inherit;
+    font-size: 20px;
+    font-weight: 500;
+    color: #ea1111;
+    cursor: pointer;
+    margin-bottom: 10px;
+    transition: .2s ease-out;
+}
+
+.cart__clear-btn:hover {
+    color: #0156FF;
+}
+
+.cart__title {
+    margin: 40px 0;
+}
+
+.cart__list {
+    border: 1px solid #e3e3e3;
+    width: 900px;
+    border-radius: 6px;
+}
+
+.cart__empty {
+    max-width: 600px;
+    margin: 90px auto;
+    text-align: center;
+}
+
+.cart__empty_title {
+    font-size: 27px;
+    margin-bottom: 10px;
+}

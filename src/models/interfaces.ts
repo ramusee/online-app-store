@@ -10,7 +10,7 @@ export interface IProduct {
 	currency?: string;
 	img: string;
 	isChoise?: boolean;
-	count?: number;
+	count: number;
 }
 export interface IProductsState {
 	search: string;

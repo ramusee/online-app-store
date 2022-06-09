@@ -1,7 +1,7 @@
 import React, {FC} from 'react';
 import './sortPanel.css';
 import DropDown from "./dropDown/DropDown";
-import {useAppSelector} from "../../../store/hooks/hooksRedux";
+import {useAppSelector} from "../../../store/hooks/hooks";
 
 const sortOptions = ['discount', 'priceMin', 'priceMax'];
 const limitOptions = [10, 20, 50, 75]

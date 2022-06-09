@@ -2,7 +2,7 @@ import React, {FC, useState} from 'react';
 import {sortOptionsRu} from "../../../../helpers/RuHelpers/RuObjects";
 import './dropDown.css';
 import {IPropsDropDown} from "../../../../models/IProps";
-import {useAppDispatch, useAppSelector} from "../../../../store/hooks/hooksRedux";
+import {useAppDispatch, useAppSelector} from "../../../../store/hooks/hooks";
 import {mainSlice} from "../../../../store/reducers/mainSlice";
 
 let dropDownContentClasses = ['dropdown__content'];

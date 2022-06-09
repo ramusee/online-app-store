@@ -10,23 +10,27 @@
 }
 
 .cart__icon {
-    width: 30px;
-}
-
-.cart__icon:hover {
-   opacity: .6;
+    width: 25px;
+    transition: .1s ease-out;
+    margin-bottom: 5px;
 }
 
 .header__cart {
     display: flex;
+    flex-direction: column;
     justify-content: end;
     align-items: center;
-    gap: 10px;
     text-decoration: none;
     color: black;
     cursor: pointer;
+    font-size: 14px;
+    margin-left: 10px;
+    font-family: inherit;
+    font-weight: 700;
 }
-
+.header__cart:hover {
+    opacity: .6;
+}
 .header__logo {
     display: flex;
     justify-content: space-between;
@@ -41,5 +45,4 @@
 .logo__text {
     font-size: 23px;
     font-weight: 700;
-    color: #3a3a3a;
 }

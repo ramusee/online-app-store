@@ -1,7 +1,7 @@
 import React, {FC} from 'react';
 import {useForm} from "react-hook-form";
 import './searchBar.css';
-import {useAppDispatch} from "../../../store/hooks/hooksRedux";
+import {useAppDispatch} from "../../../store/hooks/hooks";
 import {mainSlice} from "../../../store/reducers/mainSlice";
 
 const SearchBar: FC = () => {

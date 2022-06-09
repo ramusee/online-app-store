@@ -5,7 +5,7 @@ import './header.css';
 import {Link} from "react-router-dom";
 import SearchBar from "./searchBar/SearchBar";
 import {mainSlice} from "../../store/reducers/mainSlice";
-import {useAppDispatch} from "../../store/hooks/hooksRedux";
+import {useAppDispatch} from "../../store/hooks/hooks";
 
 const Header: FC = () => {
 	const {setSearch, setCurrentPage} = mainSlice.actions
@@ -27,6 +27,7 @@ const Header: FC = () => {
 						<SearchBar/>
 						<Link to="/cart" className="header__cart">
 							<img className="cart__icon" src={cartIcon} alt="cart icon"/>
+							<span>Корзина</span>
 						</Link>
 					</div>
 			</header>

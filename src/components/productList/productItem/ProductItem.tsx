@@ -3,9 +3,7 @@ import './productItem.css';
 import {IProduct} from "../../../models/interfaces";
 import {categoryRu} from "../../../helpers/RuHelpers/RuObjects";
 import {mainSlice} from "../../../store/reducers/mainSlice";
-import {useAppDispatch, useAppSelector} from "../../../store/hooks/hooksRedux";
-import {Simulate} from "react-dom/test-utils";
-import change = Simulate.change;
+import {useAppDispatch, useAppSelector} from "../../../store/hooks/hooks";
 import CountChanger from "./countChanger/CountChanger";
 
 const ProductItem: FC<IProduct> = ({
@@ -17,26 +15,33 @@ const ProductItem: FC<IProduct> = ({
 									   img,
 									   discount,
 									   description,
-									   item
+									   item,
 								   }) => {
 	const [isOpenDesc, setIsOpenDesc] = useState(false);
-	const [isActiveCartBtn, setIsActiveCartBtn] = useState(false);
-
 	const {addCartProducts} = mainSlice.actions;
 	const {cartProducts} = useAppSelector(state => state.mainReducer.cart);
 	const dispatch = useAppDispatch();
+	let isInCart = false
+	const priceWithDiscount = Math.round(price - (price / 100 * discount))
 
 	const productDescription = Object.entries(description).map(([key, value]) => {
 		return <div key={key} className={isOpenDesc ? "product__desc desc-open" : "product__desc"}>
 			{key}{value}
 		</div>;
 	});
+
+	cartProducts.forEach(cartProduct => {
+		if (cartProduct.id === id) {
+			isInCart = true
+		}
+	})
+
 	const handleCartBtn = (item: IProduct) => {
-		setIsActiveCartBtn(!isActiveCartBtn);
 		if (!cartProducts.includes(item)) {
 			dispatch(addCartProducts(item));
 		}
 	};
+
 	return (
 		<li className="product__item">
 			<div className="product__left-container">
@@ -60,15 +65,17 @@ const ProductItem: FC<IProduct> = ({
 			</div>
 			<div className="product__right-container">
 				<div className="product__price-container">
-					<span className="product__price">{Math.round(price - (price / 100 * discount))} ₽</span>
+					<span className="product__price">{priceWithDiscount} ₽</span>
 					{!!discount && <span className="product__price_prev">
 					{Math.round(price)} ₽</span>}
 					{!!discount && <span className="product__discount">−{discount}%</span>}
 				</div>
-				{!isActiveCartBtn && <button className="blue-btn"
-											 onClick={() => {handleCartBtn(item)}}
+				{!isInCart && <button className="blue-btn"
+											 onClick={() => {
+												 handleCartBtn(item);
+											 }}
 				>В корзину</button>}
-				{isActiveCartBtn && <CountChanger id={id}/>}
+				{isInCart && <CountChanger id={id}/>}
 			</div>
 		</li>
 	);

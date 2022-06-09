@@ -1,7 +1,7 @@
 import React, {FC, useState} from 'react';
 import './brandsFilter.css';
 import {mainSlice} from "../../../store/reducers/mainSlice";
-import {useAppDispatch, useAppSelector} from "../../../store/hooks/hooksRedux";
+import {useAppDispatch, useAppSelector} from "../../../store/hooks/hooks";
 
 
 const brandItems = [

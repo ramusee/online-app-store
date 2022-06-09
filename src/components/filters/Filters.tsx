@@ -3,7 +3,7 @@ import './filters.css';
 import CategoryFilter from "./category/CategoryFilter";
 import BrandsFilter from "./brands/BrandsFilter";
 import {mainSlice} from "../../store/reducers/mainSlice";
-import {useAppDispatch} from "../../store/hooks/hooksRedux";
+import {useAppDispatch} from "../../store/hooks/hooks";
 
 
 const Filters :FC = () => {

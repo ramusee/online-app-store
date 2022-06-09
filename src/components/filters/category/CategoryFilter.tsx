@@ -1,6 +1,6 @@
 import React, {FC, useState} from 'react';
 import {categoryRu} from "../../../helpers/RuHelpers/RuObjects";
-import {useAppDispatch, useAppSelector} from "../../../store/hooks/hooksRedux";
+import {useAppDispatch, useAppSelector} from "../../../store/hooks/hooks";
 import {mainSlice} from "../../../store/reducers/mainSlice";
 import './categoryFilter.css'
 

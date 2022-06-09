@@ -153,7 +153,14 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    width: 109px;
+    width: 135px;
+}
+.count-cart span {
+    white-space: nowrap;
+    padding: 0 5px;
+    text-align: center;
+    width: 50px;
+    font-size: 13px;
 }
 .count-cart__btn {
     width: 43px;
@@ -163,6 +170,7 @@
     cursor: pointer;
     font-family: inherit;
     font-size: 20px;
+    transition: .2s ease-out;
 }
 
 .count-cart__btn:hover {
