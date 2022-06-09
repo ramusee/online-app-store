@@ -31,3 +31,8 @@ button {
     background: none;
     border: none;
 }
+svg path {
+    fill:inherit;
+    stroke:inherit;
+    stroke-width:inherit;
+}

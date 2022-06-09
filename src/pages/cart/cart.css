@@ -1,10 +1,10 @@
 .cart {
-
+ color: #001a34;
 }
 
 .cart__container {
     display: flex;
-
+    justify-content: space-between;
 }
 
 .cart__clear-btn {
@@ -17,17 +17,13 @@
     transition: .2s ease-out;
 }
 
-.cart__clear-btn:hover {
-    color: #0156FF;
-}
-
 .cart__title {
     margin: 40px 0;
 }
 
 .cart__list {
     border: 1px solid #e3e3e3;
-    width: 900px;
+    width: 1000px;
     border-radius: 6px;
 }
 

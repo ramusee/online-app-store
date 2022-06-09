@@ -7,12 +7,11 @@ interface IPropsCountChanger {
 }
 
 const CountChanger: FC<IPropsCountChanger> = ({id }) => {
-	const {changeCount, deleteCartProduct, clearCart} = mainSlice.actions;
+	const {changeCount, deleteCartProduct} = mainSlice.actions;
 	const {cartProducts} = useAppSelector(state=> state.mainReducer.cart)
 	const dispatch = useAppDispatch()
 
 	let count = 0
-
 	cartProducts.forEach(cartProduct => {
 		if (cartProduct.id === id) {
 			count = cartProduct.count

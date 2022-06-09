@@ -1,4 +1,4 @@
-import React, {FC, useState} from 'react';
+import React, {FC} from 'react';
 import ProductItem from "./productItem/ProductItem";
 import './productList.css';
 import {useFetchAllProductsQuery} from "../../services/productService";

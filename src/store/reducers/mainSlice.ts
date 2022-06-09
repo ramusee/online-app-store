@@ -17,7 +17,6 @@ const initialState: IProductsState = {
 	cart: {
 		cartProducts: [],
 	}
-
 };
 
 export const mainSlice = createSlice({

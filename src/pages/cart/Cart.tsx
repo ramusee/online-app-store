@@ -30,7 +30,7 @@ const Cart: FC = () => {
 			}
 			{!cartProducts.length && <div className="cart__empty">
 			  <h1 className="cart__empty_title">Корзина пуста</h1>
-			  <p className="cart__empty_text">Воспользуйтесь поиском и фильтрами чтобы найти все, что нужно.</p>
+			  <p className="cart__empty_text">Воспользуйтесь поиском и фильтрами, чтобы найти все, что нужно.</p>
 			</div>}
 		</div>
 	);

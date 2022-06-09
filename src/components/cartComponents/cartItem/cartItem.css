@@ -16,9 +16,7 @@
     color: #ec0000;
     transition: .2s ease-out;
 }
-.item__delete-btn:hover {
-    color: #0156FF;
-}
+
 .item__options {
     display: flex;
     flex-direction: column;
@@ -44,6 +42,7 @@
 .cart__discount-rub {
     color: #ec0000;
     font-size: 14px;
+    font-weight: 500;
 }
 
 .item__right-container {

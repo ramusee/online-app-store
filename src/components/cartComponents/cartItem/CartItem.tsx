@@ -1,6 +1,6 @@
 import React, {FC} from 'react';
 import CountChanger from "../../productList/productItem/countChanger/CountChanger";
-import {useAppDispatch, useAppSelector} from "../../../store/hooks/hooks";
+import {useAppDispatch} from "../../../store/hooks/hooks";
 import './cartItem.css'
 import {IPropsCartItem} from "../../../models/IProps";
 import {mainSlice} from "../../../store/reducers/mainSlice";
@@ -37,8 +37,7 @@ const CartItem: FC<IPropsCartItem> = ({
 			<div className="item__right-container">
 				<div className="product__price-container">
 					<span className="product__price">{priceAllWithDiscount} ₽</span>
-					{!!discount && <span className="product__price_prev">
-					{priceAllPrev} ₽</span>}
+					{!!discount && <span className="product__price_prev">{priceAllPrev} ₽</span>}
 					{!!discount && <span className="product__discount">−{discount}%</span>}
 				</div>
 				{!!discount && <span className="cart__discount-rub">Скидка {discountInRub}₽</span>}
