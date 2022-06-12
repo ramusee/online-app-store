@@ -31,15 +31,15 @@ const BrandsFilter: FC = () => {
 			</button>
 			<div className={brandListClasses.join(' ')}>
 				{brandItems.map(brand => (
-						<label key={brand} className="filter__item">
-							<input type="checkbox"
-								   value={brand}
-								   checked={brands.includes(brand)}
-								   onChange={() => dispatch(changeBrands(brand))}
-								   className="brand__checkbox"
-							/>
-							{brand}
-						</label>
+					<label key={brand} className="filter__item">
+						<input type="checkbox"
+							   value={brand}
+							   checked={brands.includes(brand)}
+							   onChange={() => dispatch(changeBrands(brand))}
+							   className="brand__checkbox"
+						/>
+						{brand}
+					</label>
 				))}
 			</div>
 

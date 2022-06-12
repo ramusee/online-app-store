@@ -1,8 +1,8 @@
 .sort-panel {
     padding: 7px;
-    background-color: #fff2dc;
+    background-color: #f5f7ff;
     border-bottom: 1px solid #ededed;
-    box-shadow: 0 1px 5px#ededed;
+    box-shadow: 0 1px 5px #ededed;
     color: #545454;
 }
 .sort-panel__content {
