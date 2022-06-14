@@ -1,0 +1,43 @@
+.order__payment {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+    color: #001a34;
+}
+
+.payment-form {
+    display: flex;
+    flex-direction: column;
+    width: 550px;
+    gap: 30px;
+    border: 1px solid #afafaf;
+    padding: 30px 30px 50px;
+    border-radius: 10px;
+}
+.payment-form__label {
+    display: flex;
+    flex-direction: column;
+    font-size: 15px;
+    flex-wrap: wrap;
+    gap: 5px;
+    position: relative;
+}
+.payment-form__input {
+    width: 100%;
+    font-size: 19px;
+    padding: 10px;
+    border: 2px solid #e3e3e3;
+    border-radius: 6px;
+}
+.payment-form__error {
+    font-size: 13px;
+    color: #ec7373;
+    font-style: italic;
+    position: absolute;
+    top: 105%;
+    left: 0;
+}
+.payment-form__submit{
+
+}

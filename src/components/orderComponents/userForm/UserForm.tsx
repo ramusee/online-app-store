@@ -73,7 +73,7 @@ const UserForm: FC = () => {
 					   {...register("telNumber", {
 						   required: "Поле обязательно для заполнения",
 						   pattern: {
-							   value: /[0-9]{10}/,
+							   value: /\d{10}/,
 							   message: "Введите 10 цифр"
 						   },
 						   minLength: {
@@ -83,7 +83,8 @@ const UserForm: FC = () => {
 						   maxLength: {
 							   value: 10,
 							   message: "Введите 10 цифр"
-						   }
+						   },
+						   value: 10
 					   })}
 				/>
 				{errors?.telNumber && <p className="order-form__error">{errors?.telNumber?.message || 'Ошибка'}</p>}

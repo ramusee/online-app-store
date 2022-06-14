@@ -1,0 +1,14 @@
+.payment__card {
+    display: flex;
+    justify-content: center;
+    width: 430px;
+    height: 270px;
+    background-color: #dbe8ff;
+    border-radius: 13px;
+}
+
+.card__number {
+    width: 300px;
+    font-size: 30px ;
+    font-weight: 700;
+}

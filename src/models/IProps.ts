@@ -22,3 +22,6 @@ export interface IPropsCartItem {
 	count: number;
 	discount: number;
 }
+export interface IPropsCardImage {
+	cardValue: string;
+}
