@@ -1,0 +1,39 @@
+.order-tabs {
+    display: flex;
+    gap: 150px;
+    margin-left: 220px;
+    position: relative;
+}
+
+.order-tabs__item {
+    font-weight: 700;
+    color: #afafaf;
+    cursor: pointer;
+}
+
+.order-tabs__item:not(:nth-child(3n + 3))::after {
+    content: '';
+    height: 2px;
+    width: 100px;
+    position: absolute;
+    background-color: #e3e3e3;
+    top: 50%;
+    transform: translateX(25px);
+}
+
+.order-tabs__icon {
+    background-color: #afafaf;
+    color: #fff;
+    border-radius: 50%;
+    font-size: 18px;
+    padding: 8px 14px;
+    margin-right: 5px;
+}
+
+.order-tab-active {
+    color: #001a34;
+}
+
+.order-icon-active {
+    background-color: #0156FF;
+}

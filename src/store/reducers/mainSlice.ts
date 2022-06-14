@@ -4,6 +4,7 @@ import {ICartAction, IProduct, IProductsState} from "../../models/interfaces";
 
 const initialState: IProductsState = {
 	search: '',
+	currentOrderTab: 1,
 	sorting: {
 		limit: 20,
 		currentPage: 1,
@@ -16,7 +17,8 @@ const initialState: IProductsState = {
 	},
 	cart: {
 		cartProducts: [],
-	}
+	},
+
 };
 
 export const mainSlice = createSlice({
@@ -69,6 +71,9 @@ export const mainSlice = createSlice({
 					}
 				);
 			},
+			setCurrentOrderTab(state, action: PayloadAction<number>) {
+				state.currentOrderTab = action.payload
+			}
 		}
 	})
 ;

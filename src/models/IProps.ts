@@ -1,3 +1,4 @@
+import {IProduct} from "./interfaces";
 
 export interface IContextOptionPanel {
 	visible?: number;
@@ -7,6 +8,10 @@ export interface IContextOptionPanel {
 
 export interface IPropsDropDown {
 	dropDownOptions: string[] | number[];
+}
+
+export interface IPropsCalculator {
+	cartProducts: IProduct[];
 }
 
 export interface IPropsCartItem {

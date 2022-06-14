@@ -29,6 +29,7 @@
     color: black;
     cursor: pointer;
     font-size: 14px;
+    width: 150px;
 }
 .header__cart_sum {
     background-color: #ea1111;
@@ -39,7 +40,6 @@
 }
 .header__logo {
     display: flex;
-    justify-content: space-between;
     align-items: center;
     gap: 10px;
 }

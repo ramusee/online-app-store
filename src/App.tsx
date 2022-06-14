@@ -13,11 +13,11 @@ const App: FC = () => {
 				<Route path="/" element={<Layout/>}>
 					<Route index element={<Home/>}/>
 					<Route path="cart" element={<Cart/>}/>
-					<Route path="order" element={<Order/>}/>
 				</Route>
+				<Route path="order" element={<Order/>}/>
 			</Routes>
 		</div>
 	);
-}
+};
 
 export default App;

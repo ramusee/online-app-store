@@ -16,6 +16,7 @@
     flex-direction: column;
     gap: 10px;
     font-size: 14px;
+    max-width: 600px;
 }
 
 .product__image-container {
@@ -47,13 +48,14 @@
     display: flex;
     flex-direction: column;
     gap: 10px;
-    min-width: 180px;
+    min-width: 210px;
 }
 
 .product__price-container {
     display: flex;
     justify-content: space-between;
-    gap: 5px;
+    gap: 8px;
+    white-space: nowrap;
 }
 
 .product__price {

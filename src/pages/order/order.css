@@ -1,0 +1,13 @@
+/* user form */
+
+.order__header {
+    display: flex;
+    align-items: center;
+    height: 80px;
+}
+
+.order__title {
+    margin: 25px 0;
+    text-align: center;
+    font-size: 25px;
+}

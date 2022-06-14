@@ -14,6 +14,7 @@ export interface IProduct {
 }
 export interface IProductsState {
 	search: string;
+	currentOrderTab: number;
 	sorting: {
 		limit: number;
 		currentPage: number;
@@ -26,7 +27,7 @@ export interface IProductsState {
 	};
 	cart: {
 		cartProducts: IProduct[];
-	}
+	};
 }
 export interface ICartAction {
 	id: number;
@@ -40,6 +41,12 @@ export interface IQueryArgs {
 	order?: string;
 	category: string;
 	brands: string[];
+}
+export interface IUserState {
+	firstName: string,
+	lastName: string,
+	telNumber: number | null,
+	email: string,
 }
 
 export interface ICategoryRu {

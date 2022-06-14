@@ -36,11 +36,11 @@ const CartItem: FC<IPropsCartItem> = ({
 			</div>
 			<div className="item__right-container">
 				<div className="product__price-container">
-					<span className="product__price">{priceAllWithDiscount} ₽</span>
-					{!!discount && <span className="product__price_prev">{priceAllPrev} ₽</span>}
+					<span className="product__price">{priceAllWithDiscount.toLocaleString()} ₽</span>
+					{!!discount && <span className="product__price_prev">{priceAllPrev.toLocaleString()} ₽</span>}
 					{!!discount && <span className="product__discount">−{discount}%</span>}
 				</div>
-				{!!discount && <span className="cart__discount-rub">Скидка {discountInRub}₽</span>}
+				{!!discount && <span className="cart__discount-rub">Скидка {discountInRub.toLocaleString()}₽</span>}
 				{<CountChanger id={id}/>}
 			</div>
 

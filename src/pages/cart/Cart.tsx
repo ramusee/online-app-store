@@ -3,7 +3,7 @@ import {useAppDispatch, useAppSelector} from "../../store/hooks/hooks";
 import CartItem from "../../components/cartComponents/cartItem/CartItem";
 import './cart.css';
 import {mainSlice} from "../../store/reducers/mainSlice";
-import Payment from "../../components/cartComponents/payment/Payment";
+import CartCalculator from "../../components/cartComponents/cartCalculator/CartCalculator";
 
 const Cart: FC = () => {
 	const {cartProducts} = useAppSelector(state => state.mainReducer.cart);
@@ -25,7 +25,7 @@ const Cart: FC = () => {
 														 count={product.count}
 				  />)}
 			  </ul>
-			  <Payment cartProducts={cartProducts}/>
+			  <CartCalculator cartProducts={cartProducts}/>
 			</div>
 			}
 			{!cartProducts.length && <div className="cart__empty">

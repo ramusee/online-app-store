@@ -10,7 +10,6 @@ const brandItems = [
 	'IRBIS', 'KIVI', 'Lenovo', 'MSI', 'Poco', 'Realme', 'Samsung',
 	'Skyworth', 'Tecno', 'Vivo', 'Xiaomi', 'ZTE'
 ];
-let brandListClasses = ['filter__list'];
 
 const BrandsFilter: FC = () => {
 	const [isActive, setIsActive] = useState(false);
@@ -18,9 +17,6 @@ const BrandsFilter: FC = () => {
 	const {changeBrands} = mainSlice.actions;
 	const dispatch = useAppDispatch();
 
-	isActive
-		? brandListClasses.push('active-option')
-		: brandListClasses = brandListClasses.filter(item => item !== 'active-option');
 	return (
 		<form className="filters__brands">
 			<button type="button"
@@ -29,7 +25,7 @@ const BrandsFilter: FC = () => {
 			>
 				Бренды
 			</button>
-			<div className={brandListClasses.join(' ')}>
+			<div className={isActive ? "filter__list active-option" : "filter__list"}>
 				{brandItems.map(brand => (
 					<label key={brand} className="filter__item">
 						<input type="checkbox"
@@ -42,7 +38,6 @@ const BrandsFilter: FC = () => {
 					</label>
 				))}
 			</div>
-
 		</form>
 	);
 };
