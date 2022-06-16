@@ -23,5 +23,8 @@ export interface IPropsCartItem {
 	discount: number;
 }
 export interface IPropsCardImage {
+	cardHolder: string;
 	cardValue: string;
+	cardExpirationMonth: string;
+	cardExpirationYear: string;
 }

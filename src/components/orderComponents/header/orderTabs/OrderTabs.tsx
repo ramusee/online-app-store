@@ -22,7 +22,7 @@ const OrderTabs: FC = () => {
 			>
 				<span
 					className={currentOrderTab === 2 ? "order-tabs__icon order-icon-active" : "order-tabs__icon"}>2</span>
-				Оплата
+				Карта
 			</div>
 			<div className={currentOrderTab === 3 ? "order-tabs__item order-tab-active" : "order-tabs__item"}
 				 onClick={() => dispatch(setCurrentOrderTab(3))}

@@ -12,6 +12,7 @@ export interface IProduct {
 	isChoise?: boolean;
 	count: number;
 }
+
 export interface IProductsState {
 	search: string;
 	currentOrderTab: number;
@@ -29,10 +30,12 @@ export interface IProductsState {
 		cartProducts: IProduct[];
 	};
 }
+
 export interface ICartAction {
 	id: number;
 	newCount: number;
 }
+
 export interface IQueryArgs {
 	search?: string;
 	limit?: number;
@@ -42,16 +45,33 @@ export interface IQueryArgs {
 	category: string;
 	brands: string[];
 }
+
 export interface IUserState {
-	firstName: string,
-	lastName: string,
-	telNumber: number | null,
-	email: string,
+	userData: IUserData;
+	card: IUserCardState;
+}
+
+export interface IUserData {
+	firstName: string;
+	lastName: string;
+	telNumber: number | null;
+	email: string;
+}
+
+export interface IUserCardState {
+	number: number | null;
+	holder: string;
+	expiration: {
+		month: number | null;
+		year: number | null;
+	};
+	cvv: number | null;
 }
 
 export interface ICategoryRu {
 	[key: string]: string;
 }
+
 export interface ISortItemsRu {
 	[key: string]: string;
 }

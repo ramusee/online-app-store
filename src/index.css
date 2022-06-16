@@ -1,38 +1,52 @@
 html {
-    overflow-x: hidden;
-    margin-right: calc(-1 * (100vw - 100%));
+	overflow-x: hidden;
+	margin-right: calc(-1 * (100vw - 100%));
 }
+
 body {
-    margin: 0;
-    font-family: "Roboto", sans-serif;
-    -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
+	margin: 0;
+	font-family: "Roboto", sans-serif;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
 }
 
 
 code {
-    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+	font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+	monospace;
 }
 
 *, *:after, *:before {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
 }
+
 a {
-    text-decoration: none;
-    color: black;
+	text-decoration: none;
+	color: black;
 }
+
 li {
-    list-style-type: none;
+	list-style-type: none;
 }
+
 button {
-    background: none;
-    border: none;
+	background: none;
+	border: none;
 }
+
 svg path {
-    fill:inherit;
-    stroke:inherit;
-    stroke-width:inherit;
+	fill: inherit;
+	stroke: inherit;
+	stroke-width: inherit;
+}
+
+input[type='number'] {
+	-moz-appearance:textfield;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+	-webkit-appearance: none;
 }

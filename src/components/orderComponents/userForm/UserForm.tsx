@@ -1,8 +1,8 @@
 import React, {FC} from 'react';
 import {useForm} from "react-hook-form";
 import {userSlice} from "../../../store/reducers/userSlice";
-import {useAppDispatch} from "../../../store/hooks/hooks";
-import {IUserState} from "../../../models/interfaces";
+import {useAppDispatch, useAppSelector} from "../../../store/hooks/hooks";
+import {IUserData, IUserState} from "../../../models/interfaces";
 import {mainSlice} from "../../../store/reducers/mainSlice";
 import "./userForm.css"
 import {upperLetter} from "../../../helpers/upperLetter";
@@ -23,9 +23,8 @@ const UserForm: FC = () => {
 	const dispatch = useAppDispatch()
 
 
-	const onSubmit = handleSubmit(data => {
-		reset();
-		const userData:IUserState = {
+	const onSubmit = handleSubmit((data) => {
+		const userData:IUserData = {
 			firstName: upperLetter(data.firstName),
 			lastName: upperLetter(data.lastName),
 			telNumber: data.telNumber,
@@ -33,6 +32,7 @@ const UserForm: FC = () => {
 		}
 		dispatch(setUserData(userData))
 		dispatch(setCurrentOrderTab(2))
+		reset();
 	});
 	return (
 		<form className="order-form" onSubmit={onSubmit}>
@@ -68,7 +68,7 @@ const UserForm: FC = () => {
 			<label className="order-form__label">
 				Номер телефона: +7...
 				<input className="order-form__input"
-					   type="tel"
+					   type="number"
 					   autoComplete={"off"}
 					   {...register("telNumber", {
 						   required: "Поле обязательно для заполнения",
@@ -84,7 +84,6 @@ const UserForm: FC = () => {
 							   value: 10,
 							   message: "Введите 10 цифр"
 						   },
-						   value: 10
 					   })}
 				/>
 				{errors?.telNumber && <p className="order-form__error">{errors?.telNumber?.message || 'Ошибка'}</p>}
