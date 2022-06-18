@@ -1,4 +1,4 @@
-import {IProduct} from "./interfaces";
+import {IDelivery, IProduct} from "./interfaces";
 
 export interface IContextOptionPanel {
 	visible?: number;
@@ -27,4 +27,12 @@ export interface IPropsCardImage {
 	cardValue: string;
 	cardExpirationMonth: string;
 	cardExpirationYear: string;
+}
+export interface IPropsTotal {
+	firstName?: string;
+	lastName?: string;
+	email?: string;
+	telNumber?: number | null;
+	cardNumber?: string;
+	delivery?: IDelivery;
 }

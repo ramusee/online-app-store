@@ -31,7 +31,8 @@ const ProductList: FC = () => {
 					{isLoading && <h2 className="product-list__message">Загрузка...</h2>}
 					{error && <h2 className="product-list__message">Не удалось загрузить товары</h2>}
 					{!products?.length && !isLoading && <h2 className="product-list__message">Не найдено</h2>}
-					{products?.length && !error && <ul className="product-list">{products?.map(item => (
+					{products?.length && !error && !isLoading && <ul className="product-list">
+						{products?.map(item => (
 						<ProductItem item={item}
 									 key={item.id}
 									 id={item.id}

@@ -4,6 +4,7 @@ import './dropDown.css';
 import {IPropsDropDown} from "../../../../models/IProps";
 import {useAppDispatch, useAppSelector} from "../../../../store/hooks/hooks";
 import {mainSlice} from "../../../../store/reducers/mainSlice";
+import useOnclickOutside from "react-cool-onclickoutside";
 
 let dropDownContentClasses = ['dropdown__content'];
 let optionClasses = ['dropdown__item'];
@@ -13,7 +14,9 @@ const DropDown: FC<IPropsDropDown> = ({dropDownOptions}) => {
 	const {limit, sort} = useAppSelector(state => state.mainReducer.sorting)
 	const {setSort, setLimit, setCurrentPage, setOrder} = mainSlice.actions;
 	const dispatch = useAppDispatch()
-
+	const ref = useOnclickOutside(() => {
+		setIsActive(false);
+	});
 	const isSort = dropDownOptions.length < 4;
 	const optionValue = isSort ? sortOptionsRu[sort || 'discount'] : limit;
 
@@ -52,10 +55,13 @@ const DropDown: FC<IPropsDropDown> = ({dropDownOptions}) => {
 
 	return (
 		<div className="sort-panel__dropdown">
-			<button onClick={() => setIsActive(!isActive)} className={isActive ? "option__current rotate" : "option__current"}>
+			<button onClick={() => setIsActive(!isActive)}
+					className={isActive ? "option__current rotate" : "option__current"}>
 				{!isSort ? `Отобразить: ${optionValue}` : optionValue}
 			</button>
-			<div className={dropDownContentClasses.join(' ')}>
+			<div className={dropDownContentClasses.join(' ')}
+				 ref={ref}
+			>
 				{itemsElem}
 			</div>
 		</div>

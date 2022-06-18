@@ -1,0 +1,10 @@
+.total {
+	display: flex;
+	justify-content: space-between;
+}
+.total__user {
+	display: flex;
+	flex-direction: column;
+	gap: 20px;
+	width: 100%;
+}

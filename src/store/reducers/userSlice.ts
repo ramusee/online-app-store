@@ -1,5 +1,5 @@
 import {createSlice, PayloadAction} from "@reduxjs/toolkit";
-import {IUserCardState, IUserData, IUserState} from "../../models/interfaces";
+import {IDelivery, IUserCardState, IUserData, IUserState} from "../../models/interfaces";
 
 const initialState: IUserState = {
 	userData: {
@@ -16,6 +16,11 @@ const initialState: IUserState = {
 			year: null,
 		},
 		cvv: null,
+	},
+	delivery: {
+		country: '',
+		city: '',
+		address: '',
 	}
 };
 
@@ -36,11 +41,29 @@ export const userSlice = createSlice({
 			state.card.expiration.month = action.payload.expiration.month;
 			state.card.expiration.year = action.payload.expiration.year;
 		},
+		setUserAddress: (state, action: PayloadAction<IDelivery>) => {
+			state.delivery.country = action.payload.country;
+			state.delivery.city = action.payload.city;
+			state.delivery.address = action.payload.address;
+		},
 		setDefaultUserData: (state) => {
 			state.userData.firstName = '';
 			state.userData.lastName = '';
 			state.userData.telNumber = null;
 			state.userData.email = '';
+		},
+		setDefaultCard: (state) => {
+			state.card.number = null;
+			state.card.holder = '';
+			state.card.cvv = null;
+			state.card.expiration.month = null;
+			state.card.expiration.year = null;
+
+		},
+		setDefaultAddress: (state) => {
+			state.delivery.address = '';
+			state.delivery.city = '';
+			state.delivery.country = '';
 		}
 	}
 });

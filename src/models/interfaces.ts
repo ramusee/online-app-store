@@ -49,6 +49,12 @@ export interface IQueryArgs {
 export interface IUserState {
 	userData: IUserData;
 	card: IUserCardState;
+	delivery: IDelivery;
+}
+export interface IDelivery {
+	country: string;
+	city: string;
+	address: string;
 }
 
 export interface IUserData {

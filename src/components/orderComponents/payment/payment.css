@@ -25,9 +25,9 @@
 }
 .payment-form__input {
     width: 100%;
-    font-size: 19px;
+    font-size: 17px;
     padding: 7px;
-    border: 2px solid #e3e3e3;
+    border: 1px solid #afafaf;
     border-radius: 6px;
 }
 .payment-form__error {

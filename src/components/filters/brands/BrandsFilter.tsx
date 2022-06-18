@@ -2,7 +2,7 @@ import React, {FC, useState} from 'react';
 import './brandsFilter.css';
 import {mainSlice} from "../../../store/reducers/mainSlice";
 import {useAppDispatch, useAppSelector} from "../../../store/hooks/hooks";
-
+import useOnclickOutside from "react-cool-onclickoutside";
 
 const brandItems = [
 	'Acer', 'Amazfit', 'Asus', 'Canon', 'Dell', 'Echips',
@@ -17,15 +17,20 @@ const BrandsFilter: FC = () => {
 	const {changeBrands} = mainSlice.actions;
 	const dispatch = useAppDispatch();
 
+	const ref = useOnclickOutside(() => {
+		setIsActive(false);
+	});
+
 	return (
 		<form className="filters__brands">
-			<button type="button"
+			<button
+					type="button"
 					className={isActive ? "option__current rotate" : "option__current"}
 					onClick={() => setIsActive(!isActive)}
 			>
 				Бренды
 			</button>
-			<div className={isActive ? "filter__list active-option" : "filter__list"}>
+			<div ref={ref} className={isActive ? "filter__list active-option" : "filter__list"}>
 				{brandItems.map(brand => (
 					<label key={brand} className="filter__item">
 						<input type="checkbox"

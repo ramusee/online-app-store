@@ -5,9 +5,7 @@ import './home.css'
 const Home: FC = () => {
 	return (
 		<section className="home">
-			<div>
 				<ProductList />
-			</div>
 		</section>
 	);
 };

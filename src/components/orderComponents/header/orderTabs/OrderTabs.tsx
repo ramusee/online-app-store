@@ -29,7 +29,7 @@ const OrderTabs: FC = () => {
 			>
 				<span
 					className={currentOrderTab === 3 ? "order-tabs__icon order-icon-active" : "order-tabs__icon"}>3</span>
-				Доставка
+				Доставка и заказ
 			</div>
 		</div>
 	);

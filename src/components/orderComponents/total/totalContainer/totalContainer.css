@@ -1,0 +1,34 @@
+.total-container {
+	display: flex;
+	flex-direction: column;
+	padding: 20px;
+	border: 1px solid #e3e3e3;
+	border-radius: 10px;
+	gap: 10px;
+}
+
+.total-container__header {
+	display: flex;
+	justify-content: space-between;
+}
+
+.total-container__title {
+	font-size: 21px;
+	font-weight: 700;
+}
+
+.total-container__content {
+
+}
+
+.total-container__small-text {
+	font-size: 13px;
+	color: #797979;
+}
+
+.total-container__btn {
+	font-size: 17px;
+	font-weight: 700;
+	color: #0156FF;
+	cursor: pointer;
+}

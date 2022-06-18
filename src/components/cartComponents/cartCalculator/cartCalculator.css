@@ -4,10 +4,11 @@
 	justify-content: space-between;
 	border: 1px solid #e3e3e3;
 	padding: 20px;
-	border-radius: 6px;
+	border-radius: 10px;
 	flex-grow: 1;
 	margin-left: 20px;
 	height: 350px;
+	min-width: 400px;
 }
 
 .calc__btn {

@@ -16,7 +16,12 @@
     margin-bottom: 10px;
     transition: .2s ease-out;
 }
-
+.cart__change-data-btn{
+    color: #0156FF;
+    font-size: 20px;
+    font-weight: 500;
+    margin-left: 30px;
+}
 .cart__title {
     margin: 40px 0;
 }
@@ -24,7 +29,7 @@
 .cart__list {
     border: 1px solid #e3e3e3;
     width: 1000px;
-    border-radius: 6px;
+    border-radius: 10px;
     height: fit-content;
 }
 

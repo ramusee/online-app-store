@@ -3,6 +3,7 @@ import {categoryRu} from "../../../helpers/RuHelpers/RuObjects";
 import {useAppDispatch, useAppSelector} from "../../../store/hooks/hooks";
 import {mainSlice} from "../../../store/reducers/mainSlice";
 import './categoryFilter.css'
+import useOnclickOutside from "react-cool-onclickoutside";
 
 const categoryItems = ['all', 'Laptop', 'Smartphone', 'TV', 'Monoblock', 'Printer', 'SmartWatch', 'Tablet'];
 
@@ -14,7 +15,9 @@ const CategoryFilter: FC = () => {
 	const {filters} = useAppSelector(state => state.mainReducer);
 	const {setCategory} = mainSlice.actions;
 	const dispatch = useAppDispatch();
-
+	const ref = useOnclickOutside(() => {
+		setIsActive(false);
+	});
 	const currentCategory = filters.category;
 
 	isActive
@@ -28,7 +31,9 @@ const CategoryFilter: FC = () => {
 			>
 				Категория: {categoryRu[currentCategory]}
 			</button>
-			<ul className={categoryClasses.join(' ')}>
+			<ul className={categoryClasses.join(' ')}
+				ref={ref}
+			>
 				{categoryItems.map(item => {
 						currentCategory === item
 							? categoryItemClasses.push('current-option')

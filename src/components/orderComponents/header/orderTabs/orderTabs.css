@@ -9,6 +9,7 @@
     font-weight: 700;
     color: #afafaf;
     cursor: pointer;
+    white-space: nowrap;
 }
 
 .order-tabs__item:not(:nth-child(3n + 3))::after {
