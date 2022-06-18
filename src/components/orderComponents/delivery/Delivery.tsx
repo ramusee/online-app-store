@@ -92,8 +92,8 @@ const Delivery: FC = () => {
 				</form>
 			</div>}
 			{userData.firstName && card.number && delivery.address && <Total/>}
-			{!userData.firstName && <h1 className="order__title">Заполните данные о себе на шаге 1</h1>}
-			{!card.number && <h1 className="order__title">Заполните данные карты на шаге 2</h1>}
+			{!userData.firstName && delivery.address && <h1 className="order__title">Заполните данные о себе на шаге 1</h1>}
+			{!card.number && delivery.address && <h1 className="order__title">Заполните данные карты на шаге 2</h1>}
 		</>
 	);
 };

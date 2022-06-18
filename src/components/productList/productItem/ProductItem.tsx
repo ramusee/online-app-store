@@ -67,7 +67,7 @@ const ProductItem: FC<IProduct> = ({
 				<div className="product__price-container">
 					<span className="product__price">{priceWithDiscount.toLocaleString()} ₽</span>
 					{!!discount && <span className="product__price_prev">
-					{Math.round(price).toLocaleString()} ₽</span>}
+					{Math.round(price).toLocaleString()	} ₽</span>}
 					{!!discount && <span className="product__discount">−{discount}%</span>}
 				</div>
 				{!isInCart && <button className="blue-btn"

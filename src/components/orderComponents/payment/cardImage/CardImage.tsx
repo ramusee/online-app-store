@@ -2,6 +2,8 @@ import React, {FC} from 'react';
 import {IPropsCardImage} from "../../../../models/IProps";
 import "./cardImage.css";
 import mirIcon from "../../../../images/mir.png";
+import visaIcon from "../../../../images/visa_icon.png"
+import masterCardIcon from "../../../../images/mastercard_icon.png"
 
 const CardImage: FC<IPropsCardImage> = ({
 											cardValue,
@@ -15,10 +17,10 @@ const CardImage: FC<IPropsCardImage> = ({
 				 src="https://raw.githubusercontent.com/muhammederdem/credit-card-form/master/src/assets/images/chip.png"
 				 alt="chip"/>
 			{cardValue.startsWith('5') && <img className="card__pay-system-icon"
-											   src="https://cdn.icon-icons.com/icons2/2342/PNG/512/mastercard_payment_method_icon_142750.png"
+											   src={masterCardIcon}
 											   alt="mastercard"/>}
 			{cardValue.startsWith('4') && <img className="card__pay-system-icon"
-											   src="https://cdn.icon-icons.com/icons2/2341/PNG/512/visa_payment_method_card_icon_142729.png"
+											   src={visaIcon}
 											   alt="visa"/>}
 			{cardValue.startsWith('2') && <img className="card__pay-system-icon"
 											   src={mirIcon} alt="visa"/>}

@@ -56,6 +56,7 @@ const DropDown: FC<IPropsDropDown> = ({dropDownOptions}) => {
 	return (
 		<div className="sort-panel__dropdown">
 			<button onClick={() => setIsActive(!isActive)}
+					ref={ref}
 					className={isActive ? "option__current rotate" : "option__current"}>
 				{!isSort ? `Отобразить: ${optionValue}` : optionValue}
 			</button>

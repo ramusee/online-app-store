@@ -106,6 +106,7 @@ const UserForm: FC = () => {
 			<input className="order-form__submit"
 				   type="submit"
 				   disabled={!isValid}
+				   value="Сохранить"
 			/>
 		</form>
 	);

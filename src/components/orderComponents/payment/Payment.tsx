@@ -12,7 +12,7 @@ const Payment: FC = () => {
 	const [cardHolder, setCardHolder] = useState('');
 	const [cardExpirationMonth, setCardExpirationMonth] = useState('');
 	const [cardExpirationYear, setCardExpirationYear] = useState('');
-	const {setCurrentOrderTab} = mainSlice.actions
+	const {setCurrentOrderTab} = mainSlice.actions;
 	const {setUserCard} = userSlice.actions;
 	const dispatch = useAppDispatch();
 
@@ -49,7 +49,7 @@ const Payment: FC = () => {
 			cvv: +data.cardCVV
 		};
 		dispatch(setUserCard(cardData));
-		dispatch(setCurrentOrderTab(3))
+		dispatch(setCurrentOrderTab(3));
 		reset();
 	});
 	return (
@@ -169,7 +169,11 @@ const Payment: FC = () => {
 							<p className="payment-form__error">{errors?.cardCVV?.message || 'Ошибка'}</p>}
 					</label>
 				</div>
-				<input className="order-form__submit" type="submit" disabled={!isValid}/>
+				<input className="order-form__submit"
+					   type="submit"
+					   disabled={!isValid}
+					   value="Сохранить"
+				/>
 			</form>
 		</div>
 	);

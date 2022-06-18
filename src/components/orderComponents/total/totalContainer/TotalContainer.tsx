@@ -52,7 +52,7 @@ const TotalContainer: FC<IPropsTotal> = ({
 				</span>
 			{!cardNumber && <span className="total-container__small-text">
 				{telNumber && `${email}, +7${telNumber}`}
-				{delivery?.address && 'Доставка в течение 7 дней, с 8 до 18:00, без выходных'}
+				{delivery?.address && 'Доставка в течение 7 дней, с 8:00 до 18:00, без выходных'}
 			</span>}
 		</div>
 	);

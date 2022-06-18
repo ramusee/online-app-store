@@ -27,6 +27,7 @@ const CategoryFilter: FC = () => {
 	return (
 		<div className="filters__category">
 			<button className={isActive ? "option__current rotate" : "option__current"}
+					ref={ref}
 					onClick={() => setIsActive(!isActive)}
 			>
 				Категория: {categoryRu[currentCategory]}

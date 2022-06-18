@@ -6,7 +6,7 @@ import { useAppSelector} from "../../../store/hooks/hooks";
 import Modal from "../../modal/Modal";
 
 const CartCalculator: FC<IPropsCalculator> = ({cartProducts}) => {
-	const [modalActive, setModalActive] = useState(true)
+	const [modalActive, setModalActive] = useState(false)
 	const {userData, card, delivery} = useAppSelector(state => state.userReducer);
 	const isFullData = userData.firstName && card.number && delivery.address;
 	let sumPrice = 0;
@@ -42,7 +42,7 @@ const CartCalculator: FC<IPropsCalculator> = ({cartProducts}) => {
 				<span className="calc__all-price">{sumPriceDiscount.toLocaleString()} ₽</span>
 			</div>
 			<Modal active={modalActive} setActive={setModalActive}>
-				<h2> Вы оплатили заказ! 💳 </h2>
+				<h1 className="finish-title"> {'Вы оплатили заказ 💳 \n Благодарим за покупку!'}</h1>
 			</Modal>
 		</section>
 	);

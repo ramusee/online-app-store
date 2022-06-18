@@ -18,7 +18,7 @@ const OrderHeader = () => {
 					  }}
 				>
 					<img className="logo__image" src={logoIcon} alt="logo icon"/>
-					<span className="logo__text">TechStore</span>
+					<span className="logo__text">MediaSoft</span>
 				</Link>
 			<OrderTabs/>
 		</header>
