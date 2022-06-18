@@ -1,11 +1,5 @@
 import {IDelivery, IProduct} from "./interfaces";
 
-export interface IContextOptionPanel {
-	visible?: number;
-	order: string;
-	setOrder: (order: string) => void;
-}
-
 export interface IPropsDropDown {
 	dropDownOptions: string[] | number[];
 }
