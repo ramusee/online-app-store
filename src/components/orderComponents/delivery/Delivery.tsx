@@ -87,6 +87,7 @@ const Delivery: FC = () => {
 					</label>
 					<input type="submit"
 						   className="order-form__submit"
+						   value="Сохранить"
 						   disabled={!isValid}
 					/>
 				</form>
